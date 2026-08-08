@@ -2,8 +2,9 @@
 article_id: CUB-10-F
 title: "Mengendalikan Perubahan Scope dan Biaya Proyek Cubicle"
 slug: "perubahan-scope-dan-biaya-cubicle"
-description: "Record trigger, changed drawing/quantity, technical consequence, price basis, schedule effect, approval, and as-built update"
-status: outline
+description: "Panduan mencatat pemicu perubahan, gambar dan kuantitas yang berubah, dampak teknis, dasar harga, jadwal, persetujuan, serta pembaruan as-built."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-30"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,23 @@ final_route: "/artikel/perubahan-scope-dan-biaya-cubicle.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
+  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
-  - "https://peraturan.bpk.go.id/Details/37637/uu"
-  - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
-  - "https://www.bobrick.com/resource-center-2/guide-specifications/"
   - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
+  - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Mengendalikan Perubahan Scope dan Biaya Proyek Cubicle
 
-## Assignment lock
+Halo, Teman Cubicle.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Mengendalikan Perubahan Scope dan Biaya Proyek Cubicle”
-- **Reader and situation:** Project manager facing design/site changes
-- **Reader outcome:** Record trigger, changed drawing/quantity, technical consequence, price basis, schedule effect, approval, and as-built update
-- **Primary intent:** Manage variations
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Teman Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Kawan Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not authorize work without project governance; CUB-02-F owns design approval and CUB-15-D owns delivery records
-- **Final public route:** `/artikel/perubahan-scope-dan-biaya-cubicle.html`
-- **Appointed CMS date:** `2026-03-30` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Perubahan ukuran ruang, posisi pintu, atau jumlah panel sering masuk lewat pesan singkat: “Bisa tambah dua bilik? Harganya berapa?” Menjawab dengan angka sebelum perubahan dicatat membuat scope lama dan scope baru bercampur. Akibatnya, pekerjaan bisa dimulai tanpa gambar yang disetujui, biaya tambahan sulit ditelusuri, dan jadwal bergeser tanpa keputusan yang jelas.
 
-## Opening instructions
+Jawaban praktisnya: bekukan dulu pemicu perubahan, gambar dan kuantitas yang berubah, dampak teknis, dasar harga, efek jadwal, serta pihak yang menyetujui. Setelah pekerjaan selesai, cocokkan kondisi terpasang dengan rekaman as-built. Angka atau keputusan spesifik tetap bergantung pada survei lokasi, desain, kontrak, dan persetujuan profesional proyek; artikel ini tidak mengizinkan pekerjaan berjalan tanpa tata kelola tersebut. Kerangka bangunan nasional menempatkan perubahan, penggunaan, pemeliharaan, keselamatan, kesehatan, kenyamanan, dan dokumentasi sebagai hal yang perlu dikelola, bukan sekadar urusan produk ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)).
 
-- Open with the exact short salutation: **“Halo, Teman Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mengendalikan Perubahan Scope dan Biaya Proyek Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.id`, `Sobat Cubicle.id`, or `Kawan Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -68,138 +43,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Ilustrasi umum dari aset lokal cubicle.id; bukan dokumentasi proyek tertentu.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
-
-### KR-21
-
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
-
-### KR-18
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-10-D` → `/artikel/biaya-siklus-hidup-cubicle.html` — Harga Awal vs Biaya Siklus Hidup Cubicle
-- `CUB-10-E` → `/artikel/garansi-spare-part-layanan-purnajual-cubicle.html` — Garansi, Spare Part, dan Layanan Purnajual Cubicle
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
 ## Definisikan kebutuhan sebelum meminta harga
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Mengendalikan Perubahan Scope dan Biaya Proyek Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum membandingkan penawaran, pastikan semua orang membicarakan objek yang sama. Bagian ini mencegah asumsi bahwa “tambah satu cubicle” hanya berarti menambah satu lembar panel, padahal dapat menyentuh pintu, rangka, lantai, plafon, utilitas, akses, dan pekerjaan bongkar. Pengelolaan keselamatan konstruksi dan koordinasi pihak terkait juga perlu mengikuti ketentuan proyek yang berlaku, bukan ditetapkan dari artikel ini ([Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021)).
+
+Mulailah dengan lembar perubahan (variation log) bernomor. Tulis tanggal, pengusul, lokasi, dan pemicu: revisi gambar, kondisi lapangan, permintaan pengguna, atau temuan koordinasi. Lampirkan revisi gambar dengan penanda awan (cloud) dan catat nomor revisinya. Jangan menghapus gambar sebelumnya; jejak versi diperlukan untuk menjelaskan mengapa kuantitas berubah.
+
+Berikutnya, buat tabel “sebelum–sesudah”: panjang dan jumlah modul, tipe pintu, material, warna, aksesori, titik sambungan, serta item yang tetap. Sertakan hasil ukur lapangan yang benar-benar tersedia. Denah saja tidak mengungkap posisi struktur, ruang plafon, sambungan gerak, layanan tersembunyi, sprinkler atau detektor, jalur listrik/data, drainase, dan kapasitas substrat. Konsep antarmuka nonstruktural seperti ini juga ditekankan dalam panduan FEMA; gunakan sebagai pengingat untuk survei, bukan sebagai ukuran universal ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
+
+Tuliskan konsekuensi teknis sebagai pertanyaan yang harus dijawab: apakah rangka perlu dukungan baru, apakah pintu mengubah arah bukaan atau akses, apakah utilitas harus dipindah, dan apakah pekerjaan lama harus dibongkar. Jika data belum ada, beri tanda `[NEEDS SITE SURVEY]` atau `[NEEDS DESIGN APPROVAL]`. Tanda ini lebih aman daripada mengisi ukuran atau metode dengan tebakan.
 
 ## Buat penawaran benar-benar sebanding
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Mengendalikan Perubahan Scope dan Biaya Proyek Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Harga baru bermakna hanya jika basisnya sama. Jembatannya adalah memecah penawaran menjadi komponen yang dapat diperiksa, sehingga selisih bukan sekadar perbedaan angka lump sum.
+
+Minta setiap penyedia menyatakan sistem dan konfigurasi, dimensi, material dan kelasnya, rangka atau penyangga, panel, pintu dan perangkat keras, lapisan akhir, serta pekerjaan pembongkaran dan pembuangan. Tambahkan akses lokasi, pengangkutan, perlindungan area, alat bantu, pengukuran ulang, pemasangan, pembersihan, pengujian, dokumen serah terima, suku cadang, dan garansi sesuai kontrak. Spesifikasi teknis publik dari produsen dapat membantu menunjukkan bidang yang perlu dibandingkan, tetapi bukan izin menyalin toleransi atau metode ke sistem lain ([contoh spesifikasi Modernfold](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)).
+
+Pisahkan inklusi, eksklusi, asumsi, dan pekerjaan pihak lain. “Termasuk pemasangan” belum menjelaskan apakah penguatan substrat, relokasi sprinkler, penutupan bekas bongkar, atau kerja malam termasuk. Minta kuantitas dan satuan untuk pekerjaan tambah/kurang, lalu jelaskan dasar harga: daftar harga kontrak, harga pemasok yang dilampirkan, analisis baru, atau kesepakatan lain yang ditandatangani. Jangan menyimpulkan penawaran dengan luas sama sebagai scope sama.
+
+Catat efek waktu sebagai aktivitas, bukan kalimat “ada keterlambatan”. Tulis kebutuhan waktu untuk persetujuan, pengadaan, fabrikasi, pembongkaran, pemasangan, pengujian, dan akses ulang. Tandai aktivitas yang berada di jalur kritis menurut jadwal proyek. Dampak final harus disepakati pengendali jadwal; jangan menjanjikan tanggal dari perkiraan pemasok saja.
 
 ## Dokumen yang membuktikan hal berbeda
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Mengendalikan Perubahan Scope dan Biaya Proyek Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kebingungan sering terjadi karena semua berkas disebut “sertifikat”. Bedakan fungsi bukti agar keputusan tidak memakai dokumen yang salah.
+
+Data produk menjelaskan apa yang dibuat; gambar toko (shop drawing) menjelaskan bagaimana konfigurasi itu ditempatkan; metode kerja menjelaskan urutan dan pengendalian; laporan uji menjelaskan benda uji, metode, dan hasil pada lingkupnya; pengalaman proyek hanya menunjukkan riwayat, bukan bukti bahwa konfigurasi saat ini memenuhi kebutuhan. Sertifikat atau daftar spesifikasi juga tidak otomatis membuktikan kinerja sistem terpasang. Instruksi pemasangan pabrikan menegaskan pentingnya kondisi dan langkah sistem tertentu, sehingga substitusi atau deviasi perlu ditinjau ulang ([instruksi Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
+
+Buat matriks bukti dengan kolom: klaim yang hendak diputuskan, dokumen pendukung, penerbit/tanggal, konfigurasi yang dicakup, pemeriksa, dan status. Untuk item tersembunyi, simpan foto sebelum penutupan, titik ukur, revisi gambar, dan inspeksi. Tanpa rekaman itu, kondisi di balik panel sulit diverifikasi setelah tertutup.
 
 ## Pertanyaan wajib kepada penyedia
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Mengendalikan Perubahan Scope dan Biaya Proyek Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertanyaan ini menerjemahkan perubahan menjadi tanggung jawab yang bisa dijawab. Ajukan tertulis dan kaitkan jawabannya dengan nomor perubahan.
 
-## Red flag dan biaya yang sering tersembunyi
+- Konfigurasi dan gambar revisi mana yang menjadi dasar harga ini?
+- Bagian mana yang berubah dari kontrak awal, dan mana yang tetap?
+- Apa dampak perubahan terhadap rangka, substrat, utilitas, akses, dan pekerjaan bongkar?
+- Dokumen apa yang akan diserahkan sebelum penutupan dan saat commissioning?
+- Siapa yang mengukur ulang, menyetujui shop drawing, menguji fungsi, dan memperbarui as-built?
+- Asumsi akses, jam kerja, perlindungan, pengadaan, serta pekerjaan pihak lain apa yang dipakai?
+- Jika kondisi lapangan berbeda, bagaimana mekanisme pemberitahuan, penilaian biaya, dan persetujuannya?
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Mengendalikan Perubahan Scope dan Biaya Proyek Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Cubicle.id, jawaban lisan boleh menjadi awal klarifikasi, tetapi keputusan perubahan harus kembali ke formulir, gambar, dan persetujuan yang dapat dilacak. Ruang lingkup kewenangan CUB-02-F (persetujuan desain) dan CUB-15-D (rekaman pengiriman) tetap berada di proses masing-masing; halaman ini hanya membantu menghubungkan catatan variasi.
+
+## Tanda bahaya dan biaya yang sering tersembunyi
+
+Tanda pertama scope kabur adalah harga berubah ketika gambar, warna, atau aksesori ditanyakan. Tanda kedua adalah klaim “setara” tanpa definisi konfigurasi dan bukti. Tanda ketiga adalah jadwal hanya menyebut durasi pemasangan, tanpa waktu persetujuan, pengadaan, akses, pengujian, dan perbaikan.
+
+Biaya juga dapat muncul dari menunggu area siap, pemindahan material, perlindungan lantai, kerja di luar jam normal, pembongkaran dan pembuangan, pengukuran ulang, rework akibat utilitas bertabrakan, serta dokumen as-built. Minta setiap biaya ditautkan ke pemicu dan kuantitas; jangan menggabungkannya dalam “contingency” yang tidak dijelaskan.
+
+Jalan pintas yang sering dipilih adalah memerintahkan pekerjaan lewat chat lalu “dirapikan” di akhir. Cara ini gagal ketika kondisi tersembunyi memaksa perubahan lanjutan: tidak ada baseline untuk menghitung tambah/kurang, dan pihak yang bertanggung jawab sulit ditentukan. Alternatif yang lebih aman adalah menerbitkan permintaan perubahan, menahan pekerjaan yang terdampak, memperoleh tinjauan desain dan komersial, lalu memberi instruksi tertulis. Jika ada risiko keselamatan atau kerusakan, hentikan area terkait dan eskalasikan sesuai prosedur proyek.
 
 ## Penerimaan, serah terima, dan keputusan akhir
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Mengendalikan Perubahan Scope dan Biaya Proyek Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Penerimaan bukan pemeriksaan penampilan semata. Tetapkan siapa memeriksa dimensi dan posisi, siapa memeriksa fungsi pintu atau perangkat, siapa memverifikasi antarmuka utilitas, dan siapa menyetujui dokumen. Commissioning harus menguji fungsi yang memang diminta; prosedur pabrikan tidak boleh dipindahkan ke sistem lain tanpa persetujuan proyek.
 
-## Objection or shortcut to address
+Sebelum menutup perubahan, cocokkan daftar kuantitas terpasang dengan gambar revisi. Simpan formulir persetujuan, berita acara, foto kondisi tersembunyi, hasil inspeksi atau pengujian yang relevan, manual, daftar suku cadang, dan as-built. Jika ada deviasi, catat lokasi dan keputusan penerimaannya; jangan menghapusnya dengan menggambar ulang seolah-olah tidak pernah terjadi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Pembayaran atau penerimaan akhir hanya layak diproses setelah syarat kontrak dan pemeriksaan yang disepakati terpenuhi. PP dan peraturan jasa konstruksi memberi kerangka umum, bukan formulir kontrak atau kewajiban komersial yang otomatis berlaku untuk semua proyek ([PP No. 14 Tahun 2021](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021)). Minta peninjauan teknis, komersial, dan hukum proyek bila perubahan memengaruhi keselamatan, kepatuhan, hak pembayaran, atau garansi.
 
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya sederhana: buka satu nomor perubahan untuk kasus yang sedang berjalan, lampirkan gambar sebelum–sesudah, isi kuantitas dan dampak jadwal, lalu minta persetujuan pihak berwenang sebelum instruksi kerja. Untuk konteks umum layanan Cubicle.id, Anda dapat kembali ke [halaman utama](/) setelah berkas perubahan siap. Kawan Cubicle.id, aturan operasinya adalah “tidak ada angka tanpa basis, tidak ada pekerjaan tanpa persetujuan, dan tidak ada serah terima tanpa rekaman kondisi terpasang”.

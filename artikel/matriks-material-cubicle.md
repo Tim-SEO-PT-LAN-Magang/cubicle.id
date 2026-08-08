@@ -2,8 +2,9 @@
 article_id: CUB-06-A
 title: "Matriks Material Cubicle: Phenolic, PVC, Kayu, Kaca, dan Metal"
 slug: "matriks-material-cubicle"
-description: "Compare exact substrates/finishes by moisture, impact, fire evidence, cleaning, corrosion, repair, weight, finish, and replacement—not family labels alone"
-status: outline
+description: "Panduan membandingkan material cubicle berdasarkan kondisi basah, benturan, kebakaran, pembersihan, korosi, perbaikan, bobot, tampilan, dan penggantian."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-09"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,50 +18,15 @@ sources:
   - "https://www.iso.org/standard/72960.html"
   - "https://www.iso.org/standard/72962.html"
   - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
-  - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
   - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.iso.org/standard/83943.html"
-  - "https://store.astm.org/e0119-24.html"
   - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
   - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Matriks Material Cubicle: Phenolic, PVC, Kayu, Kaca, dan Metal
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Matriks Material Cubicle: Phenolic, PVC, Kayu, Kaca, dan Metal”
-- **Reader and situation:** Buyer choosing material under actual use conditions
-- **Reader outcome:** Compare exact substrates/finishes by moisture, impact, fire evidence, cleaning, corrosion, repair, weight, finish, and replacement—not family labels alone
-- **Primary intent:** Compare material systems
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Teman Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Kawan Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not choose the entire product system; CUB-03-A, CUB-04-A, and CUB-05-B own system requirements
-- **Final public route:** `/artikel/matriks-material-cubicle.html`
-- **Appointed CMS date:** `2025-12-09` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Matriks Material Cubicle: Phenolic, PVC, Kayu, Kaca, dan Metal**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.id`, `Sobat Cubicle.id`, or `Kawan Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -71,138 +37,81 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Teman Cubicle.id! Memilih material cubicle tidak cukup dengan menyebut “phenolic paling tahan air” atau “kaca paling mewah”. Yang menentukan adalah susunan panel, lapisan, tepi, sambungan, perangkat keras, dan cara ruang itu dipakai. Matriks ini membantu Anda membandingkan lima keluarga material berdasarkan paparan air, benturan, bukti kebakaran, pembersihan, korosi, perbaikan, bobot, tampilan, dan penggantian.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jawaban singkatnya: phenolic atau compact laminate layak dipertimbangkan untuk area basah bila grade dan detail tepinya memang untuk kondisi tersebut; PVC dapat menguntungkan saat bobot dan kemudahan olah menjadi prioritas; kayu memerlukan kendali kelembapan yang disiplin; kaca dan metal perlu perhatian khusus pada benturan, noda, korosi, serta sambungan. Tidak ada pemenang universal. Lembar data produk, detail instalasi, dan kondisi lokasi dapat mengubah keputusan.
 
-### KR-01
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
-### KR-08
+## Apa yang sebenarnya dibandingkan dalam matriks material cubicle?
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+Sebelum membandingkan nama bahan, tetapkan objeknya. Panel adalah lembar atau inti; sistem cubicle juga mencakup finishing, edging (penutup tepi), rangka, kaki, engsel, kunci, sealant, dan pengikat. Satu panel yang tahan lembap tidak otomatis membuat lubang sekrup, kaki, atau dinding di belakangnya tahan kondisi yang sama. Panduan pengendalian kelembapan EPA menekankan bahwa sumber air, pengeringan, ventilasi, dan detail sambungan ikut menentukan hasil ([EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)).
 
-### KR-15
+Karena itu, isi matriks dengan bukti untuk konfigurasi yang benar-benar ditawarkan: nama inti dan grade, ketebalan, lapisan permukaan, perlindungan tepi, jenis perangkat keras, serta instruksi pembersihan. Artikel ini membahas perbandingan material, bukan pemilihan seluruh sistem, aksesibilitas, atau persetujuan struktur dan kebakaran proyek.
 
-- **Original sources:** [US EPA Moisture Control Guidance for Building Design, Construction and Maintenance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association mold-prevention guidance](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Ground moisture-exposure classification, material storage, ventilation, edge/interface details, leak diagnosis, and repair/replace decisions.
-- **Safe grounded facts:** “Moisture resistant” is not “waterproof assembly.” Leaks, condensation, capillary contact, submerged/flood exposure, drainage, ventilation, edges, fastener holes, substrate, sealants, corrosion, and drying access can control service life and hygiene.
-- **Limits:** US/industry guidance is not an Indonesian code. Exact exposure category, replacement threshold, sealant, chemical, and drying/remediation method need site facts and product instructions; resolve `G-05`, `G-06`, and `G-11`.
+## Bagaimana karakter tiap material bekerja di lapangan?
 
-### KR-13
+Bagian ini menjelaskan mekanisme yang memengaruhi keputusan, sehingga label dagang tidak disalahartikan sebagai jaminan.
 
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
+### Phenolic, HPL, dan compact laminate: periksa grade dan tepi
 
-### KR-20
+HPL adalah laminasi bertekanan tinggi, sedangkan compact laminate merupakan lembar berinti padat. Standar ISO 4586-2 menjelaskan lingkup metode uji HPL, sementara ISO 4586-4 dan ISO 4586-6 membedakan lingkup compact laminate untuk interior dan eksterior ([ISO 4586-2](https://www.iso.org/standard/72960.html), [ISO 4586-4](https://www.iso.org/standard/72962.html), [ISO 4586-6](https://www.iso.org/standard/72964.html)). Artinya, kata “phenolic” saja belum menjawab apakah produk cocok untuk ruang basah atau semi-luar.
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+Permukaan padat biasanya mudah dilap, tetapi air dapat masuk melalui tepi terbuka, lubang, atau sambungan yang gagal. Panduan fabrikasi compact laminate memberi perhatian pada pemotongan dan detail area basah ([Formica fabrication guide](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)). Mintalah grade, detail edging, dan instruksi sealant; jangan menyamakan “tahan lembap” dengan boleh terendam.
 
-## Evidence gates
+### PVC: ringan, tetapi cek dukungan dan perilaku panas
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+PVC adalah polimer termoplastik. Bobotnya dapat membantu saat pengangkutan dan pemasangan, namun panel ringan tetap membutuhkan dukungan dan pengikat yang sesuai agar tidak melendut atau longgar. Ketahanan terhadap bahan pembersih, panas, benturan, dan perubahan warna harus dibaca dari data produk yang ditawarkan. Tanpa data itu, tandai `[NEEDS PRODUCT EVIDENCE: PVC grade, cleaning, impact, and heat limits]`.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+### Kayu: tampilan hangat bergantung pada pengendalian air
 
-## Internal-link plan
+Kayu dan panel berbasis kayu bertukar uap air dengan lingkungan. Kelembapan berulang, genangan, atau tepi yang tidak terlindung dapat memicu perubahan dimensi dan kerusakan lapisan. Pilih hanya bila sumber air, ventilasi, lapisan pelindung, dan akses pengeringan dapat dikendalikan; jika tidak, risiko perbaikan berulang meningkat.
 
-### Existing local routes
+### Kaca: permukaan mudah dibersihkan, titik lemahnya ada di tepi dan perangkat keras
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Kaca nonpori dapat memudahkan pembersihan, tetapi goresan, benturan, tepi, lubang, dan engsel tetap harus diverifikasi. Jangan menulis “aman” atau “tahan pecah” tanpa spesifikasi jenis kaca dan bukti sistem. Keputusan keselamatan kaca memerlukan peninjauan profesional dan kondisi pemasangan yang nyata.
 
-### Planned sibling articles
+### Metal: kuat secara mekanis, rentan pada lapisan dan korosi
 
-These are future routes. Do not link them as live until their HTML exists.
+Metal dapat memberi kekakuan, tetapi korosi sering bermula pada goresan, potongan, sambungan, atau kontak dengan logam berbeda. Tanyakan jenis logam, sistem pelapisan, lingkungan paparan, dan cara memperbaiki lapisan. Berat panel dan kebutuhan rangka juga memengaruhi pengangkutan serta kapasitas pengikat.
 
-- `CUB-06-B` → `/artikel/panel-phenolic-dan-compact-laminate.html` — Panel Phenolic dan Compact Laminate: Bukti yang Perlu Diperiksa
-- `CUB-06-C` → `/artikel/panel-pvc-dan-komposit.html` — Panel PVC dan Komposit: Ringan Bukan Berarti Selalu Tepat
+## Faktor lokasi apa yang paling mengubah hasil perbandingan?
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Mulailah dari sumber air, bukan dari katalog warna. Bedakan cipratan, pembersihan rutin, kondensasi, kebocoran, kontak kapiler dari lantai, dan banjir. Masing-masing menuntut detail tepi, kaki, drainase, dan waktu pengeringan yang berbeda. Sobat Cubicle.id, bila sumber air belum diketahui, pilihan material belum siap diputuskan.
 
-## Jawaban singkat dan salah paham utama
+Berikutnya petakan benturan dan beban operasi: pintu yang dibanting, troli, vandalisme, atau pemindahan partisi. Minta bukti untuk panel dan pengikat sebagai satu kesatuan; uji panel tidak otomatis membuktikan kinerja anchor atau engsel.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Material Cubicle: Phenolic, PVC, Kayu, Kaca, dan Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk kebakaran, pisahkan reaksi permukaan dari ketahanan api. Daftar BSN, ISO 834, dan ASTM E119 menunjukkan lingkup metode atau katalog, bukan hasil lulus untuk cubicle tertentu ([BSN passive-system listing](https://pesta.bsn.go.id/produk/by_ics/126)). Klaim rating harus merujuk pada rakitan lengkap—panel, rangka, sambungan, pintu, penetrasi, dan pemasangan—serta ditinjau tenaga kompeten. Jika bukti rakitan tidak tersedia, gunakan penanda `[NEEDS FIRE-ASSEMBLY EVIDENCE]`.
 
-## Definisi dan batas objek
+## Bagaimana membuat keputusan material secara praktis?
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Material Cubicle: Phenolic, PVC, Kayu, Kaca, dan Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel sebagai alat menyaring pertanyaan, bukan sebagai peringkat mutlak.
 
-## Cara kerjanya
+| Aspek | Pertanyaan verifikasi | Risiko bila dilewati |
+|---|---|---|
+| Air dan tepi | Grade apa, bagaimana edging dan kaki dilindungi? | Pembengkakan, delaminasi, atau noda tersembunyi |
+| Benturan dan bobot | Bukti panel, pengikat, dan kapasitas dukungan apa yang tersedia? | Panel melendut atau perangkat keras longgar |
+| Pembersihan | Bahan kimia dan metode apa yang diizinkan? | Lapisan kusam, retak, atau korosi |
+| Korosi | Apa jenis logam, pelapis, dan lingkungan paparannya? | Karat mulai dari goresan atau sambungan |
+| Kebakaran | Apakah ada bukti untuk rakitan lengkap? | Klaim keselamatan tidak dapat dipertanggungjawabkan |
+| Perbaikan | Komponen mana yang bisa diganti terpisah? | Penggantian mahal atau pembongkaran luas |
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Material Cubicle: Phenolic, PVC, Kayu, Kaca, dan Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Misalnya, area dengan pembersihan sering dapat mengarah ke permukaan nonpori, tetapi keputusan akhirnya tetap bergantung pada kompatibilitas bahan kimia dan detail sambungan. Untuk proyek yang memprioritaskan perubahan layout, bobot dan ketersediaan komponen pengganti bisa lebih penting daripada tampilan awal. Catat asumsi ini dalam lembar keputusan dan minta pemasok menandatangani konfigurasi yang dinilai.
 
-## Faktor yang mengubah hasil
+## Kesalahan umum apa yang perlu diperiksa sebelum memesan?
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Material Cubicle: Phenolic, PVC, Kayu, Kaca, dan Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memilih berdasarkan keluarga bahan saja. “Kaca”, “metal”, atau “phenolic” mencakup banyak grade, lapisan, dan metode pemasangan. Minta kode produk dan lembar data, lalu cocokkan dengan paparan lokasi.
 
-## Contoh keputusan praktis
+Kesalahan kedua adalah menganggap prosedur bersih-bersih sebagai urusan setelah serah terima. Panduan pemeliharaan ASSA ABLOY dan Bobrick menunjukkan pentingnya instruksi komponen dan pembersihan yang spesifik ([ASSA ABLOY maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick cleaning resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/)). Simpan daftar bahan pembersih yang diizinkan, cara menangani noda, dan siapa yang memeriksa engsel, kunci, serta korosi.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Material Cubicle: Phenolic, PVC, Kayu, Kaca, dan Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan ketiga adalah menutup retak atau longgar tanpa mencari sebab. Gejala dapat berasal dari gerakan bangunan, benturan, kebocoran, korosi, atau kegagalan pengikat. Hentikan perbaikan kosmetik berulang bila penyebab belum jelas; minta pemeriksaan teknis, terutama untuk kaca, sambungan struktural, atau area yang bersinggungan dengan sistem kebakaran.
 
-## Kesalahan umum dan cara memeriksanya
+## Langkah berikutnya sebelum menetapkan material
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Material Cubicle: Phenolic, PVC, Kayu, Kaca, dan Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Cubicle.id, buat satu lembar matriks untuk setiap kandidat dengan kolom grade, kondisi air, bukti benturan, instruksi pembersihan, korosi, bobot, komponen pengganti, dan dokumen kebakaran. Tandai kolom yang belum memiliki bukti, lalu minta klarifikasi tertulis dari pemasok. Simpan pertanyaan awal itu bersama rujukan di [beranda Cubicle.id](/) sebelum meminta penawaran. Setelah itu, minta peninjauan profesional untuk struktur, aksesibilitas, dan keselamatan kebakaran yang berada di luar batas artikel ini.
 
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jadi, material terbaik bukan nama yang paling populer, melainkan konfigurasi yang memiliki bukti sesuai kondisi lokasi dan dapat dirawat sepanjang umur pakai. Bila bukti utama belum ada, keputusan yang bertanggung jawab adalah menunda pemesanan atau mempertahankan `[NEEDS ...]` sampai data dan persetujuan yang tepat tersedia.

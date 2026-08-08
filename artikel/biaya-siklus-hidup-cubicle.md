@@ -2,8 +2,9 @@
 article_id: CUB-10-D
 title: "Harga Awal vs Biaya Siklus Hidup Cubicle"
 slug: "biaya-siklus-hidup-cubicle"
-description: "Include acquisition, installation, disruption, cleaning, inspection, spares, repair, reconfiguration, replacement, and disposal assumptions"
-status: outline
+description: "Membandingkan harga beli dengan biaya pemakaian cubicle sepanjang siklus hidupnya."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,91 @@ final_route: "/artikel/biaya-siklus-hidup-cubicle.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
-  - "https://peraturan.bpk.go.id/Details/37637/uu"
-  - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
   - "https://www.bobrick.com/resource-center-2/guide-specifications/"
   - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Harga Awal vs Biaya Siklus Hidup Cubicle
 
-## Assignment lock
+Halo, Sobat Cubicle.id! Dua penawaran cubicle bisa tampak sama-sama masuk akal karena luas dan jumlah sekatnya mirip. Kebingungan muncul ketika satu harga hanya memuat pembelian dan pemasangan, sedangkan pilihan lain sudah memperhitungkan akses kerja, pembersihan, suku cadang, perbaikan, perubahan tata letak, pembongkaran, dan pembuangan.
 
-- **Writer task:** Expand this file into one complete article answering: “Harga Awal vs Biaya Siklus Hidup Cubicle”
-- **Reader and situation:** Owner choosing between bids with different durability/serviceability
-- **Reader outcome:** Include acquisition, installation, disruption, cleaning, inspection, spares, repair, reconfiguration, replacement, and disposal assumptions
-- **Primary intent:** Compare whole-life value
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Sobat Cubicle.id`
-- **Natural variants:** `Kawan Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not invent service life or future prices; verified project inputs control the model and CUB-13-F owns repair-versus-replace condition
-- **Final public route:** `/artikel/biaya-siklus-hidup-cubicle.html`
-- **Appointed CMS date:** `2026-03-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: harga awal bukan ukuran nilai sepanjang pemakaian. Bandingkan biaya siklus hidup—seluruh biaya sejak pengadaan sampai penggantian atau pembuangan—dengan asumsi yang sama. Pilihan yang terlihat murah dapat menjadi lebih berat bila menyebabkan gangguan operasi atau komponen pengganti sulit diperoleh. Namun jangan menebak umur pakai atau harga masa depan; masukkan hanya data proyek, penawaran, dan rencana pemeliharaan yang sudah diverifikasi. Kerangka bangunan nasional juga menempatkan penggunaan, pemeliharaan, keselamatan, kesehatan, kenyamanan, dan dokumentasi sebagai hal yang perlu diperhatikan, bukan sekadar label produk ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)).
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Harga Awal vs Biaya Siklus Hidup Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Cubicle.id`, `Kawan Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Masalah keputusan: harga terendah belum tentu biaya terendah
+
+Sebelum menghitung, pahami mengapa pemilik sering membandingkan angka yang tidak sejenis. Bagian ini memisahkan biaya yang muncul di awal dari biaya yang mengikuti keputusan selama fasilitas dipakai.
+
+Harga awal biasanya mencakup material, fabrikasi, pengiriman, tenaga pasang, dan pekerjaan yang tertulis di penawaran. Biaya siklus hidup menambahkan hal yang mudah tersembunyi: survei dan koordinasi, perlindungan area, gangguan akses, pembersihan, inspeksi, stok komponen, perbaikan, penyesuaian saat ruang berubah, penggantian, pembongkaran, serta pengelolaan limbah. Sebuah lump sum tidak otomatis memuat semua unsur itu; panduan spesifikasi dan contoh submittal produsen menunjukkan pentingnya menyamakan konfigurasi, material, perangkat keras, pekerjaan akses, pengujian, pengecualian, garansi, suku cadang, dan dokumen serah terima ([Bobrick guide specifications](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)).
+
+Tanyakan: “Biaya apa yang dibayar pemilik jika ruang harus ditutup saat perbaikan?” Jawabannya bisa berupa pekerjaan tambahan atau kehilangan waktu operasi, tetapi nilainya harus berasal dari data pengelola gedung, bukan angka rekaan. Tanpa data itu, tandai komponen tersebut sebagai [NEEDS PROJECT INPUT: biaya gangguan operasi] dan buat dua skenario, bukan satu kesimpulan pasti.
+
+## Bedakan objek dan batas sistem sebelum menghitung
+
+Istilah “cubicle” dapat menunjuk sistem yang berbeda. Menetapkan batas objek mencegah Anda menganggap dua penawaran setara padahal fungsi dan cara rawatnya tidak sama.
+
+Catat jenis panel, rangka atau penyangga, pintu, engsel, pengunci, kaki, sambungan, seal, dan aksesori. Untuk setiap item, tulis ukuran dan mutu yang benar-benar tercantum, lalu pisahkan pekerjaan pemasangan dari pekerjaan bangunan yang menjadi tanggung jawab pihak lain. Instruksi pemasangan pabrikan berguna sebagai acuan identitas dan urutan kerja, tetapi toleransi atau langkahnya tidak boleh dipindahkan ke sistem lain tanpa persetujuan teknis ([Bobrick HPL installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
+
+Buat lembar perbandingan dengan kolom “termasuk”, “tidak termasuk”, “asumsi”, dan “bukti”. Jika suatu penawaran tidak menyebut dukungan substrat, kondisi lantai, atau jalur utilitas, jangan mengisinya dari perkiraan. Rencana dan spesifikasi juga perlu mengakui bahwa dimensi denah tidak memperlihatkan posisi struktur, ruang plafon, sambungan gerak, layanan tersembunyi, atau kapasitas substrat ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
+
+## Kriteria perbandingan biaya yang benar-benar memengaruhi pemakaian
+
+Setelah objek sama, susun biaya mengikuti urutan kejadian. Jembatan ini penting agar tabel tidak hanya membandingkan harga material.
+
+Mulai dari pengadaan dan pemasangan: material, fabrikasi, pengiriman, bongkar-muat, alat, akses, perlindungan area, dan pembersihan awal. Lanjutkan ke gangguan: pembatasan akses, relokasi pengguna, koordinasi dengan pekerjaan lain, dan waktu penutupan area. Nilai setiap unsur berdasarkan jadwal dan tarif proyek yang disetujui.
+
+Untuk masa operasi, masukkan frekuensi pembersihan, inspeksi fungsi pintu dan pengunci, pemeriksaan sambungan, ketersediaan suku cadang, waktu respons, serta metode pencatatan. Komponen tersembunyi sulit diverifikasi setelah penutupan tanpa rekaman; karena itu foto, daftar material terpasang, dan berita acara menjadi bagian dari biaya pengendalian mutu ([Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021)).
+
+Terakhir, modelkan perubahan tata letak, perbaikan, penggantian bagian, pembongkaran, pengangkutan, dan pembuangan. Jangan menyebut angka umur pakai, harga suku cadang, atau biaya limbah sebelum vendor dan pengelola menyediakannya. Hasil yang jujur boleh berupa rentang dengan sumber asumsi yang terlihat.
+
+## Kapan pilihan harga awal rendah atau biaya siklus hidup lebih tinggi masuk akal
+
+Tidak ada pemenang universal. Keputusan bergantung pada pola penggunaan, akses perawatan, dan bukti yang bisa Anda dapatkan.
+
+Harga awal rendah mungkin masuk akal ketika konfigurasi benar-benar setara, area mudah diakses, jadwal tidak sensitif terhadap gangguan, komponen pengganti tersedia, dan rencana perawatan sudah jelas. Syaratnya harus tertulis dan dapat diperiksa; “setara” bukan sekadar luas panel yang sama.
+
+Biaya awal lebih tinggi dapat masuk akal bila sistem menawarkan dokumentasi pemasangan yang lebih lengkap, akses perbaikan yang lebih terencana, atau komponen standar yang mudah diganti—tetapi manfaat itu harus dibuktikan dalam submittal, daftar suku cadang, dan prosedur serah terima. Sobat Cubicle.id, perlakukan manfaat tersebut sebagai hipotesis sampai dokumennya diterima tim proyek.
+
+## Kesalahan perbandingan yang sering membuat total biaya meleset
+
+Kesalahan pertama adalah membagi harga dengan luas lalu menyebut pemenang. Cara itu mengabaikan pintu, perangkat keras, penyangga, akses, perlindungan, dan pekerjaan bongkar-pasang yang berbeda.
+
+Kesalahan kedua adalah menganggap perawatan “nanti saja”. Tanpa jadwal inspeksi dan catatan komponen, kerusakan kecil dapat terlambat ditemukan dan keputusan perbaikan menjadi tidak terdokumentasi. Penutupan pekerjaan tanpa rekaman juga mengurangi kemampuan memeriksa item tersembunyi.
+
+Kesalahan ketiga adalah memasukkan klaim kinerja atau kepatuhan hanya karena brosur menyebutkannya. Produk atau metode tertentu tidak otomatis membuktikan kinerja terpasang, dan aturan asing bukan hukum Indonesia. Minta bukti yang berlaku untuk sistem serta proyek Anda; bila belum ada, beri tanda [NEEDS TECHNICAL REVIEW: bukti kinerja/kepatuhan].
+
+## Bukti dan dokumen yang perlu diminta sebelum memilih
+
+Pada tahap ini, keputusan berubah dari opini menjadi daftar pemeriksaan. Minta kedua vendor mengisi format yang sama agar perbedaan terlihat.
+
+- Gambar dan ukuran terkoordinasi dengan kondisi lapangan, termasuk substrat, struktur, utilitas, akses, dan ruang kerja.
+- Daftar komponen, mutu material, perangkat keras, sambungan, serta batas pekerjaan pemasangan dan pekerjaan pihak lain.
+- Metode perlindungan, pembersihan, inspeksi, pengujian fungsi, dan pencatatan item tersembunyi sebelum ditutup.
+- Daftar suku cadang, jalur pemesanan, waktu respons, serta asumsi tenaga dan alat untuk perbaikan.
+- Rencana perubahan tata letak, pembongkaran, pemilahan, pengangkutan, dan pembuangan pada akhir pemakaian.
+- Jadwal, pengecualian, garansi, dokumen serah terima, dan pihak yang menyetujui setiap revisi.
+
+Kawan Cubicle.id, lakukan survei dan verifikasi oleh pihak yang berwenang. PP 16/2021 menegaskan bahwa keputusan bangunan berkaitan dengan keselamatan, kesehatan, kenyamanan, fungsi, dan dokumentasi; artikel ini tidak menggantikan persetujuan desain, kontrak, atau pemeriksaan profesional.
+
+## Jalan pintas “pilih penawaran termurah” dan cara mengamankannya
+
+Jalan pintas itu terasa aman karena angkanya mudah dibandingkan. Ia gagal ketika satu vendor menyembunyikan pekerjaan akses, pembersihan, pengujian, atau pembuangan di luar harga, sementara vendor lain memasukkannya.
+
+Alternatif yang lebih aman adalah meminta revisi penawaran dengan matriks lingkup yang sama. Pisahkan biaya pasti, asumsi yang menunggu verifikasi, dan opsi. Setelah survei lapangan, minta tim desain, kontraktor, pemasok, serta QA/HSE menyetujui dokumen inspeksi dan serah terima. Dengan begitu, angka terendah tetap boleh dipilih—tetapi karena lingkupnya terbukti setara, bukan karena tabelnya paling pendek.
+
+## Kesimpulan: pilih nilai yang dapat dibuktikan
+
+Harga awal menjawab “berapa yang dibayar sekarang”; biaya siklus hidup menjawab “apa yang harus disiapkan sampai sistem diubah atau dibuang”. Bandingkan pengadaan, pemasangan, gangguan, pembersihan, inspeksi, suku cadang, perbaikan, konfigurasi ulang, penggantian, dan pembuangan dalam satu matriks asumsi.
+
+Langkah berikutnya: kirim format perbandingan yang sama kepada setiap penawar, lengkapi dengan survei kondisi lapangan, lalu minta bukti teknis dan rencana pemeliharaan sebelum menyetujui pilihan. Jika data umur pakai, harga masa depan, atau kondisi perbaikan belum tersedia, jangan mengarangnya. Teman Cubicle.id, operating rule-nya sederhana: pilih opsi yang lingkup, asumsi, dan buktinya paling dapat diaudit—dan sisakan [NEEDS PROJECT INPUT] untuk hal yang belum diputuskan. Untuk konteks pekerjaan lain, Anda dapat kembali ke [beranda Cubicle.id](/).
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -68,140 +111,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
-
-### KR-21
-
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
-
-### KR-18
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-10-B` → `/artikel/menghitung-kuantitas-cubicle.html` — Cara Menghitung Kuantitas Cubicle tanpa Menyembunyikan Asumsi
-- `CUB-10-C` → `/artikel/register-submittal-cubicle.html` — Register Submittal Cubicle: Sampel, Data Teknis, Gambar, dan Sertifikat
-- `CUB-10-E` → `/artikel/garansi-spare-part-layanan-purnajual-cubicle.html` — Garansi, Spare Part, dan Layanan Purnajual Cubicle
-- `CUB-10-F` → `/artikel/perubahan-scope-dan-biaya-cubicle.html` — Mengendalikan Perubahan Scope dan Biaya Proyek Cubicle
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Masalah keputusan yang sebenarnya
-
-- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
-- **Tie back to this article:** Keep the explanation specific to “Harga Awal vs Biaya Siklus Hidup Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Bedakan objek sebelum membandingkan
-
-- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
-- **Tie back to this article:** Keep the explanation specific to “Harga Awal vs Biaya Siklus Hidup Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kriteria perbandingan yang relevan
-
-- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
-- **Tie back to this article:** Keep the explanation specific to “Harga Awal vs Biaya Siklus Hidup Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kapan masing-masing pilihan masuk akal
-
-- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
-- **Tie back to this article:** Keep the explanation specific to “Harga Awal vs Biaya Siklus Hidup Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan perbandingan yang sering terjadi
-
-- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
-- **Tie back to this article:** Keep the explanation specific to “Harga Awal vs Biaya Siklus Hidup Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Bukti yang perlu diminta sebelum memilih
-
-- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
-- **Tie back to this article:** Keep the explanation specific to “Harga Awal vs Biaya Siklus Hidup Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

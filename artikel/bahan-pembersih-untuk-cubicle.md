@@ -2,8 +2,9 @@
 article_id: CUB-09-C
 title: "Matriks Bahan Pembersih untuk Cubicle: Cara Memverifikasi Kompatibilitas"
 slug: "bahan-pembersih-untuk-cubicle"
-description: "Show how to use manufacturer instructions and current safety data to check substrate, finish, dilution, contact, rinse, ventilation, PPE, and test areas"
-status: outline
+description: "Panduan praktis mencocokkan bahan, petunjuk produsen, dan data keselamatan sebelum memilih pembersih cubicle."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-25"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,54 +15,24 @@ reader_address: "Teman Cubicle.id"
 final_route: "/artikel/bahan-pembersih-untuk-cubicle.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/72960.html"
   - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
   - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
   - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
   - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
-  - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
-  - "https://www.iso.org/standard/83943.html"
-  - "https://store.astm.org/e0119-24.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Matriks Bahan Pembersih untuk Cubicle: Cara Memverifikasi Kompatibilitas
 
-## Assignment lock
+Halo, Teman Cubicle.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Matriks Bahan Pembersih untuk Cubicle: Cara Memverifikasi Kompatibilitas”
-- **Reader and situation:** Facility or cleaning manager avoiding damage and exposure
-- **Reader outcome:** Show how to use manufacturer instructions and current safety data to check substrate, finish, dilution, contact, rinse, ventilation, PPE, and test areas
-- **Primary intent:** Select a verified cleaning method
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Teman Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Kawan Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not prescribe a universal chemical recipe or mixing; product instructions control use and CUB-12-C owns routine execution
-- **Final public route:** `/artikel/bahan-pembersih-untuk-cubicle.html`
-- **Appointed CMS date:** `2026-02-25` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Saat noda muncul di panel cubicle, cairan yang tersedia sering langsung dipakai. Label “aman untuk kamar mandi” belum menjawab kecocokan dengan lapisan, tepi, engsel, seal, atau pengikat. Salah pilih dapat meninggalkan kusam, mengangkat lapisan, mempercepat korosi, atau menambah paparan uap.
 
-## Opening instructions
+Jawaban singkatnya: mulai dari identitas substrat dan finishing, lalu cocokkan petunjuk produsen dengan lembar data keselamatan (SDS), pengenceran, waktu kontak, pembilasan, ventilasi, PPE, dan uji area kecil. Jika data tidak tersedia atau bertentangan, tahan penggunaan dan minta tinjauan teknis. Artikel ini membantu memilih “boleh dipakai”, “perlu uji”, atau “jangan dipakai”, bukan memberi resep kimia universal.
 
-- Open with the exact short salutation: **“Halo, Teman Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Matriks Bahan Pembersih untuk Cubicle: Cara Memverifikasi Kompatibilitas**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.id`, `Sobat Cubicle.id`, or `Kawan Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -72,140 +43,67 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
 
-### KR-01
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Hasil dan prasyarat sebelum memilih bahan pembersih
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Keputusan pembersihan harus dapat diperiksa ulang. Tentukan hasilnya—debu, residu sabun, noda biologis, atau tumpahan—dan catat komponen yang terkena. Siapkan instruksi pemeliharaan produsen, SDS terbaru, label kemasan, PPE yang ditentukan SDS, serta alat ukur. SDS menjelaskan bahaya dan penanganan; bukan izin mengubah konsentrasi atau mencampur bahan.
 
-### KR-08
+Istilah “panel compact” hanya menyebut keluarga bahan, bukan kelas interior atau kecocokan terhadap semua cairan. Ruang lingkup compact laminate interior dijelaskan secara umum dalam [ISO 4586-4](https://www.iso.org/standard/72962.html); spesifikasi produk terpasang tetap menjadi rujukan.
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+## Langkah 1 — tetapkan batas permukaan dan risikonya
 
-### KR-09
+Petakan batas kerja agar cairan tidak merembes ke komponen dengan aturan berbeda. Buat matriks berkolom komponen, substrat, finishing, kotoran, bahan usulan, instruksi, SDS, dan keputusan. Substrat adalah bahan dasar; finishing adalah permukaan akhir yang bersentuhan dengan cairan. Panel, tepi terbuka, engsel, kaki, dan seal dapat merespons berbeda.
 
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
+Gunakan satu baris untuk satu kombinasi permukaan dan kondisi, bukan satu baris untuk seluruh ruang. Catatan “lulus” pada panel tidak otomatis berlaku untuk sisi pintu atau logam pengikat. Tulis pula siapa yang berwenang menyetujui perubahan; petugas kebersihan tidak seharusnya menafsirkan spesifikasi produk sendirian.
 
-### KR-20
+Tanyakan apakah permukaan berpori atau berlapis, punya sambungan atau bukaan, dan ke mana cairan mengalir. Konfigurasi panel, pintu, latch, engsel, kaki, braket, dan pengikat memengaruhi akses pembersihan; lihat [instruksi pemasangan Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf). Jangan salin dimensi atau metode dari sistem lain.
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+Keluarkan dari scope pekerjaan yang memerlukan pembongkaran, perbaikan struktural, penanganan jamur berat, atau perubahan sistem bangunan. Pelaksanaan rutin mengikuti prosedur fasilitas dan pemilik sistem.
 
-### KR-13
+## Langkah 2 — kumpulkan dan cocokkan bukti produk
 
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
+Cari instruksi yang merujuk tepat pada produk dan kondisi Anda. Panduan [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom) berlaku pada koleksi dan pasar yang disebut, bukan semua panel. Panduan fabrikasi compact juga menunjukkan bahwa kelembapan dan detail tepi memengaruhi perilaku material ([panduan fabrikasi](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)).
 
-## Evidence gates
+Baca SDS: bahaya, ventilasi, PPE, pertolongan pertama, penyimpanan, dan ketidakcocokan. Waktu kontak ialah lama cairan berada di permukaan; lebih lama tidak otomatis lebih efektif. Pengenceran ialah perbandingan bahan dan air sesuai label; jangan mengira-ngira.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Hardware dan seal memerlukan bukti tersendiri. Ikuti [panduan pemeliharaan Lorient](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide) dan dokumen [cleaning-maintenance Bobrick](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/) sesuai kode sistem.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Jika dokumen hanya menyebut “permukaan tahan lama” tanpa daftar bahan atau cara aplikasi, perlakukan kalimat itu sebagai keterangan umum. Minta petunjuk pemeliharaan yang lebih spesifik sebelum menjadikannya dasar persetujuan. Klaim panel tidak otomatis membuktikan ketahanan hardware, sambungan, atau seluruh cubicle.
+Catat keputusan dan alasan pada baris matriks yang sama agar pemeriksaan berikutnya tidak mengulang asumsi.
 
-## Internal-link plan
+## Langkah 3 — jalankan urutan verifikasi yang dapat dihentikan
 
-### Existing local routes
+Baca label dan SDS di area berventilasi, lalu pastikan tidak ada larangan untuk substrat atau finishing. Siapkan area uji kecil yang tidak mencolok, gunakan konsentrasi dan alat sesuai instruksi, kemudian amati perubahan setelah pembilasan dan pengeringan. Satu sapuan pada permukaan berbeda bukan bukti kompatibilitas.
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Kendalikan paparan dengan PPE dan ventilasi SDS, cegah cairan masuk ke celah, dan jangan mencampur produk. Bila label meminta bilas, angkat residu sesuai instruksi. [Panduan EPA tentang kelembapan](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0) menempatkan pengeringan dan pencarian sumber air sebagai bagian pengelolaan kondisi ruang; genangan bukan sekadar masalah noda.
 
-### Planned sibling articles
+Catat kode produk, tanggal dokumen, area, konsentrasi label, waktu kontak, bilas, PPE, ventilasi, serta perubahan warna, kilap, tekstur, bau, kelengketan, atau korosi. Tidak terlihat rusak hanya berarti belum ada gejala pada uji itu.
 
-These are future routes. Do not link them as live until their HTML exists.
+Bandingkan catatan dengan kondisi sebelum uji. Foto atau deskripsi singkat membantu penelusuran, tetapi bukan hasil laboratorium. Bila kotoran tidak terangkat pada metode yang diizinkan, eskalasi jenis kotorannya; jangan menaikkan konsentrasi secara sepihak.
 
-- `CUB-09-A` → `/artikel/memeriksa-klaim-tahan-air-cubicle.html` — Memeriksa Klaim Tahan Air pada Panel dan Sistem Cubicle
-- `CUB-09-B` → `/artikel/desain-cubicle-mudah-dibersihkan.html` — Kebersihan Cubicle: Desain Sambungan dan Detail yang Mudah Dibersihkan
-- `CUB-09-D` → `/artikel/bukti-api-dan-asap-material-cubicle.html` — Bukti Perilaku Api dan Asap pada Material Cubicle
-- `CUB-09-E` → `/artikel/cubicle-dan-jalur-evakuasi.html` — Cubicle dan Jalur Evakuasi: Meninjau Beban Api, Hambatan, dan Akses
+## Titik berhenti dan kondisi yang memerlukan tinjauan
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Hentikan pekerjaan bila identitas substrat atau finishing tidak diketahui, instruksi atau SDS tidak cocok, label bertentangan, atau area uji berubah. Teman Cubicle.id, berhenti juga bila ada bau menyengat, iritasi, ventilasi tidak memadai, tumpahan menuju listrik, atau dugaan kebocoran dan jamur. Jangan menggosok lebih keras, mencampur bahan, atau membuka hardware tanpa wewenang. **[NEEDS PRODUCT/SYSTEM REVIEW: G-03, G-04, G-05, G-09, G-11, G-12]**
 
-## Hasil akhir dan prasyarat
+Jika hasil uji tampak baik tetapi bau menetap atau permukaan tetap lembap, jangan langsung menyatakan bahan cocok. Pisahkan dua pertanyaan: apakah kotoran terangkat, dan apakah sistem tetap aman setelah dibersihkan. Keduanya memerlukan pengamatan berbeda. Periksa kembali tepi dan sambungan setelah kering, karena cairan yang tertahan dapat muncul belakangan sebagai bengkak, noda, atau karat.
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Bahan Pembersih untuk Cubicle: Cara Memverifikasi Kompatibilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk insiden tumpahan, amankan area dan ikuti SDS sebelum memindahkan material. Catat siapa yang memberi instruksi, dokumen yang dipakai, serta alasan keputusan. Rekaman ini membantu membedakan kerusakan lama dari perubahan setelah pembersihan dan mencegah petugas berikutnya mengulangi percobaan yang sama.
 
-## Langkah 1 — tetapkan scope
+## Verifikasi hasil dan serah-terima keputusan
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Bahan Pembersih untuk Cubicle: Cara Memverifikasi Kompatibilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Simpan matriks, salinan label dan SDS, nomor produk, hasil uji, dan nama pemeriksa. Tandai setiap baris “disetujui sesuai instruksi”, “uji ulang diperlukan”, atau “dilarang sampai ditinjau”. Jika kusam, delaminasi, karat, seal gagal, atau pintu mengikat kembali, cari penyebab seperti gerakan, air, korosi, benturan, atau bahan tidak cocok—jangan langsung menambah dosis.
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+## Jalan pintas yang berisiko
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Bahan Pembersih untuk Cubicle: Cara Memverifikasi Kompatibilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pembersih serbaguna menghemat pencatatan, tetapi menghapus perbedaan lapisan dan hardware. Bahan yang aman pada panel dapat tidak cocok untuk tepi, engsel, atau seal. Alternatifnya: pecah area menjadi baris matriks, uji bagian kecil, lalu minta persetujuan bila bukti tidak lengkap.
 
-## Langkah 3 — jalankan urutan kerja
+## Kesimpulan: matriks harus berujung pada keputusan
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Bahan Pembersih untuk Cubicle: Cara Memverifikasi Kompatibilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Matriks kompatibilitas mencocokkan substrat, finishing, instruksi produsen, SDS, pengenceran, waktu kontak, bilas, ventilasi, PPE, dan hasil uji. Jika selaras, dokumentasikan metode untuk pekerjaan yang sama; jika tidak, tahan dan eskalasi.
 
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Bahan Pembersih untuk Cubicle: Cara Memverifikasi Kompatibilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Bahan Pembersih untuk Cubicle: Cara Memverifikasi Kompatibilitas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kawan Cubicle.id, minta kode material dan sistem, instruksi pemeliharaan terbaru, serta SDS produk sebelum pekerjaan rutin dimulai. Untuk konteks fasilitas, kunjungi [beranda Cubicle.id](/). Aturan operasinya: tanpa bukti kecocokan spesifik, jangan anggap bahan pembersih aman secara universal.

@@ -2,8 +2,9 @@
 article_id: CUB-02-A
 title: "Checklist Brief Proyek Cubicle sebelum Meminta Penawaran"
 slug: "checklist-brief-proyek-cubicle"
-description: "Capture system type, users, site, dimensions, duty, interfaces, risk, finish, evidence, budget, schedule, and acceptance needs"
-status: outline
+description: "Panduan merangkum kebutuhan ruang, pengguna, teknis, bukti, jadwal, dan penerimaan sebelum meminta penawaran cubicle."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,48 +16,18 @@ final_route: "/artikel/checklist-brief-proyek-cubicle.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
-  - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Checklist Brief Proyek Cubicle sebelum Meminta Penawaran
 
-## Assignment lock
+Halo, Kawan Cubicle.id! Penawaran cubicle sering terasa tidak sebanding bukan karena penyedia sengaja menyulitkan, melainkan karena brief hanya berisi jumlah unit dan ukuran perkiraan. Akibatnya, pintu, akses, titik utilitas, pekerjaan bongkar, atau standar penerimaan baru muncul setelah harga disepakati.
 
-- **Writer task:** Expand this file into one complete article answering: “Checklist Brief Proyek Cubicle sebelum Meminta Penawaran”
-- **Reader and situation:** Buyer about to request quotations
-- **Reader outcome:** Capture system type, users, site, dimensions, duty, interfaces, risk, finish, evidence, budget, schedule, and acceptance needs
-- **Primary intent:** Prepare a complete project brief
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Kawan Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not compare bids; CUB-10-A owns quotation normalization and `/` owns quote submission
-- **Final public route:** `/artikel/checklist-brief-proyek-cubicle.html`
-- **Appointed CMS date:** `2025-09-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: sebelum meminta harga, buat satu brief yang menyebut fungsi ruang, pengguna, lokasi, dimensi terukur, tingkat pemakaian, antarmuka pekerjaan lain, risiko, hasil akhir, bukti yang diminta, anggaran, jadwal, dan cara menerima pekerjaan. Denah saja tidak cukup untuk mengetahui kondisi tegak-rata, rongga plafon, struktur, sambungan gerak, utilitas tersembunyi, atau kapasitas substrat; hal itu perlu survei dan koordinasi proyek yang sesuai (lihat [PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021) dan [panduan FEMA tentang antarmuka elemen nonstruktural](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Brief Proyek Cubicle sebelum Meminta Penawaran**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Cubicle.id`, `Sobat Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -67,138 +38,67 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
-## Evidence packet
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Definisikan kebutuhan ruang dan pengguna sebelum meminta harga
 
-### KR-01
+Mulailah dari keputusan yang harus dibuat, bukan dari merek atau warna. Tulis jenis ruang, jumlah pengguna, pola pemakaian, kebutuhan privasi, pengawasan, pembersihan, dan kemungkinan perubahan tata letak. Ruang toilet publik yang padat, kantor dengan pemakaian ringan, dan fasilitas kesehatan memiliki konsekuensi berbeda untuk pintu, permukaan, akses, dan waktu henti. CDC menekankan bahwa pengendalian infeksi memerlukan program permukaan dan praktik fasilitas yang sesuai konteks, bukan sekadar nama ruangan (https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Berikutnya catat batas pekerjaan: unit cubicle, partisi, pintu, perangkat keras, kaki atau pengikat, sealant, pemotongan, perlindungan area, pembersihan, dan pembuangan sisa. Tandai pula pekerjaan yang bukan tanggung jawab penyedia, seperti pemindahan pipa, perbaikan lantai, listrik, sprinkler, atau penguatan struktur. Kawan Cubicle.id, setiap butir yang belum diketahui diberi status “perlu survei”, bukan diisi dengan asumsi.
 
-### KR-03
+Untuk aksesibilitas, brief harus meminta koordinasi rute dan ruang gerak secara utuh: posisi partisi, arah dan cara operasi pintu, pendekatan, perlengkapan, visibilitas, serta tata letak sanitair saling memengaruhi. Satu ukuran produk tidak membuktikan seluruh rute dapat digunakan. Verifikasi terhadap Permen PUPR No. 14/PRT/M/2017 dan persyaratan proyek yang berlaku sebelum menetapkan ukuran final (https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017).
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
+## Susun data lapangan, antarmuka, dan risiko yang akan dihargai
 
-### KR-18
+Bagian ini mencegah penyedia menghitung berdasarkan gambar ideal. Lampirkan denah bertanggal, ukuran aktual, elevasi, foto yang memiliki lokasi, titik utilitas, jenis lantai dan dinding, tinggi plafon, akses masuk, area penyimpanan, serta waktu kerja yang diizinkan. Minta penyedia menyatakan asumsi toleransi dan apa yang harus dikonfirmasi melalui survei.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
+Antarmuka berarti titik temu cubicle dengan pekerjaan lain. Tandai sambungan ke lantai, dinding, plafon, kusen, drainase, listrik/data, detektor, sprinkler, lis, dan sambungan gerak. Panduan FEMA mengingatkan bahwa elemen nonstruktural dapat berinteraksi dengan struktur dan utilitas; Modernfold juga menunjukkan pentingnya spesifikasi dukungan dan kondisi pemasangan. Itu bukan bukti bahwa sistem tertentu cocok untuk proyek Anda, sehingga kapasitas substrat dan detail pengikat tetap perlu pemeriksaan profesional.
 
-### KR-17
+Buat daftar risiko dengan pemilik tindak lanjutnya: utilitas tersembunyi, permukaan tidak rata, akses pengiriman sempit, pekerjaan bertahap, air yang masih bocor, atau kebutuhan isolasi area. Nyatakan pemicu perubahan harga—misalnya kondisi lapangan berbeda dari gambar—beserta cara dokumentasi dan persetujuannya. Jangan meminta pembukaan destruktif tanpa izin pengelola dan rencana keselamatan.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [Permen PUPR No. 14/PRT/M/2017 — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [CDC core components for healthcare surface programs](https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html)
-- **Purpose for this article:** Give house, office, school, hotel, hospital, retail, worship, hall, and public-space articles a disciplined requirements model instead of a location-name template.
-- **Safe grounded facts:** Use cases can differ in occupancy, abuse/impact, privacy, supervision, reconfiguration, acoustics, cleaning, infection risk, accessibility, door/egress operation, fire strategy, and downtime. These variables, not the room label alone, justify different guidance.
-- **Limits:** No use-case article may infer a rating, legal requirement, or cleaning protocol without the governing project/facility evidence. Resolve `G-01`, `G-04`, `G-06`, and `G-12`.
+## Buat format penawaran yang benar-benar sebanding
 
-### KR-20
+Penawaran dapat dibandingkan hanya jika semua pihak menerima paket informasi dan batas scope yang sama. Minta tabel berisi kuantitas, satuan, spesifikasi material dan finishing, perangkat keras, tenaga pasang, pengiriman, perlindungan area, pembersihan, pajak atau biaya lain yang memang berlaku, durasi, masa berlaku, serta eksklusi. Jangan mengubah daftar ini menjadi keputusan pemenang; perbandingan bid adalah ruang lingkup artikel lain.
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+Pisahkan “termasuk”, “tidak termasuk”, dan “menunggu konfirmasi”. Minta gambar kerja atau data teknis yang menjelaskan titik pengikat, kebutuhan ruang, dan urutan pemasangan. Jika penyedia menyebut ketahanan, akustik, api, kelembapan, atau kebersihan, minta dokumen yang tepat untuk klaim itu dan konteks penerapannya; metode pengujian atau brosur tidak otomatis membuktikan kinerja sistem terpasang.
 
-## Evidence gates
+Tentukan juga logistik: siapa menyediakan akses, lift, area staging, listrik sementara, isolasi air, dan perlindungan dari penghuni. Untuk pekerjaan di gedung aktif, minta rencana pengendalian debu, kebisingan, dan penutupan area yang disetujui pengelola. Setiap asumsi yang belum disetujui tetap ditandai terbuka.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+## Bedakan dokumen produk, bukti pemasangan, dan persetujuan
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Dokumen data produk menjawab apa yang dibuat; sertifikat atau laporan tes menjawab ruang lingkup pengujian; metode menjawab cara kerja; pengalaman hanya menjawab riwayat penyedia; garansi menjawab janji tertulis dengan syaratnya; sedangkan persetujuan menjawab keputusan pihak berwenang. Keenamnya tidak boleh dipertukarkan.
 
-## Internal-link plan
+Minta nomor versi dan tanggal dokumen, identitas sistem, batas penggunaan, serta apakah bukti berlaku untuk konfigurasi yang ditawarkan. Catat siapa yang meninjau dan keputusan apa yang diambil. Untuk persyaratan bangunan dan akses, dokumen resmi BPK membantu mengidentifikasi regulasi, tetapi angka atau kewajiban proyek harus dibaca dalam konteks lokasi dan persetujuan profesional; jangan menyalin potongan aturan dari ringkasan.
 
-### Existing local routes
+## Ajukan pertanyaan wajib kepada penyedia
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Sebelum harga dianggap lengkap, kirim pertanyaan yang memaksa batas tanggung jawab menjadi jelas. Tanyakan: data apa yang masih kurang; bagian mana yang diasumsikan; kondisi substrat apa yang diperlukan; siapa melakukan survei dan pengukuran ulang; utilitas apa yang harus diisolasi; siapa mengurus perlindungan dan perbaikan kerusakan; urutan kerja seperti apa; dan kapan perubahan harus disetujui.
 
-### Planned sibling articles
+Untuk produk, tanyakan identitas sistem, pilihan finishing, kompatibilitas sealant dan bahan pembersih, suku cadang, prosedur perawatan, serta dokumen pendukung untuk setiap klaim. Untuk hasil akhir, tanyakan metode pemeriksaan, daftar cacat yang dapat diterima, dokumen as-built, foto tersembunyi sebelum ditutup, dan siapa yang menandatangani berita acara. Sobat Cubicle.id, jawaban “standar” tanpa definisi tidak cukup untuk mengunci brief.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Kenali tanda cakupan kabur dan biaya tersembunyi
 
-- `CUB-02-B` → `/artikel/survei-kebutuhan-pengguna-cubicle.html` — Survei Kebutuhan Pengguna Cubicle untuk Owner dan Desainer
-- `CUB-02-C` → `/artikel/data-survei-lapangan-cubicle.html` — Data Survei Lapangan yang Wajib Dicatat untuk Proyek Cubicle
+Waspadai harga satu angka tanpa kuantitas dan eksklusi, gambar tanpa tanggal, ukuran yang disebut “perkiraan”, klaim performa tanpa konfigurasi, serta jadwal yang tidak menyebut akses dan waktu tunggu. Tanda lain adalah permintaan memulai sebelum kondisi lapangan, jalur utilitas, dan pihak pemberi persetujuan ditetapkan.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Biaya dapat muncul dari survei ulang, bongkar-pasang, penutupan area, penyimpanan, pengangkutan manual, pekerjaan malam, perbaikan substrat, atau menunggu pekerjaan lain. Brief yang baik tidak menebak nilainya; brief meminta setiap penyedia menyatakan apakah item tersebut termasuk, dikecualikan, atau bergantung pada temuan survei.
 
-## Definisikan kebutuhan sebelum meminta harga
+## Tetapkan pemeriksaan, serah terima, dan keputusan akhir
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Brief Proyek Cubicle sebelum Meminta Penawaran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Penerimaan bukan sekadar melihat warna. Tetapkan siapa memeriksa posisi, operasi pintu, kekencangan pengikat, kerataan yang disepakati, kebersihan, kerusakan permukaan, seal, dan kesesuaian terhadap gambar yang disetujui. Minta daftar pemeriksaan, foto sebelum area ditutup, manual perawatan, daftar suku cadang, dan catatan penyimpangan.
 
-## Buat penawaran benar-benar sebanding
+Jangan menetapkan interval perawatan, jaminan, atau kriteria teknis universal tanpa dokumen sistem dan persetujuan proyek. Panduan pemeliharaan pabrikan dapat menjadi rujukan operasional, tetapi bukan pengganti instruksi produk yang benar-benar dipasok. Jika ditemukan retak, longgar, korosi, kebocoran, jamur, delaminasi, atau pintu seret, tahan keputusan kosmetik sampai penyebabnya dinilai; gejala yang sama dapat berasal dari gerakan, benturan, air, korosi, atau kegagalan pengikat.
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Brief Proyek Cubicle sebelum Meminta Penawaran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas yang tampak cepat tetapi berisiko
 
-## Dokumen yang membuktikan hal berbeda
+Jalan pintas paling umum adalah mengirim denah dan meminta “harga per bilik”. Cara ini cepat, tetapi menyembunyikan antarmuka, pekerjaan pendahuluan, akses, dan kriteria penerimaan. Hasilnya bisa berupa revisi berulang atau sengketa tentang siapa yang seharusnya mengerjakan pekerjaan tambahan.
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Brief Proyek Cubicle sebelum Meminta Penawaran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Alternatifnya, kirim brief satu halaman yang dilengkapi lampiran terukur, daftar asumsi, pertanyaan terbuka, dan formulir jawaban seragam. Minta survei lapangan sebelum penguncian harga jika data kritis belum tersedia, lalu minta persetujuan pengelola atau tenaga profesional untuk hal yang menyentuh struktur, keselamatan, aksesibilitas, utilitas, atau sistem kebakaran.
 
-## Pertanyaan wajib kepada penyedia
+## Daftar periksa singkat sebelum tombol kirim
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Brief Proyek Cubicle sebelum Meminta Penawaran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pastikan dokumen Anda memuat: fungsi dan pengguna; jumlah dan lokasi; ukuran serta tanggal pengukuran; kondisi lantai, dinding, plafon, dan utilitas; antarmuka; tingkat pemakaian dan pembersihan; material, finishing, dan perangkat keras; inklusi-eksklusi; logistik dan jam kerja; bukti yang diminta; risiko dan pemilik tindak lanjut; jadwal; anggaran atau batas biaya yang boleh diketahui; serta pemeriksaan dan serah terima.
 
-## Red flag dan biaya yang sering tersembunyi
-
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Brief Proyek Cubicle sebelum Meminta Penawaran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Penerimaan, serah terima, dan keputusan akhir
-
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Brief Proyek Cubicle sebelum Meminta Penawaran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kirim paket itu kepada penyedia dengan satu daftar pertanyaan dan minta mereka menandai semua asumsi. Jika pembaca memerlukan konteks layanan dan langkah berikutnya, gunakan [beranda Cubicle.id](/) sebagai titik kembali. Setelah jawaban masuk, lakukan tinjauan teknis proyek—bukan sekadar memilih angka terendah—untuk memastikan ruang, pengguna, struktur, utilitas, dan persetujuan benar-benar terkoordinasi. Aturan kerjanya sederhana: harga boleh diminta setelah kebutuhan dan batasnya tertulis; keputusan final menunggu bukti dan pemeriksaan yang sesuai.

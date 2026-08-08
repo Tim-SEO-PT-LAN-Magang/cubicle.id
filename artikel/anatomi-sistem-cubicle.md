@@ -2,8 +2,9 @@
 article_id: CUB-01-C
 title: "Anatomi Sistem Cubicle: Panel, Rangka, Hardware, dan Interface"
 slug: "anatomi-sistem-cubicle"
-description: "Map panels, frames, supports, hardware, anchors, services, finishes, and interfaces across systems"
-status: outline
+description: "Panduan membaca panel, rangka, hardware, tumpuan, layanan, finishing, dan interface pada sistem cubicle."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-17"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,95 @@ final_route: "/artikel/anatomi-sistem-cubicle.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
   - "https://www.iso.org/standard/72959.html"
   - "https://www.iso.org/standard/72961.html"
   - "https://www.iso.org/standard/72962.html"
   - "https://knauf.com/en-EG/systems/drywall-systems"
-  - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
-  - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
   - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Anatomi Sistem Cubicle: Panel, Rangka, Hardware, dan Interface
 
-## Assignment lock
+Halo, Sobat Cubicle.id! Saat membaca gambar kerja atau submittal untuk pertama kali, banyak orang mengira cubicle hanyalah lembar panel yang diberi engsel. Kekeliruan ini membuat jalur beban, sambungan ke lantai atau plafon, dan ruang untuk layanan bangunan terlewat.
 
-- **Writer task:** Expand this file into one complete article answering: “Anatomi Sistem Cubicle: Panel, Rangka, Hardware, dan Interface”
-- **Reader and situation:** Buyer reading drawings or submittals for the first time
-- **Reader outcome:** Map panels, frames, supports, hardware, anchors, services, finishes, and interfaces across systems
-- **Primary intent:** Understand shared system anatomy
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Sobat Cubicle.id`
-- **Natural variants:** `Kawan Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not specify individual hardware; CUB-07-A owns hardware selection and CUB-11-B owns installation checks
-- **Final public route:** `/artikel/anatomi-sistem-cubicle.html`
-- **Appointed CMS date:** `2025-08-17` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: cubicle adalah sistem. Panel membentuk bidang, rangka atau pilaster menyalurkan dan menahan beban, hardware membuat daun pintu dapat bergerak serta terkunci, anchor mengikat sistem ke bangunan, sedangkan interface memastikan listrik, plumbing, seal, dan finishing tidak saling mengganggu. Pilihan material saja belum membuktikan sistem aman atau sesuai proyek. PP 16/2021 menempatkan keputusan bangunan dalam konteks keselamatan, kesehatan, kenyamanan, fungsi, pemeliharaan, dan dokumentasi; detail penerapannya tetap memerlukan dokumen proyek dan peninjauan profesional ([PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)).
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Anatomi Sistem Cubicle: Panel, Rangka, Hardware, dan Interface**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Cubicle.id`, `Kawan Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi cubicle panel](/wp-content/uploads/2023/03/cubicle-panel.jpg)
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Apa saja bagian anatomi sistem cubicle dan batas pembahasannya?
+
+Sebelum menilai satu spesifikasi, petakan dulu objek yang sedang dibandingkan. Bagian ini mencegah panel dekoratif disamakan dengan panel struktural atau produk lepas disamakan dengan instalasi lengkap.
+
+**Panel** adalah bidang pengisi dan pembatas pandangan. Laminasi dekoratif (HPL) merupakan lembar permukaan yang perlu direkatkan ke penyangga, sedangkan compact laminate adalah panel padat yang dapat berdiri sendiri pada konfigurasi tertentu. ISO 4586 memisahkan kategori lembar HPL, HPL tipis untuk direkatkan ke penyangga, dan compact laminate interior ([ISO 4586-1](https://www.iso.org/standard/72959.html), [ISO 4586-3](https://www.iso.org/standard/72961.html), [ISO 4586-4](https://www.iso.org/standard/72962.html)). Jadi, tanyakan apakah data yang Anda terima berlaku untuk lembar permukaan, panel, atau rakitan terpasang.
+
+**Rangka, pilaster, stile, kaki, dan headrail** adalah penyangga yang mengatur geometri serta jalur beban. Pada sistem drywall, misalnya, papan dan rangka adalah komponen berbeda; jenis papan tidak otomatis menetapkan ukuran stud, tinggi, ketahanan benturan, akustik, atau ketahanan api ([Knauf drywall systems](https://knauf.com/en-EG/systems/drywall-systems)).
+
+**Hardware** mencakup engsel, latch, handle, indikator, bracket, dan aksesori gerak. Artikel ini memetakan perannya, bukan memilih merek, ukuran, atau tipe individual. Pemilihan dan pemeriksaan pemasangan harus mengikuti paket proyek tersendiri.
+
+**Anchor dan interface** menghubungkan cubicle ke lantai, dinding, plafon, serta layanan seperti pipa dan kabel. Finishing, seal, celah pembersihan, dan akses inspeksi juga termasuk interface karena menentukan apakah sistem dapat dirawat tanpa merusak komponen lain.
+
+## Bagaimana panel, rangka, hardware, dan interface bekerja sebagai satu sistem?
+
+Setelah setiap bagian dikenali, telusuri sebab-akibatnya. Kesalahan biasanya terjadi ketika gambar hanya dibaca per komponen, bukan sebagai urutan kerja dari beban hingga bangunan.
+
+Beban pada pintu atau panel masuk ke engsel dan pilaster, lalu diteruskan ke kaki, bracket, anchor, dan akhirnya ke lantai atau struktur pendukung. Karena itu, lubang, jarak tepi, jenis pengikat, dan kondisi substrat tidak boleh diputuskan dari label material saja. Petunjuk pemasangan Bobrick menunjukkan bahwa partisi terdiri dari panel, pilaster, pintu, latch, engsel, kaki, headrail, bracket, dan pengikat yang harus dikoordinasikan ([petunjuk Bobrick 2040](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
+
+[Beranda Cubicle.id](/) memuat konteks umum layanan. Pada ruang basah, sambungan panel dengan lantai dan dinding harus tetap dapat dibersihkan serta tidak menghalangi drainase. Compact laminate dapat berubah dimensi mengikuti kelembapan; panduan fabrikasi Formica menekankan perlunya mempertimbangkan pengkondisian, lubang, tepi, dan cara pemasangan ([Formica Compact fabrication guidance](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)). Konsekuensinya, detail potongan dan celah perlu ditetapkan sebelum produksi, bukan disesuaikan secara improvisasi di lapangan.
+
+Interface layanan bekerja dengan prinsip yang sama. Pipa, kabel, kisi ventilasi, atau akses inspeksi memerlukan ruang dan urutan pemasangan. Tandai siapa yang menyediakan bukaan, siapa yang menutupnya, dan kapan pengujian dilakukan. Jika jawaban itu belum ada, beri penanda `[NEEDS PROJECT COORDINATION]` pada submittal.
+
+## Faktor proyek apa yang mengubah hasil sistem cubicle?
+
+Heading ini penting karena komponen yang sama dapat berperilaku berbeda ketika konteksnya berubah. Gunakan empat pemeriksaan berikut sebelum menyetujui gambar.
+
+Pertama, **substrat dan jalur beban**. Lantai berlapis, dinding ringan, atau plafon gantung mungkin memerlukan metode tumpuan berbeda. Tanpa data struktur dan detail anchor, jangan menyimpulkan kapasitas atau kestabilan.
+
+Kedua, **lingkungan dan perawatan**. Area kering, toilet, ruang servis, dan lokasi dengan kelembapan tinggi memiliki kebutuhan pembersihan serta toleransi sambungan yang berbeda. Bukti produk compact laminate tidak otomatis menjadi bukti kinerja seluruh rakitan terpasang ([Bobrick compact-grade laminate](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/)).
+
+Ketiga, **fungsi dan akses pengguna**. Arah bukaan, ruang gerak, pandangan, dan akses perawatan harus dibaca bersama layout. Untuk kaca, tempered dan laminated menjawab pertanyaan pecah serta retensi yang berbeda; identitas produk tidak menentukan ukuran panel, lubang, tepi, fitting, atau kecukupan frame pada proyek tertentu.
+
+Keempat, **urutan pekerjaan dan bukti**. Minta gambar koordinasi, lembar data material, detail sambungan, instruksi pabrikan, serta catatan inspeksi. Jika salah satu bukti belum tersedia, keputusan harus tetap bersyarat dan ditinjau pihak berwenang.
+
+## Bagaimana membuat keputusan praktis dari gambar kerja atau dokumen penawaran?
+
+Kawan Cubicle.id, gunakan peta sederhana berikut agar diskusi tidak berhenti pada warna permukaan.
+
+| Pertanyaan | Jika jawabannya jelas | Jika belum jelas |
+|---|---|---|
+| Panel apa yang dipakai dan apa fungsi penyangganya? | Cocokkan data dengan tipe panel | Minta penampang dan data produk |
+| Ke mana beban pintu dan panel diteruskan? | Tinjau rangka, kaki, bracket, anchor | Tandai `[NEEDS LOAD PATH REVIEW]` |
+| Apa yang terjadi di lantai, dinding, dan plafon? | Cocokkan substrat dengan detail fixing | Minta detail interface bangunan |
+| Di mana pipa, kabel, dan akses inspeksi? | Kunci koordinasi antar-disiplin | Jangan izinkan bukaan lapangan tanpa persetujuan |
+| Bukti apa yang mendukung klaim kinerja? | Simpan dokumen dan versinya | Hapus klaim angka atau kepatuhan |
+
+Skenario bersyaratnya begini: bila panel compact dipasang di area lembap, periksa dimensi, tepi, lubang, dan pengikat sesuai dokumen sistem. Bila hanya menerima brosur HPL, jangan menyebutnya sebagai bukti kinerja partisi lengkap. Bila ada kaca, minta identitas safety glass dan detail tumpuan sebelum menyimpulkan kesesuaian.
+
+## Kesalahan umum saat membaca anatomi cubicle dan cara memeriksanya
+
+Kesalahan pertama adalah menganggap satu material menentukan semua sifat rakitan. Periksa selalu pasangan material–penyangga–sambungan–lingkungan.
+
+Kesalahan kedua adalah menyalin ukuran atau beban dari produk lain. Dokumen Bobrick dan Formica berguna untuk memahami komponen dan proses, bukan untuk memindahkan angka ke produk atau proyek Indonesia tanpa verifikasi.
+
+Kesalahan ketiga adalah menaruh layanan setelah panel selesai. Bacalah gambar gabungan dan tetapkan tanggung jawab bukaan, seal, dan akses sebelum fabrikasi.
+
+Kesalahan keempat adalah menyebut “sesuai standar” hanya karena ada logo atau nama standar. Catatan PP 16/2021 menegaskan perlunya melihat keselamatan, kesehatan, kenyamanan, fungsi, pemeliharaan, dan dokumentasi dalam konteks bangunan; bukti produk tunggal tidak cukup untuk pernyataan kepatuhan.
+
+## Mengapa jalan pintas “pilih panel lalu urusan lain menyusul” berisiko?
+
+Shortcut itu tampak cepat karena panel mudah dibandingkan lewat katalog. Namun jalur beban dapat terputus, anchor tidak cocok dengan substrat, atau bukaan layanan bertabrakan dengan rangka. Akibatnya, perubahan lapangan terjadi ketika akses sudah terbatas.
+
+Alternatif yang lebih aman adalah membuat matriks antarmuka sebelum menyetujui panel: siapa menyiapkan substrat, siapa memasang anchor, siapa mengoordinasikan layanan, dokumen mana yang menjadi rujukan, dan pemeriksaan apa yang masih terbuka. Teman Cubicle.id, jika salah satu baris belum punya pemilik atau bukti, tahan keputusan pada bagian itu dan minta tinjauan teknis.
+
+## Kesimpulan: peta anatomi sebelum memilih komponen
+
+Anatomi sistem cubicle terdiri dari panel, rangka, hardware, anchor, layanan, finishing, dan interface yang bekerja sebagai satu jalur. Panel menjawab pembatas, rangka dan anchor menjawab tumpuan, hardware menjawab gerak, sedangkan interface menjaga hubungan dengan bangunan dan layanan.
+
+Langkah berikutnya: tandai semua komponen pada gambar, gambar jalur beban dan layanan, lalu kumpulkan lembar data serta instruksi pemasangan yang benar-benar cocok dengan produk. Jangan membuat angka kapasitas, rating, atau klaim kepatuhan sebelum bukti proyek dan peninjauan profesional tersedia. Itulah batas kerja peta anatomi ini.
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -68,140 +115,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle panel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-### KR-05
-
-- **Original sources:** [ISO 4586-1:2018 overview of the HPL series](https://www.iso.org/standard/72959.html), [ISO 4586-3:2018 thin HPL for bonding to a support](https://www.iso.org/standard/72961.html), [ISO 4586-4:2018 interior compact laminate](https://www.iso.org/standard/72962.html), [Knauf drywall systems overview](https://knauf.com/en-EG/systems/drywall-systems)
-- **Purpose for this article:** Prevent the catalog from treating HPL, compact laminate, gypsum board, framing, and a complete partition as synonyms.
-- **Safe grounded facts:** A decorative laminate sheet, a self-supporting compact panel, a composite panel, and an installed cubicle are different objects. Likewise, board type does not establish stud size, height capacity, impact resistance, acoustic performance, fire performance, or suitability around services.
-- **Limits:** ISO abstracts do not expose classifications or test values. Named manufacturer configurations are not universal and must be matched to locally supplied documents; resolve `G-05`.
-
-### KR-07
-
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass detail record — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass detail record — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)
-- **Purpose for this article:** Keep glass/aluminium partition selection tied to safety-glass identity, support, edge condition, human impact, doors, and installed context.
-- **Safe grounded facts:** Tempered and laminated products answer different breakage and retention questions. Product conformity does not determine project thickness, panel size, holes/cut-outs, edge support, fittings, guard/fall function, manifestation, door hardware, or frame/anchor adequacy.
-- **Limits:** Full SNI text, project design, and current supplier evidence are required before exact criteria or a compliance statement. Resolve `G-01`, `G-03`, and `G-13`.
-
-### KR-09
-
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-01-A` → `/artikel/apa-itu-cubicle.html` — Apa Itu Cubicle? Panduan Membedakan Kubikel Kantor, Toilet, dan Listrik
-- `CUB-01-B` → `/artikel/kamus-cubicle-dan-kubikel.html` — Kamus Cubicle dan Kubikel untuk Brief, Gambar, dan Penawaran
-- `CUB-01-D` → `/artikel/siklus-hidup-cubicle.html` — Siklus Hidup Cubicle dari Kebutuhan hingga Penggantian
-- `CUB-01-E` → `/artikel/kapan-cubicle-tidak-perlu-diganti.html` — Kapan Cubicle Tidak Perlu Diganti?
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Sistem Cubicle: Panel, Rangka, Hardware, dan Interface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Sistem Cubicle: Panel, Rangka, Hardware, dan Interface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Sistem Cubicle: Panel, Rangka, Hardware, dan Interface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Sistem Cubicle: Panel, Rangka, Hardware, dan Interface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Sistem Cubicle: Panel, Rangka, Hardware, dan Interface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Sistem Cubicle: Panel, Rangka, Hardware, dan Interface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

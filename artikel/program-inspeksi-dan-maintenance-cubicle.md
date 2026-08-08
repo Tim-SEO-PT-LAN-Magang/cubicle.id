@@ -2,8 +2,9 @@
 article_id: CUB-12-A
 title: "Menyusun Program Inspeksi dan Maintenance Cubicle"
 slug: "program-inspeksi-dan-maintenance-cubicle"
-description: "Assign assets, owners, interval basis, tasks, evidence, acceptance, escalation, spares, warranty links, and review cycle"
-status: outline
+description: "Panduan praktis menetapkan aset, penanggung jawab, bukti, eskalasi, dan siklus tinjauan cubicle."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-25"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,51 +16,14 @@ final_route: "/artikel/program-inspeksi-dan-maintenance-cubicle.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://www.iso.org/standard/72960.html"
-  - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
   - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Menyusun Program Inspeksi dan Maintenance Cubicle
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Menyusun Program Inspeksi dan Maintenance Cubicle”
-- **Reader and situation:** Facility manager taking over a system
-- **Reader outcome:** Assign assets, owners, interval basis, tasks, evidence, acceptance, escalation, spares, warranty links, and review cycle
-- **Primary intent:** Build a maintenance program
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Teman Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Kawan Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not invent intervals; manufacturer/project evidence controls frequency and CUB-13-A owns symptom diagnosis
-- **Final public route:** `/artikel/program-inspeksi-dan-maintenance-cubicle.html`
-- **Appointed CMS date:** `2026-04-25` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menyusun Program Inspeksi dan Maintenance Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.id`, `Sobat Cubicle.id`, or `Kawan Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -70,138 +34,72 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Teman Cubicle.id! Saat Anda mengambil alih fasilitas, jadwal “cek dan bersihkan” belum cukup disebut program maintenance. Program yang dapat dipakai harus menetapkan aset, pemilik tindakan, dasar interval, bukti, kriteria penerimaan, jalur eskalasi, suku cadang, dan waktu tinjauan ulang.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Mulailah dari gambar terpasang, dokumen serah terima, petunjuk pabrikan, serta persyaratan proyek. Jangan menyalin interval dari gedung lain. Frekuensi mengikuti bukti tersebut, pola pemakaian, lingkungan, dan tren inspeksi. Jika dokumen tidak ada, tulis `[NEEDS PROJECT/MANUFACTURER EVIDENCE]`; jangan mengisi kekosongan dengan angka tebakan.
 
-### KR-01
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
 
-### KR-03
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Tentukan aset dan kondisi awal cubicle
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
+Sebelum membuat jadwal, sepakati bahwa satu cubicle adalah sistem: panel, tiang, pintu, engsel, kait, kaki, rel, braket, angkur, celah, dan tumpuan bangunan. Petunjuk pemasangan Bobrick menunjukkan bahwa konfigurasi memengaruhi urutan pemasangan dan akses pembersihan ([petunjuk instalasi Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
 
-### KR-08
+Buat ID untuk setiap ruang atau rakitan, lalu catat tipe sistem, material menurut dokumen, lokasi, dan komponen kritis. Rekam kondisi awal sebagai fakta: utuh, longgar, retak, terkena air, atau belum diverifikasi. Pisahkan gejala dari penyebab; pintu seret belum tentu berarti engsel rusak.
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+Untuk ruang yang harus aksesibel, tinjau pintu, ruang pendekatan, sirkulasi, perlengkapan, dan privasi sebagai satu rute. Satu ukuran panel tidak membuktikan aksesibilitas ruang ([status Permen PUPR 14/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)).
 
-### KR-09
+## Hubungkan penggunaan, lingkungan, dan perubahan sistem
 
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
+Bagian ini penting agar tim tidak langsung menambal gejala. Pemakaian berulang membebani sambungan dan kait; gerakan tumpuan dapat memindahkan beban ke panel. Air, uap, dan bahan kimia dapat mempercepat korosi atau merusak lapisan. Pengendalian sumber kelembapan merupakan bagian dari pemeliharaan bangunan ([panduan EPA](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)).
 
-### KR-20
+Istilah “compact” atau HPL hanya menyatakan kategori bahan, bukan kinerja seluruh rakitan. Lubang, tepi, pengikat, ventilasi, dan pengondisian kelembapan harus mengikuti dokumen sistem yang terpasang. Karena itu, catat lokasi air, pola benturan, serta komponen sekitar ketika menemukan delaminasi, karat, atau seal terbuka. Bila penyebab belum jelas, pilih pemeriksaan lanjutan.
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+## Tetapkan inspeksi dan data yang wajib disimpan
 
-## Evidence gates
+Inspeksi membandingkan kondisi aktual dengan baseline. Formulir minimal berisi ID aset, tanggal, petugas, kondisi pintu dan kait, kelonggaran sambungan, retak atau perubahan tepi, tanda air/korosi, foto penanda lokasi, tindakan sementara, dan status verifikasi.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Tulis interval sebagai mengikuti instruksi pabrikan/proyek dan hasil tren sampai dasar waktunya tersedia. “Tidak dapat diakses” dicatat sebagai hasil, bukan dibiarkan kosong. Gunakan sudut foto yang konsisten agar perubahan dapat dibandingkan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Kriteria terima harus berasal dari dokumen serah terima atau manual. Jika hilang, minta pemilik proyek atau pabrikan mengesahkan baseline dan metode pemeriksaan; beri tanda `[NEEDS ACCEPTANCE CRITERIA]`.
 
-## Internal-link plan
+## Pilih perawatan atau intervensi yang tepat
 
-### Existing local routes
+Pilih tindakan paling ringan yang memulihkan fungsi tanpa menutupi penyebab. Pemantauan cocok bila perubahan kecil dan tidak memengaruhi keselamatan atau privasi. Pembersihan harus mengikuti metode produk; Bobrick menyediakan sumber daya perawatan partisi ([panduan cleaning dan maintenance Bobrick](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/)).
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Perbaikan atau penggantian harus mencocokkan model, material, pengikat, dan syarat garansi. Pembongkaran kaca, pekerjaan pada tumpuan bangunan, atau perubahan sistem berenergi memerlukan teknisi berwenang. Isolasi ruang bila ada ketidakstabilan, bagian tajam, pintu gagal mengunci, atau air terus masuk.
 
-### Planned sibling articles
+## Susun prioritas dan jalur eskalasi
 
-These are future routes. Do not link them as live until their HTML exists.
+Nilai konsekuensi terhadap keselamatan, privasi, aksesibilitas, gangguan operasi, kerusakan lanjutan, dan kemampuan mengisolasi ruang. Kritis berarti isolasi dan eskalasi segera; tinggi memerlukan rencana serta verifikasi; sedang dijadwalkan sambil dipantau; rendah digabung dengan pekerjaan rutin.
 
-- `CUB-12-B` → `/artikel/inspeksi-visual-cubicle.html` — Checklist Inspeksi Visual Cubicle untuk Facility Team
-- `CUB-12-C` → `/artikel/sop-membersihkan-cubicle.html` — SOP Membersihkan Cubicle tanpa Merusak Panel dan Hardware
+Tetapkan siapa yang menyetujui pembelian, menutup pekerjaan, dan menilai dampak garansi. Sobat Cubicle.id, bila bukti mengarah ke tumpuan atau bangunan, minta pemeriksaan profesional—jangan memaksa komponen agar tampak rapi.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Kelola rekaman, serah terima, dan tinjauan ulang
 
-## Tentukan objek, kondisi, dan tahap siklus hidup
+Satu register memuat ID aset, dokumen rujukan, riwayat temuan, foto, suku cadang, vendor, keputusan, dan tanggal tinjauan berikutnya. Simpan bukti penerimaan pekerjaan dan alasan perubahan interval. Klaim garansi hanya boleh ditulis jika syaratnya ada dalam dokumen produk atau kontrak.
 
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Menyusun Program Inspeksi dan Maintenance Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Picu pemeriksaan ulang setelah keluhan berulang, perubahan pemakaian, kebocoran, renovasi, penggantian material, kegagalan komponen serupa, atau berakhirnya garansi. Setelah pekerjaan selesai, petugas lain memeriksa fungsi, kebersihan, kestabilan, dan akses ruang sebelum status ditutup.
 
-## Mekanisme perubahan atau penurunan kinerja
+Untuk handover, simpan versi formulir dan riwayat perubahan bersama register aset. Catat siapa yang mengubah data dan dokumen pendukungnya. Ringkasan temuan membantu pemilik fasilitas melihat pola ruang yang berulang bermasalah.
 
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Menyusun Program Inspeksi dan Maintenance Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Hindari jadwal tahunan yang seragam
 
-## Inspeksi dan data yang perlu dicatat
+Satu jadwal tahunan untuk semua cubicle mengabaikan perbedaan area basah, intensitas pakai, konfigurasi, dan bukti pabrikan. Akibatnya, masalah dapat terlambat terlihat sementara pekerjaan yang tidak perlu menyita waktu. Gunakan daftar aset berbasis kondisi, interval dengan dasar tertulis, dan tinjauan tren. Diagnosis penyebab mendalam memerlukan prosedur dan kewenangan tersendiri.
 
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Menyusun Program Inspeksi dan Maintenance Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah berikutnya untuk pengelola fasilitas
 
-## Pilihan perawatan atau intervensi
+Susun program dari register aset, baseline, pemilik tindakan, interval berbasis bukti, formulir, kriteria penerimaan, eskalasi, suku cadang, dan siklus tinjauan. Minta gambar terpasang, manual, catatan serah terima, serta syarat garansi hari ini. Jika belum tersedia, pertahankan `[NEEDS PROJECT/MANUFACTURER EVIDENCE]` dan jangan menerbitkan angka interval atau klaim kepatuhan. Aturan operasinya: setiap tindakan harus dapat ditelusuri dari kondisi yang dicatat ke keputusan yang disetujui.
 
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Menyusun Program Inspeksi dan Maintenance Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan satu area percontohan agar format register dan formulir dapat diuji tanpa mengubah seluruh operasi sekaligus. Pastikan setiap temuan memiliki pemilik dan tanggal tindak lanjut; temuan tanpa penanggung jawab mudah hilang di antara pekerjaan kebersihan dan perbaikan umum. Pada rapat tinjauan, bandingkan temuan berulang dengan perubahan penggunaan atau kelembapan, lalu dokumentasikan alasan bila interval diubah. Jangan menganggap tidak adanya keluhan sebagai bukti bahwa komponen aman, karena ruang yang jarang diperiksa dapat menyembunyikan perubahan kecil.
 
-## Cara menentukan prioritas
+Untuk membantu penerapan, gunakan [ruang lingkup layanan cubicle](/) sebagai titik awal daftar periksa kerja yang ditinjau bersama pemilik fasilitas dan teknisi berwenang.
 
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menyusun Program Inspeksi dan Maintenance Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pisahkan pekerjaan yang dapat dilakukan petugas fasilitas dari pekerjaan yang memerlukan persetujuan teknis. Pemeriksaan visual, pencatatan kelonggaran, dan pembersihan sesuai petunjuk dapat masuk rutinitas. Sebaliknya, perubahan angkur, pemotongan panel, atau pembongkaran bagian yang menahan beban harus ditahan sampai metode dan kewenangan jelas. Dengan pembagian ini, catatan inspeksi tidak berubah menjadi izin kerja yang tidak pernah disetujui.
 
-## Rekaman, handover, dan pemicu pemeriksaan ulang
+Saat beberapa cubicle menunjukkan gejala serupa, buat satu tiket pola selain tiket per ruang. Tiket pola mencatat kemungkinan penyebab bersama dan siapa yang memverifikasinya, sedangkan tiket per ruang mencatat tindakan lokal. Tutup keduanya hanya setelah pemeriksaan ulang menunjukkan fungsi kembali dan bukti pendukung tersimpan.
 
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Menyusun Program Inspeksi dan Maintenance Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Cubicle.id, simpan keputusan itu dalam bahasa yang dapat dipahami petugas berikutnya, bukan hanya kode internal. Catatan singkat tentang alasan penundaan, batas isolasi, dan dokumen yang masih diminta akan mencegah pekerjaan diulang tanpa arah.

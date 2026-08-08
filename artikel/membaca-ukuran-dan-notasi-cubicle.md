@@ -2,8 +2,9 @@
 article_id: CUB-01-F
 title: "Cara Membaca Ukuran dan Notasi pada Gambar Cubicle"
 slug: "membaca-ukuran-dan-notasi-cubicle"
-description: "Explain reference planes, clear/opening dimensions, tolerances as project-specific values, levels, modules, and revision marks"
-status: outline
+description: "Panduan praktis membaca bidang acuan, ukuran bukaan, level, modul, toleransi, dan revisi pada gambar cubicle."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,19 @@ final_route: "/artikel/membaca-ukuran-dan-notasi-cubicle.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
   - "https://www.iso.org/standard/72959.html"
-  - "https://www.iso.org/standard/72961.html"
   - "https://www.iso.org/standard/72962.html"
-  - "https://knauf.com/en-EG/systems/drywall-systems"
-  - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
-  - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Cara Membaca Ukuran dan Notasi pada Gambar Cubicle
 
-## Assignment lock
+Halo, Sobat Cubicle.id! Saat memeriksa layout, elevasi, atau schedule cubicle, kesalahan sering dimulai dari angka yang diambil dari sisi yang keliru. Akibatnya pintu, panel, dan titik sambungan tidak bertemu ketika gambar diterjemahkan ke pekerjaan.
 
-- **Writer task:** Expand this file into one complete article answering: “Cara Membaca Ukuran dan Notasi pada Gambar Cubicle”
-- **Reader and situation:** Buyer checking a layout, elevation, or schedule
-- **Reader outcome:** Explain reference planes, clear/opening dimensions, tolerances as project-specific values, levels, modules, and revision marks
-- **Primary intent:** Interpret drawing conventions
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Sobat Cubicle.id`
-- **Natural variants:** `Kawan Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not prescribe accessibility dimensions; CUB-08-A owns measurement workflow and CUB-02-C owns survey records
-- **Final public route:** `/artikel/membaca-ukuran-dan-notasi-cubicle.html`
-- **Appointed CMS date:** `2025-08-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Baca gambar dari bidang acuannya, bedakan ukuran bersih dengan ukuran keseluruhan, cocokkan level dan modul dengan legenda, lalu kunci nomor revisinya. Nilai toleransi, detail pengikat, dan keputusan keselamatan tetap bergantung pada gambar proyek yang disetujui serta bukti pemasok. PP 16/2021 menempatkan perencanaan, penggunaan, pemeliharaan, dan dokumentasi sebagai bagian keputusan bangunan; label produk saja tidak membuktikan kepatuhan ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)).
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Membaca Ukuran dan Notasi pada Gambar Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Cubicle.id`, `Kawan Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -68,138 +39,71 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
-## Evidence packet
+*Ilustrasi umum dari aset lokal Cubicle.id; bukan dokumentasi proyek tertentu.*
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+## Apa yang dipastikan sebelum membaca angka?
 
-### KR-01
+Pastikan revisi gambar berlaku, jenis lembar jelas (denah, elevasi, detail, atau schedule), serta skala dan legenda terlihat. Tandai objek yang diperiksa dan nomor gambarnya. Jika denah dan elevasi berbeda, tahan keputusan sampai penerbit gambar menjelaskan hubungan keduanya.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+## Bagaimana menentukan bidang acuan dan ukuran bersih?
 
-### KR-02
+Bidang acuan adalah garis atau permukaan tempat pengukuran dimulai. Ikuti anak panah dan garis bantu dimensi sampai kembali ke garis dinding, sumbu, atau datum; jangan mengukur dari tepi kertas. Ukuran bersih (clear opening) adalah ruang yang tersisa setelah komponen terpasang, sedangkan ukuran keseluruhan (overall) mencakup panel, profil, dan celah. Tulis keterangan “bersih antara muka jadi” atau “luar ke luar” di lembar pemeriksaan.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
+Simbol seperti `Ø`, `R`, atau `CL` hanya bermakna setelah legenda dibaca. Bila simbol tidak didefinisikan, beri penanda `[NEEDS SYMBOL CLARIFICATION]`.
 
-### KR-05
+## Bagaimana membaca ketinggian, tinggi, dan susunan modul?
 
-- **Original sources:** [ISO 4586-1:2018 overview of the HPL series](https://www.iso.org/standard/72959.html), [ISO 4586-3:2018 thin HPL for bonding to a support](https://www.iso.org/standard/72961.html), [ISO 4586-4:2018 interior compact laminate](https://www.iso.org/standard/72962.html), [Knauf drywall systems overview](https://knauf.com/en-EG/systems/drywall-systems)
-- **Purpose for this article:** Prevent the catalog from treating HPL, compact laminate, gypsum board, framing, and a complete partition as synonyms.
-- **Safe grounded facts:** A decorative laminate sheet, a self-supporting compact panel, a composite panel, and an installed cubicle are different objects. Likewise, board type does not establish stud size, height capacity, impact resistance, acoustic performance, fire performance, or suitability around services.
-- **Limits:** ISO abstracts do not expose classifications or test values. Named manufacturer configurations are not universal and must be matched to locally supplied documents; resolve `G-05`.
+Level menunjukkan ketinggian terhadap datum proyek; tinggi panel menunjukkan jarak antarpermukaan komponen. Cari tanda `+` atau `±` dan datum lantai. Jangan menyamakan lantai struktur dengan lantai jadi tanpa catatan pada gambar.
 
-### KR-07
+Modul adalah pengulangan ukuran atau posisi. Kode modul pada schedule baru bermakna setelah tabel tipe dibaca. Buat pasangan “kode–deskripsi–lembar rujukan” agar kode yang sama tidak ditafsirkan berbeda.
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass detail record — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass detail record — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)
-- **Purpose for this article:** Keep glass/aluminium partition selection tied to safety-glass identity, support, edge condition, human impact, doors, and installed context.
-- **Safe grounded facts:** Tempered and laminated products answer different breakage and retention questions. Product conformity does not determine project thickness, panel size, holes/cut-outs, edge support, fittings, guard/fall function, manifestation, door hardware, or frame/anchor adequacy.
-- **Limits:** Full SNI text, project design, and current supplier evidence are required before exact criteria or a compliance statement. Resolve `G-01`, `G-03`, and `G-13`.
+Material juga perlu dibedakan. Lembaran laminasi dekoratif, compact laminate yang dapat berdiri sendiri, panel komposit, dan cubicle terpasang bukan objek yang sama. Ringkasan seri ISO HPL dan compact laminate menjelaskan lingkup material, bukan kapasitas rangka atau kinerja sistem ([ISO 4586-1](https://www.iso.org/standard/72959.html), [ISO 4586-4](https://www.iso.org/standard/72962.html)).
 
-### KR-09
+## Bagaimana memahami toleransi tanpa mengarang angka?
 
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
+Toleransi adalah rentang penyimpangan yang diterima untuk dimensi atau posisi. Pakai nilai dari gambar proyek atau dokumen produk; bila tidak ada, tulis `[NEEDS TOLERANCE: nilai dan sumber proyek]`. Toleransi penting di pertemuan pintu–pilaster, panel–dinding, dan kaki–lantai.
 
-## Evidence gates
+Perubahan kelembapan dapat memengaruhi compact laminate, sedangkan lubang dan jarak tepi memengaruhi jalur beban. Panduan fabrikasi Formica meminta kondisi material dan detail pengerjaan sesuai produknya, bukan angka yang disalin ke sistem lain ([panduan Formica Compact](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)).
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Saat ada beberapa ruang berulang, jangan langsung menjumlahkan angka modul. Periksa apakah ukuran itu jarak sumbu, lebar ruang bersih, atau lebar panel. Selisih kecil yang berulang dapat bergeser ke dinding terakhir. Tulis hasil penjumlahan dan bandingkan dengan dimensi total pada gambar.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Perhatikan arah bukaan pintu dan posisi panel sudut. Simbol ayunan pintu menjelaskan ruang bebas pada denah, tetapi tidak otomatis menjawab semua kebutuhan pengguna. Bila gambar menyebut “tipikal”, cari detail yang memuat pengecualian sebelum menerapkannya ke setiap ruang.
 
-## Internal-link plan
+## Urutan pemeriksaan gambar cubicle
 
-### Existing local routes
+### Tetapkan lingkup dan antarmuka
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Tandai area cubicle dan hubungannya dengan lantai, dinding, plafon, pintu, serta layanan bangunan. Batas ini mencegah gambar dibaca sebagai jawaban untuk survei lapangan atau keputusan aksesibilitas yang berada di proses lain.
 
-### Planned sibling articles
+### Cocokkan dimensi, kode, dan detail produk
 
-These are future routes. Do not link them as live until their HTML exists.
+Baca dimensi dari acuan ke objek, cocokkan kode dengan schedule, lalu buka detail sambungan. Instruksi pemasangan Bobrick menunjukkan panel, pilaster, pintu, engsel, pengunci, kaki, braket, dan jangkar sebagai satu konfigurasi; perubahan komponen dapat mengubah urutan pasang dan kebutuhan penopang ([instruksi Bobrick 2040](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)). Jangan menyalin ukurannya ke proyek lain tanpa konfirmasi pemasok.
 
-- `CUB-01-D` → `/artikel/siklus-hidup-cubicle.html` — Siklus Hidup Cubicle dari Kebutuhan hingga Penggantian
-- `CUB-01-E` → `/artikel/kapan-cubicle-tidak-perlu-diganti.html` — Kapan Cubicle Tidak Perlu Diganti?
+### Tandai revisi
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Bandingkan nomor revisi semua lembar terkait. Lingkari angka atau catatan yang berubah dan tulis dampaknya pada pesanan, lubang, serta pekerjaan lapangan. Revisi yang belum diterbitkan resmi bukan dasar pemesanan.
 
-## Hasil akhir dan prasyarat
+## Kapan harus berhenti dan meminta peninjauan?
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Ukuran dan Notasi pada Gambar Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berhenti ketika acuan tidak jelas, ukuran bersih bertentangan dengan ukuran keseluruhan, level tanpa datum, kode tanpa legenda, atau detail pengikat tidak cocok dengan bangunan. Kawan Cubicle.id, jangan menutup celah bukti dengan asumsi “nanti bisa disetel”. Minta jawaban tertulis dari perancang, koordinator, atau pemasok berwenang.
 
-## Langkah 1 — tetapkan scope
+Klaim kepatuhan, performa, dan keselamatan juga memerlukan bukti proyek. Jika keputusan menyentuh fungsi keselamatan atau perubahan bangunan, tandai `[NEEDS PROFESSIONAL REVIEW]` sebelum pemesanan.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Ukuran dan Notasi pada Gambar Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Apa yang diserahkan setelah pemeriksaan?
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+Serahkan gambar bernomor revisi, daftar dimensi bersih dan keseluruhan, tabel kode modul, pertanyaan terbuka, serta dokumen produk yang dipakai. Catat siapa yang menjawab dan lembar mana yang berubah. Pastikan versi di lapangan sama dengan versi dasar pemesanan. Untuk pemeriksaan lanjutan, simpan daftar ini bersama dokumen proyek dan gunakan [halaman utama Cubicle.id](/) sebagai titik kembali, bukan pengganti gambar kerja.
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Ukuran dan Notasi pada Gambar Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum berkas dibagikan, lakukan pemeriksaan silang singkat. Ambil satu ruang sebagai sampel, lalu cocokkan nomor tipe pada schedule dengan simbol di denah, tinggi pada elevasi, dan detail kaki atau pengikat yang dirujuk. Tulis hasilnya dalam empat kolom: “terbaca”, “sumber lembar”, “jawaban yang masih diminta”, dan “dampak bila berubah”. Cara ini membuat pertanyaan mudah dijawab tanpa mengulang seluruh pembacaan. Jika ada beberapa ruang dengan kode sama, catat pengecualian tiap ruang—misalnya dinding atau posisi pintu yang berbeda—alih-alih menyalin catatan sampel secara otomatis. Pemeriksaan administratif ini tidak menggantikan tinjauan teknis, tetapi membantu memastikan tidak ada lembar atau revisi yang tertinggal.
 
-## Langkah 3 — jalankan urutan kerja
+## Jalan pintas yang sering gagal
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Ukuran dan Notasi pada Gambar Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Membaca satu denah lalu menganggap semua tinggi, celah, dan pengikat mengikuti angka itu gagal karena denah memberi posisi, sedangkan elevasi dan detail menjelaskan tinggi serta sambungan. Ikuti rantai acuan–dimensi–kode–detail–revisi dan tahan keputusan jika satu mata rantai hilang.
 
-## Hold point dan kondisi berhenti
+## Kesimpulan: baca dari acuan, lalu kunci revisinya
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Ukuran dan Notasi pada Gambar Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Cara membaca gambar cubicle ialah menetapkan acuan, memisahkan ukuran bersih dan keseluruhan, memahami level serta modul melalui legenda, mengambil toleransi hanya dari sumber proyek, lalu memeriksa revisi dan dokumen produk. Teman Cubicle.id, buat lembar klarifikasi dan minta persetujuan teknis untuk setiap nilai yang belum terbukti. Tanpa acuan, legenda, dan revisi yang sama, angka belum siap dipakai untuk memesan atau memasang.
 
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Ukuran dan Notasi pada Gambar Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Catatan tambahan: singkatan bahasa Inggris pada legenda sebaiknya diberi arti Indonesia di lembar pemeriksaan. Penjelasan singkat itu membantu pemeriksa berikutnya menelusuri alasan suatu ukuran dipakai, sekaligus menunjukkan bagian yang masih menunggu jawaban penerbit gambar.

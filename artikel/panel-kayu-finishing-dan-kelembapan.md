@@ -2,8 +2,9 @@
 article_id: CUB-06-E
 title: "Panel Berbasis Kayu, Finishing, dan Risiko Kelembapan"
 slug: "panel-kayu-finishing-dan-kelembapan"
-description: "Explain substrate identity, edge sealing, finish, emissions, cleaning, damage, moisture pathways, repair, and limits"
-status: outline
+description: "Panduan menilai inti panel kayu, lapisan finishing, jalur kelembapan, pembersihan, dan batas perbaikannya sebelum memilih."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-26"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,51 +17,12 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/72960.html"
   - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
-  - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.iso.org/standard/83943.html"
-  - "https://store.astm.org/e0119-24.html"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
   - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Panel Berbasis Kayu, Finishing, dan Risiko Kelembapan
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Panel Berbasis Kayu, Finishing, dan Risiko Kelembapan”
-- **Reader and situation:** Interior buyer balancing appearance, cost, and service conditions
-- **Reader outcome:** Explain substrate identity, edge sealing, finish, emissions, cleaning, damage, moisture pathways, repair, and limits
-- **Primary intent:** Evaluate wood-based panels
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Sobat Cubicle.id`
-- **Natural variants:** `Kawan Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not recommend wood-based panels for wet use without evidence; CUB-09-A owns exposure classification and CUB-13-C owns swelling diagnosis
-- **Final public route:** `/artikel/panel-kayu-finishing-dan-kelembapan.html`
-- **Appointed CMS date:** `2025-12-26` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Panel Berbasis Kayu, Finishing, dan Risiko Kelembapan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Cubicle.id`, `Kawan Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -71,139 +33,77 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle panel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Panel Berbasis Kayu, Finishing, dan Risiko Kelembapan
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Cubicle.id! Panel berbasis kayu sering dipilih karena tampilan hangat dan mudah dipadukan dengan ruang interior. Masalahnya, label “sudah dilapisi” kerap dianggap sama dengan “tahan air”. Padahal inti panel, tepi, lubang sekrup, sambungan, dan sumber air bekerja sebagai satu sistem.
 
-### KR-01
+Jawaban singkatnya: panel kayu dapat masuk akal untuk area interior yang paparan airnya terkendali, bila jenis intinya, lapisan permukaan, penyegelan tepi, detail sambungan, dan cara rawatnya dibuktikan. Untuk area basah atau kebocoran berulang, jangan menyimpulkan kelayakan hanya dari kata *HPL*, *phenolic*, atau *compact*. Standar ISO menjelaskan ruang lingkup metode dan jenis laminasi, bukan jaminan bahwa satu rakitan cubicle tertentu akan lolos di lokasi Anda ([ISO 4586-2](https://www.iso.org/standard/72960.html), [ISO 4586-4](https://www.iso.org/standard/72962.html)).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Artikel ini membantu Anda memisahkan nama material dari perilaku rakitan: apa yang harus ditanyakan kepada pemasok, jalur kelembapan mana yang diperiksa, bagaimana membersihkan tanpa mempercepat kerusakan, dan kapan perbaikan kosmetik harus dihentikan untuk pemeriksaan teknis.
 
-### KR-08
+![Ilustrasi cubicle panel](/wp-content/uploads/2023/03/cubicle-panel.jpg)
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
 
-### KR-15
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Apa yang sebenarnya dinilai dari panel berbasis kayu?
 
-- **Original sources:** [US EPA Moisture Control Guidance for Building Design, Construction and Maintenance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association mold-prevention guidance](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Ground moisture-exposure classification, material storage, ventilation, edge/interface details, leak diagnosis, and repair/replace decisions.
-- **Safe grounded facts:** “Moisture resistant” is not “waterproof assembly.” Leaks, condensation, capillary contact, submerged/flood exposure, drainage, ventilation, edges, fastener holes, substrate, sealants, corrosion, and drying access can control service life and hygiene.
-- **Limits:** US/industry guidance is not an Indonesian code. Exact exposure category, replacement threshold, sealant, chemical, and drying/remediation method need site facts and product instructions; resolve `G-05`, `G-06`, and `G-11`.
+Sebelum membandingkan warna dan harga, pastikan istilah “panel kayu” menunjuk benda yang sama. **Substrat** berarti inti atau papan pembentuk panel; ia memberi bentuk dan tempat bagi sekrup. **Finishing** berarti lapisan permukaan yang memberi warna, tekstur, dan perlindungan terbatas. **Penyegelan tepi** adalah perlakuan pada sisi potongan agar air tidak mudah masuk ke inti. Ketiganya berbeda fungsi dan tidak saling menggantikan.
 
-### KR-13
+HPL (laminasi tekanan tinggi) adalah lembar permukaan yang direkatkan ke substrat. Laminasi kompak memiliki konstruksi lebih padat daripada lembar HPL biasa, tetapi istilah “kompak” tetap perlu dipasangkan dengan lembar spesifikasi produk dan petunjuk fabrikasinya. Panduan pabrikan dapat berlaku hanya untuk produk dan pasar tertentu; ketersediaan serta instruksinya perlu dikonfirmasi untuk proyek di Indonesia ([panduan fabrikasi compact Formica](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)).
 
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
+Yang dinilai bukan permukaan saja. Tanyakan: apa inti panelnya, bagaimana tepi diselesaikan, jenis perekat atau sealant apa yang ditentukan, dan apakah lubang hardware mendapat perlakuan yang sama. Jika jawaban hanya menyebut motif dan ketebalan, bukti untuk kondisi lembap masih belum lengkap.
 
-### KR-20
+## Bagaimana kelembapan masuk dan menyebar di rakitan panel?
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+Jalur air biasanya lebih mudah ditemukan pada detail kecil daripada pada bidang muka. Air dapat datang dari cipratan, kondensasi, kebocoran pipa, lantai yang tergenang, atau kontak kapiler ketika tepi panel menyentuh permukaan basah. Air kemudian masuk melalui tepi terbuka, sambungan yang gagal, lubang bor, atau celah antara panel dan hardware.
 
-## Evidence gates
+Substrat yang menyerap air dapat mengembang atau kehilangan kestabilan; lapisan permukaan mungkin tetap tampak utuh untuk sementara. Karena itu, “tidak terlihat menggelembung” bukan pemeriksaan yang cukup. Prinsip pengendalian kelembapan EPA menekankan pengendalian sumber air, pengeringan, ventilasi, dan akses inspeksi sebagai satu rangkaian, bukan mengandalkan lapisan akhir saja ([EPA Moisture Control Guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)).
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Periksa urutannya: cari sumber air, tentukan apakah kontaknya sesaat atau berulang, lihat arah alirannya, lalu periksa tepi dan sambungan terdekat. Bila sumber belum dihentikan, menutup noda atau mengganti satu panel hanya memindahkan gejala ke tempat lain. Kawan Cubicle.id, anggap “tahan lembap” sebagai sifat dalam kondisi tertentu, bukan izin untuk merendam atau membiarkan kebocoran.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Faktor finishing, emisi, pembersihan, dan kerusakan
 
-## Internal-link plan
+Finishing memengaruhi apa yang dapat dibersihkan dan seberapa cepat goresan menjadi titik masuk air. Minta petunjuk pembersihan resmi untuk permukaan yang dipilih. Mulailah dengan metode paling lembut yang dinyatakan kompatibel; jangan mengasumsikan bahan kimia sanitasi, spons abrasif, atau pelarut aman untuk semua lapisan.
 
-### Existing local routes
+Pembersihan yang benar mengangkat kotoran tanpa mengikis permukaan atau mendorong air ke sambungan. Sumber pemeliharaan partisi toilet, misalnya, menempatkan metode pembersihan dan perawatan dalam konteks produk tertentu, bukan sebagai resep universal ([Bobrick cleaning and maintenance](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/)). Catat produk pembersih, konsentrasi, cara bilas, dan cara mengeringkan sesuai lembar produk.
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Emisi bahan dan bau juga perlu ditanyakan sebagai informasi produk, terutama untuk ruang tertutup. Jangan mengubah istilah emisi menjadi klaim kesehatan tanpa data pengujian yang sesuai. Minta lembar teknis dan, bila diwajibkan proyek, dokumen pengujian yang menyebut produk persis, bukan hanya nama keluarga material.
 
-### Planned sibling articles
+Kerusakan harus dibaca sebagai gejala. Lapisan mengelupas bisa terkait benturan, perekat, panas, atau kelembapan dari belakang. Tepi lunak dapat menunjukkan paparan air berulang. Sekrup longgar bisa berasal dari gerakan panel atau kegagalan substrat. Foto, lokasi, waktu muncul, dan aktivitas pembersihan membantu pemeriksa membedakan penyebab.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Contoh keputusan: kapan panel kayu layak dipertimbangkan?
 
-- `CUB-06-C` → `/artikel/panel-pvc-dan-komposit.html` — Panel PVC dan Komposit: Ringan Bukan Berarti Selalu Tepat
-- `CUB-06-D` → `/artikel/kaca-metal-dan-korosi-cubicle.html` — Kaca, Metal, dan Korosi pada Sistem Cubicle
-- `CUB-06-F` → `/artikel/persetujuan-sampel-finishing-cubicle.html` — Cara Menyetujui Sampel Warna, Tekstur, dan Finishing Cubicle
+Gunakan keputusan bersyarat berikut, bukan label tunggal:
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+| Situasi yang diketahui | Pertanyaan bukti | Keputusan sementara |
+|---|---|---|
+| Interior kering, sumber air terkendali | Ada spesifikasi substrat, finishing, tepi, dan hardware? | Dapat dipertimbangkan setelah sampel dan detail disetujui. |
+| Ada cipratan dan pembersihan rutin | Apakah instruksi produk menyebut kondisi tersebut dan cara mengeringkan? | Minta konfirmasi tertulis; jangan mengandalkan kata “water resistant”. |
+| Tepi dekat lantai atau titik pipa | Bagaimana isolasi tepi, drainase, dan akses inspeksinya? | Tahan keputusan sampai detail antarmuka diverifikasi. |
+| Pernah bocor atau terendam | Sumber sudah dihentikan dan inti panel diperiksa? | Perlakukan sebagai kasus kerusakan; perlu penilaian teknis, bukan sekadar touch-up. |
 
-## Jawaban singkat dan salah paham utama
+Jika bukti proyek belum tersedia, tandai `[NEEDS PRODUCT AND EXPOSURE REVIEW]`. Penanda ini lebih jujur daripada memberi rekomendasi basah yang belum terbukti.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Panel Berbasis Kayu, Finishing, dan Risiko Kelembapan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Panel Berbasis Kayu, Finishing, dan Risiko Kelembapan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Panel Berbasis Kayu, Finishing, dan Risiko Kelembapan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Panel Berbasis Kayu, Finishing, dan Risiko Kelembapan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Panel Berbasis Kayu, Finishing, dan Risiko Kelembapan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk menyiapkan pertanyaan dan dokumen sebelum meminta penawaran, Anda dapat mulai dari [beranda Cubicle.id](/).
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Panel Berbasis Kayu, Finishing, dan Risiko Kelembapan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan HPL dengan panel kedap air. Periksa konstruksi lengkap, termasuk inti dan tepi. Kesalahan kedua adalah memilih berdasarkan warna sebelum mengetahui lokasi panel terhadap sumber air. Tandai zona cipratan, lantai, wastafel, dan pipa pada gambar kerja.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah memperbaiki cat menggelembung tanpa mencari kebocoran. Hentikan pekerjaan kosmetik, dokumentasikan area, dan cari sumber air terlebih dahulu. Kesalahan keempat adalah memakai bahan pembersih yang belum dinyatakan kompatibel. Simpan lembar instruksi di lokasi perawatan dan catat setiap penyimpangan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jangan pula memakai hasil uji material sebagai bukti otomatis untuk seluruh cubicle. Sambungan, jangkar, pintu, privasi, korosi hardware, dan aksesibilitas memiliki kebutuhan bukti tersendiri. Untuk kebakaran, metode uji atau katalog standar tidak sama dengan peringkat rakitan terpasang; klaim seperti itu memerlukan sistem dan pemeriksaan profesional yang tepat.
 
-## Required conclusion
+## Jalan pintas “finishing saja sudah cukup” dan batas perbaikannya
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang paling menggoda adalah menambah lapisan sealant setelah panel terpasang lalu menganggap masalah selesai. Sealant dapat membantu detail tertentu, tetapi tidak menghentikan kebocoran dari pipa, memperbaiki inti yang sudah rusak, atau menggantikan ventilasi dan drainase. Ikuti detail produk dan minta pemeriksaan sambungan sebelum menutup akses.
 
-## Draft completion checklist
+Jika panel berubah bentuk, berbau menetap, menunjukkan pertumbuhan jamur, atau hardware kehilangan pegangan, jangan menetapkan ambang ganti sendiri. Pisahkan area bila perlu, hentikan sumber air, dan minta penilaian kompeten. [NEEDS PROJECT-SPECIFIC REMEDIATION REVIEW]
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan: minta bukti rakitan, bukan sekadar nama finishing
+
+Panel berbasis kayu paling aman dinilai sebagai rakitan: substrat, finishing, tepi, lubang, hardware, sumber air, dan cara rawatnya. Untuk langkah berikutnya, minta satu paket yang memuat lembar teknis produk, detail tepi dan sambungan, petunjuk pembersihan, batas paparan, serta prosedur inspeksi setelah serah terima. Sobat Cubicle.id, bila salah satu bagian belum terbukti, tahan persetujuan pada zona lembap dan minta tinjauan teknis.
+
+Aturan operasinya sederhana: permukaan yang tampak rapi bukan bukti rakitan tahan air. Hentikan perbaikan kosmetik ketika sumber kelembapan, inti panel, atau keselamatan sistem belum dinilai. **technical_review tetap wajib.**

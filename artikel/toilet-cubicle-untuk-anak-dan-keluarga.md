@@ -2,8 +2,9 @@
 article_id: CUB-04-E
 title: "Toilet Cubicle untuk Anak dan Keluarga: Desain yang Inklusif"
 slug: "toilet-cubicle-untuk-anak-dan-keluarga"
-description: "Cover supervision, privacy, operability, entrapment, hardware, visibility, cleaning, and current accessibility review needs"
-status: outline
+description: "Panduan merancang cubicle toilet yang mendukung pengawasan, privasi, kemudahan operasi, keselamatan, kebersihan, dan peninjauan aksesibilitas untuk anak serta keluarga."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-08"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,51 +16,24 @@ final_route: "/artikel/toilet-cubicle-untuk-anak-dan-keluarga.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://www.iso.org/standard/72960.html"
-  - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
   - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
   - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
   - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Toilet Cubicle untuk Anak dan Keluarga: Desain yang Inklusif
 
-## Assignment lock
+Halo, Teman Cubicle.id! Di sekolah, fasilitas keluarga, atau gedung umum, cubicle yang tampak rapi belum tentu mudah dipakai anak dan pendamping. Kesalahan yang sering terjadi adalah menganggap cukup memilih panel kuat lalu menyalin ukuran produk. Padahal pintu, ruang pendekatan, pandangan pendamping, kait, celah, lantai, dan jadwal pembersihan bekerja sebagai satu sistem.
 
-- **Writer task:** Expand this file into one complete article answering: “Toilet Cubicle untuk Anak dan Keluarga: Desain yang Inklusif”
-- **Reader and situation:** School, family facility, or public-building designer
-- **Reader outcome:** Cover supervision, privacy, operability, entrapment, hardware, visibility, cleaning, and current accessibility review needs
-- **Primary intent:** Plan family and child use
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Teman Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Kawan Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not publish universal dimensions; CUB-08-D owns child/family validation and official project requirements prevail
-- **Final public route:** `/artikel/toilet-cubicle-untuk-anak-dan-keluarga.html`
-- **Appointed CMS date:** `2025-11-08` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: desain inklusif dimulai dari skenario penggunaan, bukan dari katalog panel. Tetapkan siapa yang perlu didampingi, kapan privasi harus dijaga, bagaimana pintu dibuka dari dalam dan luar, serta bagaimana petugas memeriksa kondisi tanpa mengganggu pengguna. Peraturan aksesibilitas Indonesia menempatkan jalur dan cara penggunaan sebagai bagian yang saling terkait; satu ukuran produk saja tidak membuktikan ruangnya dapat diakses ([Permen PUPR No. 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)). Persyaratan proyek dan peninjauan profesional dapat mengubah keputusan akhir.
 
-## Opening instructions
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Toilet Cubicle untuk Anak dan Keluarga: Desain yang Inklusif**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.id`, `Sobat Cubicle.id`, or `Kawan Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal Cubicle.id; bukan dokumentasi proyek tertentu.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -70,139 +44,58 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Apa yang dimaksud toilet cubicle inklusif untuk anak dan keluarga?
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Sebelum menggambar denah, samakan arti “inklusif” agar tidak berhenti pada label. Di sini, toilet cubicle inklusif berarti ruang sekat yang memungkinkan anak, pendamping, dan pengguna lain mendekat, masuk, mengunci, memakai perlengkapan, lalu keluar dengan aman sesuai kebutuhan fasilitas. Fokusnya adalah hubungan pengguna dengan seluruh ruang, bukan panel semata.
 
-### KR-01
+Privasi dan pengawasan memang tampak berlawanan. Pendamping mungkin perlu memastikan anak aman, sedangkan anak dan keluarga tetap membutuhkan batas pandangan serta suara yang wajar. Solusinya harus ditentukan melalui skenario dan tata letak; jangan menjanjikan visibilitas atau celah tertentu tanpa gambar terkoordinasi dan persetujuan proyek. Tanyakan: dari titik tunggu mana pendamping melihat tanda keadaan darurat, dan bagian mana yang tetap terlindung?
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Artikel ini tidak menetapkan ukuran universal untuk anak, keluarga, atau pengguna berkebutuhan khusus. Ukuran, arah ayunan, ketinggian perlengkapan, serta ruang putar harus ditinjau terhadap peraturan yang berlaku dan kondisi bangunan. Untuk langkah berikutnya, Anda dapat menautkan kebutuhan desain ke [beranda Cubicle.id](/) bila memerlukan konteks produk dan layanan yang tersedia.
 
-### KR-03
+## Bagaimana rangkaian pintu, kait, dan ruang pendekatan bekerja?
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
+Bagian ini penting karena banyak masalah muncul saat setiap komponen dipilih terpisah. Urutannya dapat dibaca sebagai rangkaian: pengguna mendekat, mengoperasikan daun pintu, mengunci, memakai perlengkapan, kemudian membuka kembali atau meminta bantuan. Pada setiap tahap, gaya yang diperlukan, ruang tangan, arah bukaan, dan jalur keluar harus tetap masuk akal bagi anak maupun pendamping.
 
-### KR-08
+Kait atau indikator harus mudah dipahami tanpa memberi rasa aman palsu. Jika mekanismenya macet atau pintu melorot, anak dapat terjebak dan petugas kesulitan membantu. Instruksi pemasangan pabrikan toilet partition menunjukkan bahwa panel, pilaster, engsel, kaki, braket, dan tumpuan bangunan membentuk sistem; urutan pemasangan dan titik pengikat memengaruhi stabilitas serta akses pembersihan ([petunjuk instalasi Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)). Karena itu, minta gambar detail yang menunjukkan sisi dorong-tarik, pelepasan darurat, dan pemeriksaan setelah pintu dipakai berulang.
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+Jangan mengubah contoh perangkat keras dari merek lain menjadi spesifikasi proyek Anda. Komponen yang cocok pada panel compact laminate tertentu belum tentu cocok pada ketebalan, tepi, atau substrat berbeda. Bahan “compact” atau HPL (laminasi tekanan tinggi) hanya menjelaskan kelompok material; konfigurasi lubang, jarak tepi, kelembapan, dan penyangga tetap perlu instruksi produk yang benar ([bukti compact-grade laminate Bobrick](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/)).
 
-### KR-09
+## Faktor apa yang mengubah keputusan desain anak dan keluarga?
 
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
+Alih-alih mencari satu resep, kelompokkan kondisi yang harus diperiksa bersama. Pertama, profil pengguna: anak kecil yang perlu bantuan, kakak yang menunggu, pengguna kursi roda, atau pendamping dengan barang bawaan menimbulkan kebutuhan pendekatan berbeda. Kedua, pola operasi: sekolah memiliki pergantian cepat, sedangkan fasilitas keluarga mungkin membutuhkan waktu pendampingan lebih lama. Catat skenario puncak dan siapa yang bertanggung jawab saat terjadi masalah.
 
-### KR-20
+Ketiga, lingkungan basah. Air di tepi panel, sambungan, dan lantai dapat berinteraksi dengan pembersihan, ventilasi, serta kebocoran bangunan. Panduan pengendalian kelembapan EPA menekankan bahwa sumber air perlu dikendalikan sejak desain, konstruksi, dan pemeliharaan; mengelap permukaan saja tidak menyelesaikan kebocoran tersembunyi ([panduan kelembapan EPA](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)). Maka, tentukan kemiringan lantai, akses inspeksi, dan siapa yang menindaklanjuti genangan sebelum memilih lapisan.
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+Keempat, bahan dan perawatan. Pembersih yang tidak sesuai dapat menggores, memudarkan, atau merusak tepi. Panduan pemeliharaan produsen membantu menetapkan bahan pembersih dan pemeriksaan perangkat keras; jadwal final harus mengikuti produk dan kontrak fasilitas, bukan angka generik ([sumber pemeliharaan Bobrick](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [panduan pemeliharaan Lorient](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide)).
 
-## Evidence gates
+## Contoh keputusan praktis sebelum gambar kerja disetujui
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Gunakan tabel berikut sebagai percakapan koordinasi, bukan sebagai pengganti perhitungan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+| Situasi yang diamati | Pertanyaan keputusan | Bukti yang diminta |
+|---|---|---|
+| Anak perlu didampingi | Apakah pendamping dapat menunggu dan membantu tanpa menembus privasi pengguna lain? | Denah jalur, titik tunggu, dan skenario penggunaan |
+| Pintu sering dibanting | Bagaimana engsel, kait, dan penahan membatasi benturan serta tetap bisa dibuka saat darurat? | Detail perangkat keras dan uji fungsi proyek |
+| Area selalu basah | Dari mana air datang dan bagaimana tepi panel serta lantai diperiksa? | Detail sambungan, drainase, ventilasi, dan rencana inspeksi |
+| Petugas membersihkan cepat | Apakah semua sisi, kaki, dan sambungan dapat dijangkau tanpa membongkar sistem? | Metode pembersihan produk dan urutan kerja |
+| Persyaratan aksesibilitas belum final | Bagian mana yang masih menunggu peninjauan resmi? | Catatan review dan persetujuan peraturan proyek |
 
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-04-C` → `/artikel/privasi-toilet-cubicle.html` — Privasi Toilet Cubicle: Celah, Pintu, Indikator, dan Sightline
-- `CUB-04-D` → `/artikel/toilet-cubicle-untuk-trafik-tinggi.html` — Toilet Cubicle untuk Trafik Tinggi: Apa yang Harus Dibuktikan?
-- `CUB-04-F` → `/artikel/mencegah-bau-korosi-kerusakan-toilet-cubicle.html` — Mengurangi Bau, Korosi, dan Kerusakan pada Toilet Cubicle
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Toilet Cubicle untuk Anak dan Keluarga: Desain yang Inklusif”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Toilet Cubicle untuk Anak dan Keluarga: Desain yang Inklusif”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Toilet Cubicle untuk Anak dan Keluarga: Desain yang Inklusif”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Toilet Cubicle untuk Anak dan Keluarga: Desain yang Inklusif”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Toilet Cubicle untuk Anak dan Keluarga: Desain yang Inklusif”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Cubicle.id, hentikan pemilihan final bila salah satu bukti itu belum ada. Menunda keputusan panel biasanya lebih mudah daripada mengoreksi posisi pintu, jalur, atau tumpuan setelah pekerjaan selesai.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Toilet Cubicle untuk Anak dan Keluarga: Desain yang Inklusif”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai satu “ukuran anak” untuk semua fasilitas. Periksa fungsi dan jalur aktual, lalu minta peninjauan aksesibilitas; jangan menyalin angka dari brosur atau panduan luar negeri. Kesalahan kedua adalah menyamakan privasi dengan menutup semua pandangan. Periksa apakah pendamping masih memiliki cara meminta bantuan dan apakah petugas dapat merespons tanpa merusak pintu.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menganggap panel tahan lembap berarti seluruh cubicle tahan masalah air. Periksa sumber air, tepi potongan, pengikat, dan kondisi bangunan. Kesalahan keempat adalah memperbaiki gejala berulang—misalnya mengencangkan sekrup tanpa mencari gerakan tumpuan atau kebocoran. Catat lokasi, waktu, perubahan setelah pembersihan, dan komponen yang terlibat; eskalasikan kerusakan struktural, kaca, jamur, atau sistem bangunan kepada tenaga berwenang.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas “pilih panel kuat lalu selesai” mengapa gagal?
 
-## Required conclusion
+Jalan pintas itu menarik karena panel mudah dibandingkan di katalog. Namun kekuatan panel tidak menjawab gaya pada engsel, kait, kaki, sambungan, atau dinding. Bahkan bahan compact laminate dapat berubah dimensi karena kelembapan; lubang dan pengikat yang diimprovisasi dapat mengganggu tepi, kestabilan, dan kebersihan. Alternatif yang lebih aman adalah menyetujui satu paket: skenario pengguna, denah, detail perangkat keras, instruksi produk, metode pembersihan, dan catatan peninjauan aksesibilitas.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Langkah berikutnya untuk proyek Anda
 
-## Draft completion checklist
+Toilet cubicle untuk anak dan keluarga menjadi inklusif ketika keputusan privasi, pengawasan, operasi pintu, keselamatan terjepit, bahan, dan perawatan diuji sebagai satu sistem. Susun matriks skenario pengguna dan minta tim proyek menandai bukti untuk setiap keputusan. Pastikan regulasi dan persyaratan lokal terkini ditinjau sebelum ukuran atau perangkat keras dibekukan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kawan Cubicle.id, bawa denah, detail tumpuan, lembar instruksi pabrikan, dan rencana pemeliharaan ke review teknis. Jika bukti produk atau kondisi bangunan belum lengkap, tandai sebagai `[NEEDS TECHNICAL REVIEW]` dan jangan mengubahnya menjadi klaim. Aturan operasinya sederhana: tidak ada spesifikasi final hanya karena panel terlihat kuat; finalkan setelah jalur penggunaan dan bukti proyek benar-benar cocok.

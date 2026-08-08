@@ -2,8 +2,9 @@
 article_id: CUB-02-E
 title: "Mengelola Konflik Ruang, Struktur, MEP, dan Furniture pada Desain Cubicle"
 slug: "koordinasi-interface-desain-cubicle"
-description: "Identify control dimensions, penetrations, services, access panels, supports, finishes, and approval owners"
-status: outline
+description: "Panduan praktis menyelaraskan ukuran kendali, penetrasi, layanan, panel akses, penyangga, finishing, dan pemilik persetujuan pada desain cubicle."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,48 +16,25 @@ final_route: "/artikel/koordinasi-interface-desain-cubicle.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
   - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+Halo, Sobat Cubicle.id!
+
+Konflik desain cubicle biasanya bukan karena satu gambar salah, melainkan karena ukuran ruang, struktur, MEP, dan furniture dikendalikan oleh orang berbeda. Denah terlihat cukup, tetapi pintu terbentur furniture, panel menutup akses katup, atau titik pengikat jatuh di area yang tidak boleh dibor. Cara mengelolanya adalah menjadikan semua antarmuka itu satu daftar keputusan: tetapkan dimensi kendali, tandai penetrasi dan layanan, sepakati penyangga serta finishing, lalu minta pemilik persetujuan mengesahkan setiap perubahan.
+
+Jawaban ini dapat berubah jika survei lapangan, gambar struktur, atau persyaratan gedung menunjukkan kondisi berbeda. Jadi, gunakan artikel ini untuk menyiapkan koordinasi dan pertanyaan, bukan untuk menggantikan pemeriksaan proyek atau persetujuan profesi. [NEEDS TECHNICAL REVIEW: verifikasi kondisi proyek dan persyaratan setempat sebelum konstruksi.]
 
 # Mengelola Konflik Ruang, Struktur, MEP, dan Furniture pada Desain Cubicle
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Mengelola Konflik Ruang, Struktur, MEP, dan Furniture pada Desain Cubicle”
-- **Reader and situation:** Coordinator facing clashes among trades
-- **Reader outcome:** Identify control dimensions, penetrations, services, access panels, supports, finishes, and approval owners
-- **Primary intent:** Resolve design interfaces
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Sobat Cubicle.id`
-- **Natural variants:** `Kawan Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not detail electrical internals; CUB-05-B owns electrical requirements and CUB-11-C owns site coordination
-- **Final public route:** `/artikel/koordinasi-interface-desain-cubicle.html`
-- **Appointed CMS date:** `2025-09-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mengelola Konflik Ruang, Struktur, MEP, dan Furniture pada Desain Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Cubicle.id`, `Kawan Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -67,139 +45,74 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Apa yang dimaksud koordinasi antarmuka desain cubicle?
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Sebelum membahas urutan kerja, samakan dulu objeknya. Antarmuka adalah titik ketika keputusan satu bidang memengaruhi bidang lain: garis partisi bertemu kolom, pintu membutuhkan ruang ayun, pipa menembus lantai, atau panel harus dapat dibuka untuk servis. Kesalahpahaman yang perlu dicegah adalah menganggap gambar furniture sudah otomatis menyelesaikan struktur dan MEP.
 
-### KR-01
+Mulailah dengan “dimensi kendali”, yaitu ukuran yang tidak boleh berubah tanpa persetujuan: sumbu ruang, garis muka partisi, elevasi lantai jadi, tinggi plafon, posisi pintu, dan zona bebas untuk perawatan. Catat sumber setiap ukuran—survei, gambar arsitektur, struktur, atau model layanan—sehingga tim tahu mana data terukur dan mana asumsi.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Pada bangunan yang harus aksesibel, posisi partisi, ayunan dan cara operasi pintu, ruang pendekatan, fittings, visibilitas, serta tata letak sanitair perlu dibaca sebagai satu rute penggunaan. Satu ukuran produk yang cocok tidak membuktikan seluruh rute aksesibel; rujuk persyaratan Indonesia dan persyaratan proyek pada [Permen PUPR No. 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017) sebelum mengunci denah.
 
-### KR-03
+## Bagaimana urutan kerja mengunci ruang, struktur, MEP, dan furniture?
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
+Urutan berikut penting karena setiap langkah menghasilkan masukan untuk langkah sesudahnya. Melewati satu langkah membuat konflik baru tampak terlambat dan mahal diperbaiki.
 
-### KR-18
+### 1. Bekukan peta ruang dan jalur penggunaan
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
+Tandai sumbu, dinding pembatas, kolom, balok, pintu, ruang gerak, dan area yang harus tetap dapat dicapai. Tanyakan: dari mana pengguna masuk, ke mana pintu membuka, dan apa yang harus tetap bisa dibersihkan atau diservis? Rute akses dan operasi pintu harus ditinjau bersama persyaratan bangunan, bukan hanya ukuran panel.
 
-### KR-17
+### 2. Tandai penetrasi dan kapasitas penyangga
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [Permen PUPR No. 14/PRT/M/2017 — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [CDC core components for healthcare surface programs](https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html)
-- **Purpose for this article:** Give house, office, school, hotel, hospital, retail, worship, hall, and public-space articles a disciplined requirements model instead of a location-name template.
-- **Safe grounded facts:** Use cases can differ in occupancy, abuse/impact, privacy, supervision, reconfiguration, acoustics, cleaning, infection risk, accessibility, door/egress operation, fire strategy, and downtime. These variables, not the room label alone, justify different guidance.
-- **Limits:** No use-case article may infer a rating, legal requirement, or cleaning protocol without the governing project/facility evidence. Resolve `G-01`, `G-04`, `G-06`, and `G-12`.
+Penetrasi berarti lubang atau lintasan yang melewati panel, lantai, plafon, atau dinding untuk pipa, kabel, atau pengikat. Tandai lokasinya pada gambar gabungan, lalu minta pemilik struktur menyatakan area yang boleh dibor dan jenis penyangga yang diterima. Panduan FEMA mengingatkan bahwa partisi dan komponen nonstruktural tetap dapat terdampak gerakan bangunan; detail pengikat dan pergerakan harus mengikuti desain profesional, bukan tebakan lapangan ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
 
-### KR-20
+Jika kapasitas substrat, sambungan gerak, atau posisi struktur belum terbukti, berhenti pada daftar kebutuhan data. Jangan mengubahnya menjadi angka kapasitas atau detail angkur yang belum disetujui.
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+### 3. Selaraskan layanan dan panel akses
 
-## Evidence gates
+Gambar MEP perlu menunjukkan koridor layanan, titik isolasi, drainase, sprinkler atau detektor, serta ruang untuk membuka panel. Artikel ini tidak merinci internals listrik; kebutuhan listrik berada pada paket teknis terkait dan koordinasi lokasi harus ditangani tim lapangan. Keputusan yang dicatat di sini cukup berupa siapa pemilik titik, ukuran ruang bebas yang disahkan, dan bagaimana panel dibuka tanpa membongkar cubicle.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+### 4. Cocokkan furniture, hardware, dan finishing
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Furniture tidak boleh menghalangi ayunan pintu, jalur bersih, atau akses inspeksi. Untuk partisi lipat atau bergerak, kebutuhan lintasan, tumpukan, dan sambungan atas harus dibaca dari spesifikasi sistem yang benar-benar dipilih; contoh spesifikasi pabrikan hanya menjadi bahan koordinasi sampai disetujui untuk proyek ([Modernfold](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)).
 
-## Internal-link plan
+Finishing juga bagian dari antarmuka. Sambungan panel, sealant, skirting, dan pertemuan dengan lantai atau dinding harus memiliki pemilik detail. Di area dengan tuntutan kebersihan, permukaan, celah, dan akses pembersihan perlu disejajarkan dengan program pengendalian infeksi fasilitas, bukan disimpulkan dari nama ruangan saja ([CDC](https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html)).
 
-### Existing local routes
+### 5. Tetapkan pemilik persetujuan dan rekam perubahan
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Setiap isu harus memiliki kolom: lokasi, konflik, data yang kurang, opsi, pemilik keputusan, tanggal, dan status. Arsitek mengesahkan ruang dan tampilan; struktur mengesahkan penyangga; MEP mengesahkan lintasan layanan; pengelola fasilitas mengesahkan akses dan pemeliharaan; pemilik proyek mengesahkan perubahan biaya atau waktu. Pembagian ini adalah model koordinasi, bukan penetapan kewenangan hukum.
 
-### Planned sibling articles
+## Kondisi apa yang paling sering mengubah hasil koordinasi?
 
-These are future routes. Do not link them as live until their HTML exists.
+Jembatan menuju bagian ini sederhana: gambar yang sama dapat menghasilkan keputusan berbeda ketika kondisi dasarnya berubah. Periksa faktor berikut sebelum menyebut suatu detail “sudah aman”.
 
-- `CUB-02-C` → `/artikel/data-survei-lapangan-cubicle.html` — Data Survei Lapangan yang Wajib Dicatat untuk Proyek Cubicle
-- `CUB-02-D` → `/artikel/kebutuhan-cubicle-berdasarkan-trafik.html` — Matriks Kebutuhan Cubicle Berdasarkan Trafik dan Duty Cycle
-- `CUB-02-F` → `/artikel/review-desain-cubicle.html` — Review Desain Cubicle: Dari Konsep ke Approved for Construction
+- **Bangunan dan struktur:** plumb, level, balok tersembunyi, sambungan gerak, dan kapasitas substrat belum tentu terlihat pada denah.
+- **Layanan aktif:** pipa, kabel, sprinkler, detektor, drainase, dan titik isolasi dapat memaksa perubahan jalur atau panel.
+- **Cara pakai:** okupansi, privasi, pengawasan, dampak, perubahan tata ruang, kebisingan, dan waktu henti menentukan prioritas; label “kantor” atau “toilet” saja tidak cukup.
+- **Air dan kelembapan:** sumber air harus dikendalikan sejak desain, pelaksanaan, dan pemeliharaan; panduan EPA menekankan pendekatan pengendalian kelembapan sepanjang siklus bangunan ([EPA](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)).
+- **Bukti dan toleransi pemasangan:** ukuran terukur, toleransi produk, dan urutan kerja harus dibedakan dari asumsi. Jika belum ada bukti, tandai [NEEDS FIELD VERIFICATION].
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Contoh keputusan praktis saat dua sistem bertabrakan
 
-## Jawaban singkat dan salah paham utama
+Bayangkan garis partisi bertemu jalur pipa dan furniture tetap. Jangan langsung memindahkan partisi. Pertama, minta tiga data: sumbu terukur, ruang bebas servis yang disetujui, dan batas pengeboran struktur. Kedua, buat opsi berurutan: geser furniture, ubah panel akses, ubah jalur layanan, atau ubah garis partisi. Ketiga, nilai setiap opsi terhadap rute pengguna, akses pemeliharaan, penyangga, finishing, dan dampak pada pekerjaan lain.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Mengelola Konflik Ruang, Struktur, MEP, dan Furniture pada Desain Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Mengelola Konflik Ruang, Struktur, MEP, dan Furniture pada Desain Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Mengelola Konflik Ruang, Struktur, MEP, dan Furniture pada Desain Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Mengelola Konflik Ruang, Struktur, MEP, dan Furniture pada Desain Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Mengelola Konflik Ruang, Struktur, MEP, dan Furniture pada Desain Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Cubicle.id, keputusan yang baik bukan yang paling cepat digambar, melainkan yang meninggalkan jejak persetujuan. Simpan gambar revisi dan catatan alasan; jangan mengandalkan pesan lisan yang mudah hilang.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Mengelola Konflik Ruang, Struktur, MEP, dan Furniture pada Desain Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bagian ini mencegah shortcut yang tampak efisien tetapi memindahkan masalah ke lapangan.
 
-## Objection or shortcut to address
+1. **Mengukur dari satu denah.** Periksa silang dengan survei, elevasi, dan gambar struktur/MEP yang berlaku.
+2. **Menganggap semua titik boleh dibor.** Minta zona pengeboran dan detail angkur tertulis dari pihak berwenang.
+3. **Menutup panel untuk mengejar tampilan.** Uji pembukaan, alat kerja, dan jalur penggantian sebelum finishing final.
+4. **Menggunakan contoh pabrikan sebagai jaminan.** Cocokkan versi produk, substrat, gerak, dan persetujuan proyek; contoh tidak membuktikan kinerja terpasang.
+5. **Memperbaiki gejala air atau kelonggaran berulang.** Telusuri sumber air, gerakan, korosi, dampak, atau kegagalan pemasangan sebelum perbaikan kosmetik.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Teman Cubicle.id, bila data kunci belum ada, keluarkan status “tahan keputusan” dan tulis siapa yang harus menyediakannya. Itu lebih aman daripada mengisi celah dengan angka perkiraan.
 
-## Required conclusion
+## Langkah berikutnya sebelum desain disetujui
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Kompilasi satu lembar koordinasi berisi dimensi kendali, penetrasi, layanan, panel akses, penyangga, finishing, dan pemilik persetujuan. Lampirkan bukti survei serta gambar revisi, lalu minta tinjauan teknis profesional untuk hal yang menyentuh struktur, aksesibilitas, kebakaran, sanitair, atau sistem aktif. Untuk langkah lanjutan di situs, gunakan halaman [beranda Cubicle.id](/) hanya sebagai pintu menuju informasi yang benar-benar tersedia.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Intinya: kelola konflik cubicle sebagai rangkaian antarmuka yang disepakati, bukan sebagai koreksi gambar tunggal. Bekukan data, tandai batas, uji akses, dokumentasikan keputusan, dan jangan mengklaim kepatuhan atau kinerja sebelum bukti proyek serta persetujuan yang relevan lengkap.

@@ -2,8 +2,9 @@
 article_id: CUB-15-C
 title: "Cara Memverifikasi Portofolio dan Referensi Proyek Cubicle"
 slug: "verifikasi-portofolio-proyek-cubicle"
-description: "Check client consent, scope, date, location granularity, product/system, responsible team, constraints, original evidence, outcome, and reference contact"
-status: outline
+description: "Panduan praktis memeriksa izin berbagi, lingkup, waktu, lokasi, sistem, tim, bukti asli, hasil, dan kontak referensi proyek cubicle."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-07-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,18 @@ final_route: "/artikel/verifikasi-portofolio-proyek-cubicle.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
-  - "https://peraturan.bpk.go.id/Details/37637/uu"
-  - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
-  - "https://www.bobrick.com/resource-center-2/guide-specifications/"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Cara Memverifikasi Portofolio dan Referensi Proyek Cubicle
 
-## Assignment lock
+Halo, Kawan Cubicle.id! Foto cubicle yang rapi atau testimoni yang terdengar meyakinkan belum membuktikan bahwa penyedia mengerjakan lingkup yang sama untuk kondisi bangunan Anda. Cara memverifikasi portofolio adalah mencocokkan cerita proyek dengan bukti yang dapat diperiksa: siapa kliennya dan apakah ia mengizinkan rujukan, apa lingkupnya, kapan dan di mana dikerjakan, sistem apa yang dipasang, siapa timnya, kendala apa yang dihadapi, serta bagaimana hasil dan serah terimanya.
 
-- **Writer task:** Expand this file into one complete article answering: “Cara Memverifikasi Portofolio dan Referensi Proyek Cubicle”
-- **Reader and situation:** Buyer reviewing photos, testimonials, or case claims
-- **Reader outcome:** Check client consent, scope, date, location granularity, product/system, responsible team, constraints, original evidence, outcome, and reference contact
-- **Primary intent:** Validate project proof
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Kawan Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not accept anonymous template testimonials as proof; `/` owns verified testimonials and CUB-15-E owns case publication
-- **Final public route:** `/artikel/verifikasi-portofolio-proyek-cubicle.html`
-- **Appointed CMS date:** `2026-07-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Mulailah dari pertanyaan, bukan dari jumlah foto. Minta paket bukti yang bisa ditelusuri, lalu tandai bagian yang hanya berupa klaim. Jika data penting tidak dapat dibuka karena kerahasiaan, mintalah bentuk verifikasi lain—misalnya panggilan dengan kontak yang diberi izin atau dokumen yang disamarkan. Kesimpulan harus berubah ketika bukti asli, persetujuan klien, atau review profesional belum tersedia. Kerangka bangunan nasional sendiri mengaitkan keputusan perubahan dan penggunaan bangunan dengan keselamatan, kesehatan, kenyamanan, fungsi, dokumentasi, dan pemeliharaan; label produk saja tidak menetapkan kepatuhan ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)).
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Memverifikasi Portofolio dan Referensi Proyek Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Cubicle.id`, `Sobat Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -68,140 +38,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
 
-### KR-01
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Hasil verifikasi yang sah dan prasyarat datanya
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Sebelum membandingkan penyedia, tentukan keluaran yang Anda perlukan. Verifikasi yang sah menghasilkan lembar keputusan: proyek benar pernah dikerjakan oleh tim tersebut, lingkupnya sebanding, bukti dapat ditelusuri, dan kontak referensi bersedia mengonfirmasi. Ini berbeda dari sekadar mengumpulkan gambar.
 
-### KR-02
+Siapkan satu lembar untuk tiap proyek kandidat. Kolom minimumnya: nama atau kode klien, izin penggunaan bukti, bulan dan tahun pekerjaan, lokasi pada tingkat yang disetujui klien, jumlah atau area hanya bila tercantum di dokumen, sistem dan komponen, nama peran tim, kendala antarmuka, dokumen asli, hasil yang benar-benar diterima, serta kontak referensi. Jangan mengisi kolom dengan perkiraan.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
+Anda juga memerlukan pembanding lingkup Anda sendiri: jenis ruang, kondisi substrat, akses, pekerjaan bongkar, pintu dan perangkat keras, perlindungan area, pengujian, serta serah terima. Bila kebutuhan ini belum jelas, status portofolio sebaiknya “belum dapat dibandingkan”, bukan “lulus”.
 
-### KR-19
+## Langkah 1: tetapkan lingkup portofolio yang benar-benar dibandingkan
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
+Kesalahan umum terjadi ketika foto partisi toilet dibandingkan dengan kebutuhan sistem lain. Bagian ini memaksa Anda menyebut objek dan antarmuka sebelum menilai hasil, sehingga klaim “proyek serupa” punya arti yang sama bagi kedua pihak.
 
-### KR-21
+Tuliskan batas pekerjaan secara berurutan: area yang dikerjakan, pekerjaan yang dikecualikan, titik sambungan ke lantai, dinding, dan plafon, jalur utilitas yang bersinggungan, serta siapa yang memegang pekerjaan sipil atau elektrikal. Tanyakan kepada penyedia, “Bagian mana yang dikerjakan tim Anda dan bagian mana yang dikerjakan pihak lain?” Jawaban harus cocok dengan berita acara, gambar, atau daftar kuantitas yang boleh dibagikan.
 
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
+Rencana denah tidak otomatis menunjukkan kondisi lapangan seperti posisi struktur, ruang plafon, sambungan gerak, utilitas tersembunyi, atau kapasitas substrat. Karena itu, bukti survei dan catatan koordinasi lebih bernilai daripada gambar akhir saja ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)). Jika lingkup proyek contoh tidak menjawab antarmuka yang sama, tandai sebagai referensi parsial.
 
-### KR-18
+## Langkah 2: cocokkan bukti, waktu, lokasi, sistem, dan tim
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
+Setelah lingkup jelas, periksa apakah setiap klaim memiliki jejak yang konsisten. Jembatan konteks ini penting karena portofolio sering mencampur foto lama, pekerjaan pemasok, dan hasil tim berbeda tanpa penjelasan.
 
-## Evidence gates
+Minta bukti izin publikasi atau persetujuan kontak. Nama klien boleh disamarkan bila itu syaratnya, tetapi harus ada cara verifikasi yang disepakati. Catat tanggal pekerjaan pada tingkat bulan atau tahun hanya jika sumber menyebutkannya. Untuk lokasi, gunakan tingkat kota, kawasan, atau “proyek privat” sesuai izin; jangan menebak alamat dari latar foto.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Cocokkan nama sistem dengan dokumen pengadaan, lembar data, atau gambar yang disetujui. “HPL”, “kaca”, atau “partisi” adalah kategori, bukan identitas sistem lengkap. Periksa rangka, pengikat, inti atau panel, pintu, perangkat keras, dan lapisan akhir sebagai satu konfigurasi. Instruksi pemasangan produsen menunjukkan bahwa detail komponen dan urutan dapat berbeda antar sistem; jangan memindahkan toleransi atau langkahnya ke produk lain tanpa persetujuan proyek ([Bobrick installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Tanyakan siapa yang bertanggung jawab: kontraktor utama, pemasang, pemasok, perancang, dan pemeriksa mutu. Bila foto dibuat oleh pemasok tetapi pemasangan dilakukan tim lain, tulis peran itu apa adanya. Sobat Cubicle.id, perbedaan peran ini menentukan kepada siapa pertanyaan tentang perubahan, cacat, atau dokumen serah terima harus diarahkan.
 
-## Internal-link plan
+## Langkah 3: uji keaslian bukti dan hasil, bukan sekadar tampilan
 
-### Existing local routes
+Kini fokuskan pemeriksaan pada rantai bukti. Urutannya membantu Anda membedakan observasi visual, dokumen, dan hasil yang sudah diterima.
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Pertama, cocokkan foto dengan penanda yang tidak sensitif: urutan ruang, detail sambungan, atau tanggal file yang dapat dikonfirmasi. Kedua, minta dokumen pendukung yang boleh dibuka, seperti submittal, daftar perubahan, catatan inspeksi, atau berita acara. Barang tersembunyi yang sudah tertutup sulit diverifikasi tanpa rekaman; substitusi dan penyimpangan juga dapat mengubah bukti struktur, akustik, kebakaran, kelembapan, tampilan, atau garansi ([Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021)).
 
-### Planned sibling articles
+Ketiga, bedakan “selesai dipasang” dari “diterima dan berfungsi”. Tanyakan pengujian atau pemeriksaan apa yang dilakukan, siapa yang menyaksikan, dan apa tindak lanjut bila ada temuan. Jangan mengubah jawaban “belum diuji” menjadi klaim performa. Jika hasil hanya berupa testimoni anonim, simpan sebagai konteks pemasaran, bukan bukti proyek.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Titik berhenti: kapan verifikasi harus dihentikan
 
-- `CUB-15-A` → `/artikel/bukti-supplier-installer-cubicle.html` — Checklist Bukti Supplier dan Installer Cubicle sebelum Dipilih
-- `CUB-15-B` → `/artikel/alur-survei-ke-penawaran-cubicle.html` — Dari Survei ke Penawaran Cubicle: Alur yang Bisa Diaudit
-- `CUB-15-D` → `/artikel/dossier-kualitas-proyek-cubicle.html` — Dossier Kualitas Proyek Cubicle dari Submittal hingga Handover
-- `CUB-15-E` → `/artikel/template-studi-kasus-cubicle.html` — Template Studi Kasus Cubicle tanpa Klaim yang Dibuat-buat
+Hold point adalah titik berhenti sebelum keputusan berikutnya. Menyebutnya secara eksplisit mencegah tekanan jadwal mengubah kekosongan data menjadi asumsi.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Hentikan penilaian dan minta review jika klien tidak memberi izin rujukan, tanggal atau lingkup saling bertentangan, sistem pada foto tidak dapat diidentifikasi, tim yang diklaim tidak tercatat, atau dokumen asli tidak tersedia. Hentikan pula bila keputusan Anda menyentuh struktur, keselamatan kebakaran, aksesibilitas, utilitas, atau perubahan bangunan tanpa gambar dan persetujuan profesional yang sesuai. [NEEDS G-01/G-02/G-03/G-04/G-05/G-06/G-07/G-08/G-09/G-10/G-11/G-12/G-13/G-14: tinjauan proyek dan profesional diperlukan untuk klaim kepatuhan, performa, angka, hak/kewajiban, dan garansi.]
 
-## Hasil akhir dan prasyarat
+## Verifikasi hasil dan serah terima referensi
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Memverifikasi Portofolio dan Referensi Proyek Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bagian akhir mengubah temuan menjadi keputusan yang bisa diaudit. Tanpa rekaman, Anda akan mengulang pertanyaan yang sama ketika membandingkan penawaran.
 
-## Langkah 1 — tetapkan scope
+Buat status sederhana untuk setiap proyek: terverifikasi, terverifikasi sebagian, atau belum terverifikasi. Lampirkan sumber setiap kolom, tanggal kontak, nama peran narahubung, dan pertanyaan yang dijawab. Pada panggilan referensi, minta konfirmasi lingkup, kendala, cara perubahan ditangani, serta apakah dokumen dan area diserahterimakan—bukan penilaian umum seperti “bagus”. Simpan jawaban sesuai izin, dan jangan menerbitkan identitas tanpa persetujuan.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Memverifikasi Portofolio dan Referensi Proyek Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan [beranda Cubicle.id](/) hanya bila pembaca memerlukan konteks layanan umum; tautan itu bukan pengganti bukti proyek. Sebelum memilih, minta penyedia menandatangani atau menyetujui daftar lingkup dan daftar bukti yang sama untuk proyek Anda. Jika satu kolom kritis kosong, pilih tindakan berikutnya—survei, klarifikasi, atau review—bukan kesimpulan lulus.
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+## Jalan pintas yang tampak praktis tetapi menyesatkan
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Memverifikasi Portofolio dan Referensi Proyek Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas paling umum adalah menerima satu album foto dan testimoni anonim karena “sudah pernah dipasang”. Cara itu gagal ketika foto tidak menunjukkan waktu, sistem, peran tim, atau hasil yang diterima; Anda tidak dapat menghubungkan gambar dengan risiko dan lingkup proyek Anda.
 
-## Langkah 3 — jalankan urutan kerja
+Alternatif yang lebih aman adalah meminta dua atau tiga bukti yang saling menguatkan: dokumen lingkup, bukti identitas sistem, dan kontak referensi berizin. Batasi pertanyaan pada hal yang relevan dan hormati kerahasiaan. Teman Cubicle.id, penolakan membuka data sensitif bukan otomatis tanda buruk, tetapi Anda berhak menurunkan tingkat keyakinan sampai ada bentuk verifikasi pengganti.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Memverifikasi Portofolio dan Referensi Proyek Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesimpulan: putuskan berdasarkan jejak bukti
 
-## Hold point dan kondisi berhenti
+Verifikasi portofolio cubicle berarti mencocokkan izin klien, lingkup, waktu, lokasi, konfigurasi sistem, peran tim, kendala, bukti asli, hasil yang diterima, dan kontak referensi. Mulailah dengan lembar pemeriksaan, minta sumber untuk setiap klaim, lalu tetapkan hold point ketika data atau review profesional belum ada.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Memverifikasi Portofolio dan Referensi Proyek Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Memverifikasi Portofolio dan Referensi Proyek Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah Anda sekarang: kirimkan daftar lingkup proyek yang ingin dibeli kepada penyedia, minta satu contoh proyek dengan bukti yang dapat dibagikan, dan jadwalkan kontak referensi berizin. Aturan operasinya sederhana: tanpa jejak yang dapat ditelusuri, sebuah foto adalah ilustrasi—bukan bukti bahwa proyek Anda akan sama.

@@ -2,8 +2,9 @@
 article_id: CUB-03-E
 title: "Office Cubicle Modular untuk Relokasi dan Perubahan Tim"
 slug: "office-cubicle-modular-untuk-relokasi"
-description: "Explain module planning, spare parts, service slack, labeling, disassembly records, damage risk, and change cost"
-status: outline
+description: "Panduan merencanakan modul, suku cadang, kelonggaran servis, pelabelan, catatan bongkar, risiko kerusakan, dan biaya perubahan saat relokasi kantor."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,50 +16,100 @@ final_route: "/artikel/office-cubicle-modular-untuk-relokasi.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://www.iso.org/standard/72960.html"
-  - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Office Cubicle Modular untuk Relokasi dan Perubahan Tim
 
-## Assignment lock
+Halo, Teman Cubicle.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Office Cubicle Modular untuk Relokasi dan Perubahan Tim”
-- **Reader and situation:** Growing office expecting moves and team changes
-- **Reader outcome:** Explain module planning, spare parts, service slack, labeling, disassembly records, damage risk, and change cost
-- **Primary intent:** Plan reconfiguration
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Teman Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Kawan Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not plan occupied works; CUB-14-D owns retrofit phasing and CUB-13-F owns replacement economics
-- **Final public route:** `/artikel/office-cubicle-modular-untuk-relokasi.html`
-- **Appointed CMS date:** `2025-10-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Saat kantor pindah lantai atau jumlah anggota tim berubah, cubicle modular memang dapat dibongkar dan disusun ulang. Namun, “modular” bukan berarti semua panel pasti cocok di posisi baru atau biaya perubahan otomatis kecil. Keputusan yang aman bergantung pada daftar modul yang benar-benar tersedia, cara sambungan ke lantai dan plafon, serta rekaman kondisi setiap komponen.
 
-## Opening instructions
+Mulailah dengan inventaris dan gambar susunan lama. Tandai panel, tiang, pintu, engsel, pengunci, kaki, braket, dan aksesori kabel. Simpan kelonggaran suku cadang serta waktu untuk pemeriksaan profesional bila susunan baru mengubah bukaan, tinggi, beban, atau jalur pengguna. Perubahan pada partisi dan antarmuka bangunan dapat mengubah urutan pemasangan, akses pembersihan, dan jalur beban; panduan FEMA menjelaskan bahwa elemen nonstruktural tetap perlu ditinjau terhadap gerakan bangunan dan cara penahannya ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
 
-- Open with the exact short salutation: **“Halo, Teman Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Office Cubicle Modular untuk Relokasi dan Perubahan Tim**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.id`, `Sobat Cubicle.id`, or `Kawan Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Apa yang dimaksud office cubicle modular untuk relokasi?
+
+Sebelum menggambar denah baru, samakan arti “modular” agar tim tidak menganggapnya sebagai sistem universal. Bagian ini membedakan objek yang dapat dipindahkan dari pekerjaan yang tetap memerlukan keputusan bangunan.
+
+Office cubicle modular adalah susunan panel, tiang atau pilaster, pintu, perangkat keras, kaki, kepala panel, braket, dan pengikat yang dirancang untuk dirakit dalam konfigurasi tertentu. Relokasi berarti membongkar, memberi identitas pada bagian, memeriksa kondisinya, lalu memasang kembali sesuai kompatibilitas sistem—bukan sekadar memindahkan panel secara acak.
+
+Batasnya penting: artikel ini membahas perencanaan perubahan susunan, bukan pekerjaan saat ruang sedang ditempati. Tahapan kerja di area aktif dan ekonomi penggantian berada di ruang lingkup dokumen lain. Untuk tiap konfigurasi baru, pastikan jalur, pintu, privasi, dan ruang pendekatan ditinjau sebagai satu kesatuan; catatan status peraturan PUPR menekankan bahwa aksesibilitas merupakan persoalan rute dan penggunaan, bukan satu ukuran produk saja ([Permen PUPR No. 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)).
+
+## Bagaimana sistem modular dibongkar, diberi label, lalu dirakit ulang?
+
+Urutan kerja menentukan apakah modul tetap dapat dipakai. Jembatan ini mencegah salah paham bahwa label dan catatan hanyalah administrasi; keduanya menjaga kecocokan dan mengurangi kerusakan.
+
+**1. Bekukan susunan asal.** Foto setiap bentang dari beberapa arah, lalu buat denah dengan kode unik. Kode harus membedakan panel ujung, panel tengah, tiang, pintu, dan perangkat keras. Catat orientasi kiri-kanan serta lantai atau zona asal.
+
+**2. Buat lembar kondisi.** Untuk tiap kode, tulis goresan, retak, tepi terkelupas, lubang bekas sekrup, engsel yang seret, dan pengunci yang tidak lengkap. Jangan menilai panel hanya dari permukaan; lubang dan jarak tepi memengaruhi cara pengikat bekerja. Petunjuk pemasangan sistem partisi Bobrick menunjukkan bahwa panel, pilaster, pintu, braket, celah, dan penyangga dipasang sebagai satu sistem ([petunjuk instalasi Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
+
+**3. Lepas dengan urutan terbalik dari pemasangan.** Lindungi sudut dan simpan sekrup atau braket dalam wadah berkode. Jika sambungan macet, hentikan dan minta pemeriksaan; memaksa sambungan dapat memperbesar lubang dan mengubah kecocokan pada susunan berikutnya.
+
+**4. Cocokkan modul dengan denah baru.** Buat matriks kebutuhan: kode komponen, posisi baru, pengikat yang diperlukan, dan status “siap”, “perlu perbaikan”, atau “tidak dipakai”. Sediakan beberapa komponen pengganti untuk bagian yang mudah hilang atau rusak, tetapi jangan menganggap suku cadang generik kompatibel tanpa konfirmasi produsen.
+
+**5. Uji antarmuka sebelum pengencangan akhir.** Periksa lantai, plafon, dinding, jalur kabel, dan pintu. Plafon gantung tidak otomatis menjadi tumpuan struktural; beban partisi harus diteruskan melalui pengikat dan struktur pendukung yang benar. Jika dinding lebih tinggi, bukaan berubah, atau ada beban gantung, tandai `[NEEDS PROFESSIONAL REVIEW: load path and anchorage]` sebelum pekerjaan berjalan.
+
+## Faktor apa yang paling mengubah biaya dan risiko perubahan?
+
+Setelah alurnya jelas, perhatikan faktor yang membuat rencana sederhana menjadi mahal. Heading ini mengarahkan perhatian dari harga panel ke pekerjaan dan bukti yang sering terlupakan.
+
+**Kelengkapan modul.** Satu panel tambahan tidak menyelesaikan kekurangan tiang, kaki, kepala panel, atau perangkat keras. Hitung satu set lengkap per bentang dan simpan daftar komponen yang tidak boleh dipisahkan.
+
+**Kelonggaran servis.** Sisakan akses untuk mengencangkan pengikat, membersihkan, dan mengganti perangkat keras. Susunan yang terlalu rapat mungkin muat di denah, tetapi menyulitkan servis dan meningkatkan waktu bongkar berikutnya.
+
+**Kondisi material dan lingkungan.** Label “HPL”, “phenolic”, atau “compact” hanya menyebut keluarga material. Tanpa lembar produk dan instruksi sistem yang tepat, jangan simpulkan ketahanan terhadap kelembapan atau umur pakai.
+
+**Antarmuka bangunan.** Lantai tidak rata, plafon berbeda tinggi, dinding baru, atau jalur utilitas yang bergeser dapat memerlukan braket dan urutan kerja berbeda. Jangan menyalin detail lubang atau beban dari merek lain; panduan pabrikan hanya berlaku untuk sistem yang disebut.
+
+**Dokumentasi dan tenaga kerja.** Foto, denah berkode, daftar suku cadang, dan berita acara kondisi mengurangi waktu mencari komponen. Biaya perubahan sebaiknya dihitung dari bongkar, pengepakan, transportasi internal, perbaikan, komponen hilang, pemasangan ulang, dan pemeriksaan akhir—bukan dari harga panel saja.
+
+## Bagaimana memilih rencana saat tim dan ruang berubah?
+
+Skenario bersyarat membantu Anda memilih tingkat dokumentasi tanpa mengarang hasil proyek. Gunakan tabel berikut sebagai alat diskusi awal, lalu cocokkan dengan kondisi nyata.
+
+| Situasi | Fokus pemeriksaan | Keputusan awal |
+|---|---|---|
+| Pindah dalam lantai dengan modul dan tinggi sama | Kode komponen, kelengkapan perangkat keras, kondisi lantai | Gunakan susunan ulang berbasis inventaris; verifikasi pengikat sebelum final |
+| Tim bertambah dan membutuhkan lebih banyak bentang | Ketersediaan panel, tiang, kaki, dan jalur kabel | Bekukan jumlah bentang; pesan suku cadang setelah kompatibilitas terkonfirmasi |
+| Tinggi partisi atau bukaan pintu berubah | Jalur beban, plafon, ayunan pintu, ruang pendekatan | Hentikan keputusan detail dan minta tinjauan profesional |
+| Ruang baru memiliki kelembapan atau pembersihan berbeda | Kelas material, tepi, perangkat keras, ventilasi | Minta bukti produk dan instruksi perawatan yang spesifik; jangan menyimpulkan dari label material |
+
+Sobat Cubicle.id, jika data inventaris belum lengkap, keputusan terbaik bukan memilih model baru, melainkan menutup celah data. Tandai komponen tanpa kode, foto yang tidak terbaca, dan sambungan yang belum diketahui sebelum meminta penawaran.
+
+## Kesalahan relokasi yang sering terjadi dan cara memeriksanya
+
+Shortcut berikut tampak menghemat waktu, tetapi mekanismenya justru menambah risiko. Gunakan pertanyaan pemeriksaan agar tim dapat menghentikannya lebih awal.
+
+**Menganggap semua panel dapat dipertukarkan.** Apakah profil tiang, posisi lubang, dan perangkat kerasnya sama? Jika tidak ada bukti tertulis, perlakukan sebagai sistem berbeda.
+
+**Mencampur sekrup atau braket tanpa label.** Apakah setiap wadah mencantumkan kode asal dan jumlah? Komponen kecil yang tertukar dapat membuat pemasangan tertunda atau sambungan tidak sesuai.
+
+**Menyimpan foto tanpa denah.** Dapatkah orang lain menemukan posisi komponen hanya dari kode? Foto harus terhubung ke denah dan lembar kondisi, bukan berdiri sendiri.
+
+**Mengikat ke plafon gantung tanpa verifikasi.** Apakah jalur beban sudah ditunjukkan sampai struktur pendukung? Jika belum, sisakan `[NEEDS PROFESSIONAL REVIEW: ceiling support]`.
+
+**Menghapus catatan kerusakan agar terlihat rapi.** Apakah retak, tepi rusak, atau lubang lama sudah diputuskan statusnya? Menutupi kerusakan memindahkan masalah ke saat pemasangan ulang.
+
+## Jalan pintas “langsung pindahkan” dan alternatif yang lebih aman
+
+Jalan pintas yang paling menggoda adalah memindahkan panel berdasarkan ukuran visual, lalu menyesuaikan lubang di lokasi. Cara ini dapat gagal karena sambungan, orientasi, dan jalur beban ikut berubah; lubang tambahan juga bisa melemahkan tepi atau membuat perangkat keras tidak sejajar.
+
+Alternatifnya adalah menyetujui paket relokasi: denah asal dan baru, matriks komponen, foto berkode, daftar suku cadang, metode pengepakan, serta titik pemeriksaan sebelum dan sesudah pemasangan. Minta produsen atau tenaga profesional menilai detail yang menyentuh struktur, aksesibilitas, kelembapan, atau perubahan bukaan. [NEEDS PROJECT-SPECIFIC REVIEW: exact dimensions, anchors, loads, compliance, and warranty]
+
+## Langkah berikutnya untuk rencana relokasi yang dapat dipertanggungjawabkan
+
+Office cubicle modular paling membantu ketika modulnya dikenali, dapat dilacak, dan dipasang ulang pada antarmuka bangunan yang sudah diperiksa. Modularitas mengurangi pekerjaan berulang, tetapi tidak menghapus kebutuhan suku cadang, kelonggaran servis, catatan bongkar, atau peninjauan profesional.
+
+Kawan Cubicle.id, sebelum relokasi berikutnya, tetapkan satu pemilik inventaris, beri kode pada setiap komponen, dan minta persetujuan tertulis untuk susunan baru. Simpan lembar kondisi bersama denah dan foto, lalu hitung biaya berdasarkan seluruh urutan kerja. Aturan operasionalnya sederhana: jangan mengencangkan atau memotong apa pun sampai identitas modul, kecocokan sistem, dan jalur penahannya terbukti untuk proyek tersebut.
+
+Untuk menyiapkan koordinasi awal, gunakan [beranda Cubicle.id](/) sebagai titik kembali sebelum menyusun dokumen proyek.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -69,139 +120,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-03
-
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-### KR-08
-
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
-
-### KR-09
-
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
-
-### KR-10
-
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-03-C` → `/artikel/kabel-listrik-dan-data-office-cubicle.html` — Perencanaan Kabel Listrik dan Data pada Office Cubicle
-- `CUB-03-D` → `/artikel/privasi-visual-dan-akustik-office-cubicle.html` — Privasi Visual dan Akustik pada Office Cubicle
-- `CUB-03-F` → `/artikel/inspeksi-office-cubicle.html` — Inspeksi dan Perawatan Office Cubicle setelah Dipakai
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Office Cubicle Modular untuk Relokasi dan Perubahan Tim”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Office Cubicle Modular untuk Relokasi dan Perubahan Tim”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Office Cubicle Modular untuk Relokasi dan Perubahan Tim”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Office Cubicle Modular untuk Relokasi dan Perubahan Tim”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Office Cubicle Modular untuk Relokasi dan Perubahan Tim”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Office Cubicle Modular untuk Relokasi dan Perubahan Tim”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

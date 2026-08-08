@@ -2,8 +2,9 @@
 article_id: CUB-05-C
 title: "Cara Menilai Bukti Enclosure, Interlock, Earthing, dan Label Cubicle Listrik"
 slug: "bukti-enclosure-interlock-earthing-label"
-description: "Show what records and responsible sign-offs to request for enclosure integrity, interlocks, earthing, labels, access, and configuration"
-status: outline
+description: "Panduan praktis meminta dan mencocokkan bukti enclosure, interlock, pembumian, label, akses, serta konfigurasi cubicle listrik sebelum penerimaan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-24"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,50 +16,18 @@ final_route: "/artikel/bukti-enclosure-interlock-earthing-label.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
   - "https://www.iso.org/standard/72960.html"
   - "https://www.iso.org/standard/72962.html"
   - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+Halo, Kawan Cubicle.id! Saat menerima cubicle listrik, foto panel yang tampak rapi belum cukup untuk menyatakan enclosure, interlock, earthing, dan label aman. Cara menilainya adalah mencocokkan identitas konfigurasi dengan gambar yang disetujui, catatan pemasangan, pemeriksaan berwenang, serta tanda tangan pihak yang bertanggung jawab.
 
-# Cara Menilai Bukti Enclosure, Interlock, Earthing, dan Label Cubicle Listrik
+Mulailah dengan daftar bukti, bukan menebak kondisi dari satu komponen. Bukti yang tidak cocok dengan cubicle terpasang harus ditahan untuk klarifikasi. Artikel ini membantu reviewer pengadaan atau commissioning menentukan dokumen yang diminta, urutan pencocokannya, dan kapan pekerjaan berhenti untuk review teknis. Ini bukan prosedur uji atau kriteria penerimaan proyek.
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Cara Menilai Bukti Enclosure, Interlock, Earthing, dan Label Cubicle Listrik”
-- **Reader and situation:** Technical procurement or commissioning reviewer
-- **Reader outcome:** Show what records and responsible sign-offs to request for enclosure integrity, interlocks, earthing, labels, access, and configuration
-- **Primary intent:** Verify safety-critical evidence
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Kawan Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not provide test procedures or acceptance numbers; CUB-11-F owns handover records and official project documents control criteria
-- **Final public route:** `/artikel/bukti-enclosure-interlock-earthing-label.html`
-- **Appointed CMS date:** `2025-11-24` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Menilai Bukti Enclosure, Interlock, Earthing, dan Label Cubicle Listrik**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Cubicle.id`, `Sobat Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-005`
@@ -69,140 +38,67 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle listrik 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+![Ilustrasi cubicle listrik 1](/wp-content/uploads/2023/03/cubicle-listrik-1.jpg)
 
-## Evidence packet
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+# Cara Menilai Bukti Enclosure, Interlock, Earthing, dan Label Cubicle Listrik
 
-### KR-01
+## Hasil akhir: paket bukti dan persetujuan yang dapat ditelusuri
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Sebelum membuka berkas, sepakati hasil akhirnya: setiap cubicle memiliki identitas, konfigurasi, dan status pemeriksaan yang bisa ditelusuri. Minta gambar susunan, daftar komponen, catatan perubahan, serta tanda tangan pemeriksa yang berwenang.
 
-### KR-03
+Enclosure berarti selungkup pelindung yang membatasi akses ke bagian dalam. Interlock adalah pengunci hubungan antarkondisi operasi agar akses atau gerak tertentu tidak terjadi tanpa kondisi yang dipersyaratkan. Earthing berarti pembumian, yaitu jalur penghubung ke sistem pembumian proyek; label adalah penanda identitas dan peringatan yang harus terbaca. Makna tiap istilah baru berguna setelah dicocokkan dengan desain dan keputusan proyek.
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
+Siapkan gambar disetujui, daftar sirkuit, manual pabrikan, catatan inspeksi, dan formulir deviasi. Untuk antarmuka bangunan, tata ruang dan jalur pengguna juga perlu ditinjau sebagai satu kesatuan; rujuk status peraturan aksesibilitas pada [catatan BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017).
 
-### KR-08
+## Langkah 1: tetapkan batas enclosure, interlock, earthing, dan label
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+Bagian ini mencegah pemeriksaan visual tercampur dengan pembuktian kinerja. Tulis batas objek: cubicle mana, sisi akses, antarmuka kabel dan fondasi, serta gambar desain yang berlaku. Nyatakan yang tidak dikerjakan: halaman ini tidak memberi angka ambang, metode pengujian, atau keputusan lulus-gagal pengganti persetujuan profesional. Bila Anda membutuhkan konteks umum sebelum menyusun berkas, gunakan [halaman utama Cubicle.id](/) hanya sebagai titik kembali, bukan sebagai bukti teknis.
 
-### KR-09
+Buat matriks identitas cubicle, nomor gambar, revisi konfigurasi, lokasi, dan pemilik tindakan. Enclosure dinilai dari kecocokan panel, pintu, bukaan, dan penutup yang tercantum; satu foto tidak membuktikan semua sisi. Interlock dinilai dari catatan fungsi dan status akses yang disetujui, bukan nama komponen saja.
 
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
+Untuk earthing, minta gambar jalur pembumian, titik sambungan, dan rekaman pemeriksaan bertanda tangan. Jangan mengisi nilai yang tidak ada. Untuk label, cocokkan penamaan, arah bahaya, identitas sirkuit, dan keterbacaan dengan daftar disetujui; perbedaan dicatat sebagai deviasi.
 
-### KR-10
+## Langkah 2: kumpulkan dan cocokkan bukti dengan konfigurasi terpasang
 
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
+Setelah scope terkunci, urutkan bukti dari identitas ke detail. Cocokkan nomor aset dengan gambar susunan, daftar komponen, dan revisi pekerjaan. Perbedaan nomor, pintu, posisi kompartemen, atau jalur kabel dapat mengubah makna bukti berikutnya.
 
-## Evidence gates
+Minta rekaman pemasangan yang menyebut siapa memeriksa dan kapan. Sistem panel adalah gabungan panel, pintu, kait, engsel, kaki, rel, braket, jangkar, celah, dan tumpuan bangunan; konfigurasi mengubah jalur beban dan urutan pemasangan ([petunjuk pemasangan Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)). Lembar material saja tidak membuktikan kestabilan rakitan.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Jika material disebut HPL, phenolic, atau compact, pahami bahwa itu nama keluarga material atau ruang lingkup pengujian, bukan jaminan seluruh sistem. Abstrak ISO tidak memberi angka proyek; gunakan hanya dokumen produk dan instruksi model yang tepat ([ISO 4586-2](https://www.iso.org/standard/72960.html), [ISO 4586-4](https://www.iso.org/standard/72962.html), [ISO 4586-6](https://www.iso.org/standard/72964.html)).
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Untuk dinding tinggi, bukaan pintu, tumpuan atas, atau retrofit, telusuri jalur beban sampai struktur pendukung. Panduan FEMA menjelaskan elemen nonstruktural dapat terpengaruh gerakan bangunan, tetapi bukan pengganti kode Indonesia dan tidak memberi detail jangkar universal ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)). Jika tumpuan atau bracing tidak terbukti, tahan keputusan.
 
-## Internal-link plan
+## Langkah 3: jalankan urutan peninjauan tanpa berubah menjadi uji lapangan
 
-### Existing local routes
+Urutan konseptual membantu menemukan celah tanpa memberi instruksi berbahaya: cocokkan identitas dan konfigurasi; baca bukti enclosure dan akses; telusuri interlock; cocokkan jalur earthing; lalu periksa daftar label dan perubahan terakhir.
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Pada tiap langkah catat apa yang terlihat, arti kecocokannya, bukti yang hilang, dan siapa yang harus menjawab. Kawan Cubicle.id, jangan mengubah “belum ada bukti” menjadi “sudah aman”; gunakan status pending atau deviasi.
 
-### Planned sibling articles
+## Titik tahan: kapan keputusan harus berhenti
 
-These are future routes. Do not link them as live until their HTML exists.
+Tahan penerimaan bila nomor cubicle tidak cocok, interlock tidak punya dasar konfigurasi, jalur pembumian tidak ditandatangani, label kritis tidak terbaca, atau tumpuan bangunan belum disetujui. Tahan juga bila vendor hanya memberi klaim material tanpa model dan instruksi yang sesuai, atau dokumen berasal dari proyek lain.
 
-- `CUB-05-A` → `/artikel/cubicle-listrik-untuk-buyer.html` — Cubicle Listrik untuk Buyer: Istilah, Bukti, dan Batas Keselamatan
-- `CUB-05-B` → `/artikel/dokumen-kebutuhan-cubicle-listrik.html` — Dokumen Kebutuhan Cubicle Listrik sebelum Meminta Penawaran
-- `CUB-05-D` → `/artikel/lingkungan-pemasangan-cubicle-listrik.html` — Lingkungan Pemasangan Cubicle Listrik: Debu, Air, Panas, dan Korosi
-- `CUB-05-E` → `/artikel/risiko-cubicle-listrik-bagi-owner.html` — Arc, Api, Kejut, dan Salah Operasi: Risiko Cubicle Listrik bagi Owner
+Mintalah klarifikasi tertulis, gambar revisi, dan tinjauan profesional yang ditunjuk. Tidak ada angka ambang atau status kepatuhan yang boleh diisi dari asumsi. Jika jawaban baru berupa janji lisan, simpan status tetap ditahan sampai rekaman resmi diterima dan ditautkan ke identitas cubicle.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Verifikasi hasil dan serah terima: rekaman yang perlu diserahkan
 
-## Hasil akhir dan prasyarat
+Susun indeks berkas: gambar final, daftar komponen, catatan inspeksi enclosure dan interlock, bukti jalur earthing, daftar label, deviasi, serta persetujuan penutupan. Setiap item menunjuk cubicle dan revisi yang sama.
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menilai Bukti Enclosure, Interlock, Earthing, dan Label Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tandai “sesuai”, “perlu klarifikasi”, atau “ditahan” berdasarkan bukti tersedia. Simpan nama dan peran penandatangan, tanggal pemeriksaan, dan rujukan dokumen; jangan menambahkan hasil uji yang tidak tercatat. Handover resmi tetap mengikuti dokumen proyek.
 
-## Langkah 1 — tetapkan scope
+## Jalan pintas yang sering menyesatkan
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menilai Bukti Enclosure, Interlock, Earthing, dan Label Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Menerima satu foto depan dan brosur material sebagai bukti lengkap adalah jalan pintas yang rapuh. Foto hanya menunjukkan bidang yang tertangkap kamera, sedangkan brosur menjelaskan produk tertentu. Keduanya tidak otomatis membuktikan sisi lain, interlock, earthing, jangkar, label, atau konfigurasi final.
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+Alternatifnya ialah meminta paket bukti berindeks dan mencocokkannya item demi item. Sobat Cubicle.id, bila satu mata rantai tidak ada, catat kekurangannya dan minta pihak berwenang menutupnya sebelum keputusan penerimaan.
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menilai Bukti Enclosure, Interlock, Earthing, dan Label Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesimpulan: minta bukti yang cocok, lalu tahan keputusan yang belum terbukti
 
-## Langkah 3 — jalankan urutan kerja
+Cara menilai enclosure, interlock, earthing, dan label cubicle listrik adalah menelusuri identitas, konfigurasi, jalur pembumian, akses, dan penandaan melalui rekaman pemasangan serta persetujuan bertanggung jawab. Kirim matriks bukti kepada kontraktor atau vendor, beri pemilik dan tanggal tindak lanjut untuk tiap kekosongan, lalu serahkan hold point kepada reviewer teknis proyek.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menilai Bukti Enclosure, Interlock, Earthing, dan Label Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Cubicle.id, operating rule-nya sederhana: dokumen yang tidak cocok dengan cubicle terpasang bukan bukti pengganti. Jangan menyatakan lulus, aman, atau patuh sampai pemeriksaan dan kriteria resmi proyek menutup semua gap.
 
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menilai Bukti Enclosure, Interlock, Earthing, dan Label Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menilai Bukti Enclosure, Interlock, Earthing, dan Label Cubicle Listrik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Catat pula pertanyaan terbuka dalam daftar tindak lanjut, misalnya dokumen mana yang belum memiliki revisi final atau siapa yang harus mengesahkan perubahan. Daftar itu menjaga percakapan tetap terarah dan mencegah lampiran lama dipakai untuk keputusan baru. Setelah semua jawaban masuk, minta reviewer teknis mengonfirmasi bahwa paket tersebut memang mencakup cubicle yang akan dioperasikan.

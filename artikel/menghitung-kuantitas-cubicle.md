@@ -2,8 +2,9 @@
 article_id: CUB-10-B
 title: "Cara Menghitung Kuantitas Cubicle tanpa Menyembunyikan Asumsi"
 slug: "menghitung-kuantitas-cubicle"
-description: "Define count, run length, panel area, doors, hardware, supports, finishes, spares, wastage, interfaces, and revision assumptions"
-status: outline
+description: "Panduan membuat takeoff cubicle yang transparan: jumlah unit, panjang, panel, pintu, perangkat keras, penyangga, finishing, cadangan, susut, antarmuka, dan asumsi revisi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-14"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,10 @@ final_route: "/artikel/menghitung-kuantitas-cubicle.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
-  - "https://peraturan.bpk.go.id/Details/37637/uu"
-  - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
-  - "https://www.bobrick.com/resource-center-2/guide-specifications/"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Cara Menghitung Kuantitas Cubicle tanpa Menyembunyikan Asumsi
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Cara Menghitung Kuantitas Cubicle tanpa Menyembunyikan Asumsi”
-- **Reader and situation:** Estimator or buyer checking quantities
-- **Reader outcome:** Define count, run length, panel area, doors, hardware, supports, finishes, spares, wastage, interfaces, and revision assumptions
-- **Primary intent:** Prepare a transparent takeoff
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Kawan Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not publish a universal waste factor or price; project drawings and supplier data control values, while CUB-10-F owns budget updates
-- **Final public route:** `/artikel/menghitung-kuantitas-cubicle.html`
-- **Appointed CMS date:** `2026-03-14` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Menghitung Kuantitas Cubicle tanpa Menyembunyikan Asumsi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Cubicle.id`, `Sobat Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -68,139 +30,78 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Cara Menghitung Kuantitas Cubicle tanpa Menyembunyikan Asumsi
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Cubicle.id! Kesalahan kuantitas biasanya bukan karena penjumlahan keliru, melainkan karena istilah “satu cubicle” dipakai untuk paket yang berbeda. Satu orang menghitung ruang, orang lain menghitung panel, sementara pemasok memasukkan pintu dan perangkat keras dengan cara lain. Akibatnya, penawaran tampak murah tetapi item penting muncul sebagai pekerjaan tambahan.
 
-### KR-01
+Jawaban singkatnya: buat daftar kuantitas berdasarkan komponen dan antarmuka, lalu tulis asumsi di samping setiap angka. Mulai dari denah dan kondisi lapangan yang tersedia; pisahkan jumlah ruang, panjang jalur, luas panel, jumlah pintu, perangkat keras, penyangga, finishing, cadangan, serta pekerjaan pihak lain. Angka dikunci setelah gambar revisi, data produk, dan pemeriksaan lokasi cocok. Kerangka bangunan juga menuntut perhatian pada keselamatan, kesehatan, kenyamanan, dan fungsi, bukan sekadar label produk ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
-### KR-02
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Hasil akhir yang harus tersedia sebelum menghitung
 
-### KR-19
+Takeoff yang baik memungkinkan estimator menjawab “berapa banyak dan berdasarkan apa”, bukan hanya menghasilkan total. Siapkan denah atau sketsa berdimensi, spesifikasi sistem, revisi gambar, informasi bukaan dan layanan, serta catatan survei lapangan bila tersedia.
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
+Tetapkan kewenangan: estimator menyusun, pemasok mengonfirmasi konfigurasi, perancang atau penanggung jawab teknis memeriksa kecocokan, dan tim lapangan memvalidasi akses serta substrat. Jika dokumen belum ada, tandai sebagai asumsi terbuka.
 
-### KR-21
+Gunakan kolom kode area, referensi gambar, tipe, dimensi, komponen, satuan, kuantitas, asumsi, sumber data, revisi, dan status pemeriksaan. Perubahan satu dinding dapat dilacak sampai pintu, perangkat keras, finishing, dan cadangan.
 
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
+## Menetapkan lingkup: apa yang dihitung dan apa yang bukan
 
-### KR-18
+Tulis batas pekerjaan secara eksplisit: partisi, pintu, engsel atau perangkat penutup, kaki, kepala panel, aksesori, dan finishing. Pisahkan pekerjaan antarmuka seperti pembongkaran, perbaikan lantai atau dinding, pemindahan layanan, perlindungan, pengangkutan, dan pembuangan.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
+“Jumlah ruang” adalah kompartemen; “jumlah pintu” mengikuti bukaan berdaun pintu; “panjang jalur” adalah garis partisi; “luas panel” adalah bidang yang diproduksi atau diselesaikan. Satu ruang dapat memiliki beberapa panel, dan satu jalur dapat memuat sudut atau ujung.
 
-## Evidence gates
+Kawan Cubicle.id, jangan memasukkan faktor susut universal. Susut bergantung pada ukuran lembar, pola potong, bahan, akses, serta kebijakan pemasok. Tulis “menunggu pola potong dan konfirmasi pemasok” bila data belum ada. Anggaran dan pembaruan harga berada di luar lingkup artikel ini.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+## Mengumpulkan bukti untuk setiap angka kuantitas
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Catat nomor gambar dan revisinya, ukuran yang dibaca, sumber spesifikasi, dan tanggal pemeriksaan. Bila ukuran denah berbeda dari lapangan, simpan keduanya dan tandai mana yang menunggu keputusan.
 
-## Internal-link plan
+Periksa ketegakan, kerataan, ruang plafon, posisi struktur, sambungan gerak, layanan tersembunyi, sprinkler atau detektor, jalur listrik dan data, lis, drainase, serta kapasitas substrat. Gambar saja tidak mengungkap semua antarmuka bangunan ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)). Pemeriksaan destruktif atau isolasi layanan memerlukan izin dan koordinasi profesional.
 
-### Existing local routes
+Cocokkan data produk dengan konfigurasi yang dihitung. Instruksi pabrikan berlaku untuk sistem tertentu, bukan toleransi universal; gunakan dokumen Bobrick untuk identifikasi komponen, bukan menyalin langkah ke sistem lain ([instruksi pemasangan Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
 
-- `/` — fallback home route; use only when it is genuinely useful.
+## Urutan kerja menghitung jumlah, panjang, dan komponen
 
-### Planned sibling articles
+Mulai dari daftar ruang. Beri kode setiap kompartemen dan tandai tipe, lebar, kedalaman, tinggi, serta sisi yang berbatasan dengan dinding tetap. Hitung pintu dan panel dari kode tersebut. Jika ukuran belum pasti, tampilkan status menunggu, bukan angka semu.
 
-These are future routes. Do not link them as live until their HTML exists.
+Lanjutkan ke panjang jalur. Ukur tiap segmen lurus, sudut, dan ujung secara terpisah. Jumlahkan segmen dengan sistem sama, tetapi jangan mencampur dinding tetap atau elemen paket lain. Catat satuan dan metode pembulatan.
 
-- `CUB-10-A` → `/artikel/membandingkan-penawaran-cubicle.html` — Matriks Membandingkan Penawaran Cubicle secara Setara
-- `CUB-10-C` → `/artikel/register-submittal-cubicle.html` — Register Submittal Cubicle: Sampel, Data Teknis, Gambar, dan Sertifikat
-- `CUB-10-D` → `/artikel/biaya-siklus-hidup-cubicle.html` — Harga Awal vs Biaya Siklus Hidup Cubicle
+Pecah menjadi panel dan perangkat keras: panel tengah, ujung, sudut, daun pintu, engsel atau pivot, kait, penyangga, kaki, kepala panel, dan pengikat. Kuantitas perangkat keras mengikuti konfigurasi aktual dan data pemasok.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Pisahkan finishing dan bahan habis pakai dari panel utama. Catat permukaan, tepi, warna atau kode yang disetujui, dan perlindungan pengiriman. Cadangan dan susut ditempatkan pada baris sendiri dengan alasan serta otorisasi.
 
-## Hasil akhir dan prasyarat
+## Titik berhenti: kapan perhitungan harus berhenti
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menghitung Kuantitas Cubicle tanpa Menyembunyikan Asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berhenti sebelum harga atau pesanan dikunci bila revisi gambar belum jelas, ukuran lapangan bertentangan, substrat belum diketahui, atau layanan berpotensi berbenturan. Minta keputusan tertulis tentang dimensi, tipe sistem, titik penyangga, dan pembagian pekerjaan.
 
-## Langkah 1 — tetapkan scope
+Tandai klaim kepatuhan, kebakaran, akustik, kelembapan, aksesibilitas, atau kinerja sebagai `[NEEDS PROFESSIONAL/PROJECT EVIDENCE]` sampai dokumen proyek dan produk disetujui. Produk pengganti atau penyimpangan dapat mengubah bukti sistem dan garansi; pihak berwenang di proyek harus meninjau.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menghitung Kuantitas Cubicle tanpa Menyembunyikan Asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Verifikasi hasil dan serah terima kuantitas
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+Periksa silang: jumlah ruang sama dengan daftar pintu; panjang jalur cocok dengan segmen gambar; panel sudut dan ujung tidak terhitung dua kali; perangkat keras memiliki konfigurasi; dan setiap antarmuka memiliki pemilik pekerjaan. Bandingkan dengan revisi gambar terakhir dan simpan catatan perubahan.
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menghitung Kuantitas Cubicle tanpa Menyembunyikan Asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Saat serah terima, berikan daftar kuantitas berstatus, asumsi terbuka, lembar data produk, persetujuan substitusi, catatan pemeriksaan substrat, dan daftar cadangan. Penerimaan tidak cukup berdasarkan tampilan selesai; fungsi dan dokumen pendukung perlu diperiksa sesuai rencana.
 
-## Langkah 3 — jalankan urutan kerja
+Simpan pula jejak siapa yang mengubah angka dan alasan perubahannya. Catatan singkat seperti “panel ujung bertambah karena layout revisi” lebih berguna daripada mengganti total tanpa keterangan. Jika pembaca berikutnya tidak dapat menelusuri asal angka, daftar itu belum siap menjadi dasar pembelian.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menghitung Kuantitas Cubicle tanpa Menyembunyikan Asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas “hitung luas lalu kalikan” dan mengapa gagal
 
-## Hold point dan kondisi berhenti
+Mengalikan luas total dengan satu faktor menghapus perbedaan sudut, ujung, pintu, perangkat keras, penyangga, dan antarmuka. Dua layout dengan luas sama dapat memerlukan komponen dan pekerjaan lapangan berbeda. Kekurangan baru terlihat saat pemasangan.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menghitung Kuantitas Cubicle tanpa Menyembunyikan Asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Alternatifnya adalah menghitung dari unit dan segmen, lalu menjumlahkan komponen. Simpan rumus, sumber ukuran, dan alasan setiap cadangan. Berikan total ringkas bersama rincian pendukung, bukan menggantikan rincian.
 
-## Verifikasi hasil dan handover
+Buat satu lembar perubahan yang menghubungkan revisi ke dampak kuantitas. Kolom “sebelum”, “sesudah”, dan “alasan” membantu tim melihat apakah perubahan hanya memindahkan posisi atau benar-benar menambah panel, pintu, atau penyangga. Cara ini juga memudahkan pemasok mengonfirmasi apakah konfigurasi masih tersedia dalam sistem yang sama. Jangan menggabungkan dua revisi menjadi angka rata-rata; pilih revisi yang disetujui dan arsipkan yang lama.
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menghitung Kuantitas Cubicle tanpa Menyembunyikan Asumsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesimpulan: kunci angka hanya setelah asumsi terbaca
 
-## Objection or shortcut to address
+Cara menghitung kuantitas cubicle yang dapat dipertanggungjawabkan adalah memecahnya menjadi ruang, segmen, panel, pintu, perangkat keras, penyangga, finishing, cadangan, susut, dan antarmuka; lalu menautkan setiap angka ke gambar, survei, atau data pemasok. Sobat Cubicle.id, minta tim menandatangani daftar asumsi dan menutup item `[NEEDS PROFESSIONAL/PROJECT EVIDENCE]` sebelum penawaran atau pembelian.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jika data berubah, terbitkan revisi baru dan tunjukkan dampaknya pada setiap komponen. Angka tanpa asal-usul bukan kepastian—ia hanya asumsi yang belum diberi nama.
 
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Untuk kembali melihat konteks layanan dan informasi umum situs, gunakan [beranda Cubicle.id](/) sekali saja; keputusan teknis tetap mengikuti dokumen proyek yang disetujui.

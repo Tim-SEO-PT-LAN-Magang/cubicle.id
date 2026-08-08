@@ -2,8 +2,9 @@
 article_id: CUB-03-D
 title: "Privasi Visual dan Akustik pada Office Cubicle"
 slug: "privasi-visual-dan-akustik-office-cubicle"
-description: "Separate sightline, speech, absorption, masking, layout, behavior, and test-evidence decisions"
-status: outline
+description: "Panduan memisahkan keputusan privasi pandangan, percakapan, tata letak, perilaku, dan bukti uji pada office cubicle."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-08"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,49 +17,11 @@ technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
   - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://www.iso.org/standard/72960.html"
-  - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
-  - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
-  - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Privasi Visual dan Akustik pada Office Cubicle
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Privasi Visual dan Akustik pada Office Cubicle”
-- **Reader and situation:** Workplace team addressing distraction or confidentiality
-- **Reader outcome:** Separate sightline, speech, absorption, masking, layout, behavior, and test-evidence decisions
-- **Primary intent:** Improve office privacy
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Kawan Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not guarantee soundproofing; CUB-06-E owns finish evidence and CUB-14-A owns building-context tradeoffs
-- **Final public route:** `/artikel/privasi-visual-dan-akustik-office-cubicle.html`
-- **Appointed CMS date:** `2025-10-08` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Privasi Visual dan Akustik pada Office Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Cubicle.id`, `Sobat Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -69,140 +32,67 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Kawan Cubicle.id! Jika percakapan mudah terdengar atau layar kerja terbaca dari jalur orang lewat, panel yang lebih tinggi bukan otomatis jawabannya. Privasi visual mengatur garis pandang; privasi akustik mengatur seberapa mudah suara menyebar dan dipahami. Keduanya perlu diputuskan terpisah, lalu diselaraskan dengan tata letak, perilaku, dan bukti yang benar-benar tersedia.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Mulailah dengan memetakan kejadian yang ingin dikurangi: orang melihat monitor, rekan mendengar nama atau angka, atau suara latar membuat orang salah menangkap pesan. Setelah itu, tentukan apakah solusi utamanya mengubah arah meja dan jalur pandang, menambah penghalang, mengelola sumber suara, atau mengubah kebiasaan rapat. Artikel ini membantu memilih urutan pemeriksaan tersebut; ia tidak menjanjikan kedap suara.
 
-### KR-01
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Aset lokal proyek; bukan dokumentasi proyek tertentu.
 
-### KR-03
+## Privasi visual dan akustik menjawab dua masalah yang berbeda
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
+Sebelum memilih panel, pastikan istilahnya tidak tercampur. Privasi visual berarti membatasi apa yang dapat dilihat dari titik pengamat tertentu. Privasi akustik berarti mengurangi kemungkinan suara terdengar atau dipahami oleh pendengar yang tidak dituju. Panel dapat menghalangi pandangan tetapi tetap menyisakan celah suara; karpet atau bahan penyerap dapat mengurangi pantulan, tetapi tidak menutup garis pandang.
 
-### KR-08
+Kesalahpahaman ini penting karena “lebih tinggi” sering dipakai sebagai ukuran tunggal. Tinggi panel, arah duduk, pintu, plafon, bukaan, dan posisi sumber suara bekerja sebagai rangkaian. Tanpa data ruangan dan sistem terpasang, klaim kedap suara harus diberi tanda **[NEEDS ACOUSTIC TEST EVIDENCE]**.
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+## Batas objek: cubicle, ruang, dan perilaku pengguna
 
-### KR-09
+Bagian ini membatasi keputusan agar cubicle tidak diperlakukan sebagai ruang kedap. Yang dibahas adalah garis pandang, percakapan, penyerapan dan pantulan suara secara konseptual, tata letak, perilaku, serta cara meminta bukti. Detail bangunan, sambungan ke plafon, dan persetujuan teknis tetap menjadi pekerjaan tim proyek.
 
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
+Untuk area yang harus dapat dipakai semua orang, privasi tidak boleh mengorbankan akses. Peraturan PUPR menempatkan jalur, ruang pendekatan, ayunan dan pengoperasian pintu, visibilitas, perlengkapan, serta susunan ruang sebagai pertanyaan yang saling terkait; satu ukuran produk saja tidak membuktikan aksesibilitas ([status peraturan](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [teks PDF](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)). Karena itu, minta peninjauan rute dan penggunaan, bukan hanya gambar panel.
 
-### KR-10
+## Urutan kerja: dari garis pandang ke penyebaran suara
 
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
+Mulailah dari denah dan posisi mata. Tandai siapa yang mungkin melihat layar saat berdiri, duduk, masuk, atau melewati lorong. Putar meja, ubah orientasi monitor, atau tempatkan panel pada sisi yang memotong garis pandang tersebut. Keputusan ini dapat diuji dengan simulasi posisi sederhana sebelum membeli komponen.
 
-## Evidence gates
+Berikutnya petakan suara: sumbernya, arah pembicara, pendengar yang tidak dituju, dan jalur terbuka menuju area lain. Penyerapan mengurangi pantulan di permukaan; penghalang mengubah jalur langsung; pengaturan jarak dan waktu percakapan mengurangi peluang suara dipahami. Ketiganya berbeda dari isolasi ruang, sehingga hasil tidak boleh disebut “kedap” tanpa pengukuran sistem.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Terakhir, tetapkan aturan operasi. Rapat sensitif dapat dipindahkan, panggilan dapat memakai headset, dan layar dapat dikunci ketika ditinggal. Kawan Cubicle.id, tulis tindakan ini di lembar keputusan agar tim tidak menuntut satu material menyelesaikan masalah yang sebenarnya berasal dari kebiasaan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Faktor yang mengubah hasil privasi
 
-## Internal-link plan
+Kepadatan meja dan arah lorong mengubah siapa yang berada pada garis pandang. Celah di bawah atau di antara panel, bukaan pintu, serta pertemuan panel dengan plafon memberi jalur berbeda bagi pandangan dan suara. Karena itu, gambar denah harus dibaca bersama potongan dan detail sambungan.
 
-### Existing local routes
+Material juga bukan spesifikasi lengkap. Istilah “HPL”, “phenolic”, atau “compact” hanya menyebut keluarga bahan; tidak otomatis membuktikan kinerja pintu, sambungan, pengikat, korosi, atau privasi sistem. Panduan pemasangan produk menunjukkan bahwa panel, stile, engsel, kait, kaki, braket, jangkar, dan tumpuan bekerja sebagai satu konfigurasi. Jangan menyalin ukuran atau beban produk lain ke proyek Anda.
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Kondisi bangunan menentukan apakah panel boleh bertumpu pada lantai, dinding, atau struktur tertentu. Kisi plafon bukan otomatis penyangga struktural. Untuk dinding tinggi, bukaan, elemen gantung, atau retrofit, minta detail penyaluran beban dan gerak bangunan sebelum pemasangan: **[NEEDS PROJECT STRUCTURAL REVIEW]**.
 
-### Planned sibling articles
+## Contoh keputusan praktis berdasarkan keluhan
 
-These are future routes. Do not link them as live until their HTML exists.
+| Keluhan utama | Pemeriksaan pertama | Keputusan yang dapat dicoba | Bukti lanjutan |
+|---|---|---|---|
+| Layar terlihat dari lorong | Garis pandang saat berdiri dan duduk | Putar meja atau beri penghalang pada sisi yang tepat | Uji lintasan dengan pengguna nyata |
+| Percakapan terdengar jelas | Sumber, pendengar, celah, dan pantulan | Pindahkan percakapan, atur jarak, dan kelola pantulan | **[NEEDS ACOUSTIC TEST EVIDENCE]** |
+| Distraksi suara umum | Sumber bising dan waktu terjadinya | Atur zona hening dan kebiasaan headset | Catatan gangguan sebelum-sesudah |
+| Privasi mengganggu akses | Jalur, ruang pendekatan, dan operasi pintu | Tinjau ulang posisi panel dan ayunan pintu | Review profesional sesuai proyek |
 
-- `CUB-03-B` → `/artikel/bench-vs-workstation-vs-panel-tinggi.html` — Bench, Workstation Individual, atau Panel Tinggi: Mana yang Cocok?
-- `CUB-03-C` → `/artikel/kabel-listrik-dan-data-office-cubicle.html` — Perencanaan Kabel Listrik dan Data pada Office Cubicle
-- `CUB-03-E` → `/artikel/office-cubicle-modular-untuk-relokasi.html` — Office Cubicle Modular untuk Relokasi dan Perubahan Tim
-- `CUB-03-F` → `/artikel/inspeksi-office-cubicle.html` — Inspeksi dan Perawatan Office Cubicle setelah Dipakai
+Sobat Cubicle.id, tabel ini bukan janji hasil; ia membantu memilih pertanyaan pertama. Jika keluhan mencampur pandangan dan suara, kerjakan dua baris pemeriksaan, bukan menaikkan panel secara membabi buta.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Kesalahan umum yang perlu diperiksa
 
-## Jawaban singkat dan salah paham utama
+Kesalahan pertama adalah menganggap panel tinggi sama dengan peredaman suara. Periksa apakah jalur suara justru melewati celah, atas panel, atau pintu. Kesalahan kedua adalah memakai label bahan sebagai bukti performa terpasang. Minta dokumen produk yang tepat, konfigurasi, kondisi pemasangan, dan metode uji yang relevan.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Privasi Visual dan Akustik pada Office Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan ketiga adalah menguji hanya dari satu kursi. Amati posisi berdiri, duduk, masuk, dan lewat; privasi berubah ketika geometri pengguna berubah. Kesalahan keempat adalah menutup jalur akses demi kerahasiaan. Cocokkan panel dengan pintu, perlengkapan, dan ruang gerak menggunakan tinjauan regulasi dan proyek, tanpa mengarang dimensi.
 
-## Definisi dan batas objek
+## Jalan pintas “cukup tambah panel” dan alternatifnya
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Privasi Visual dan Akustik pada Office Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas ini tampak murah karena hanya mengubah satu komponen. Ia dapat gagal ketika sumber masalah adalah arah monitor, percakapan di lorong, celah plafon, atau kebiasaan rapat. Alternatif yang lebih dapat ditelusuri adalah membuat daftar kejadian, memetakan jalur pandang dan suara, mencoba perubahan tata letak yang dapat dibalik, lalu meminta bukti uji atau peninjauan profesional untuk keputusan permanen.
 
-## Cara kerjanya
+## Langkah berikutnya sebelum memesan office cubicle
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Privasi Visual dan Akustik pada Office Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Privasi visual dan akustik tercapai melalui keputusan yang berbeda namun saling diselaraskan: garis pandang, jalur suara, tata letak, material, sambungan, dan perilaku. Buat satu lembar yang memuat keluhan, lokasi pengamat atau pendengar, perubahan yang dicoba, serta bukti yang masih kosong.
 
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Privasi Visual dan Akustik pada Office Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Privasi Visual dan Akustik pada Office Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Privasi Visual dan Akustik pada Office Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Cubicle.id, bawa lembar itu bersama denah, potongan, detail tumpuan, spesifikasi sistem, dan rencana akses kepada tim proyek. Anda dapat memakai [beranda Cubicle.id](/) untuk kembali ke konteks layanan sebelum menyiapkan pertanyaan proyek. Minta **[NEEDS ACOUSTIC TEST EVIDENCE]** untuk klaim akustik dan **[NEEDS PROJECT STRUCTURAL REVIEW]** bila ada tumpuan atau gerak bangunan yang belum jelas. Aturan operasinya sederhana: jangan menyebut cubicle kedap suara sebelum sistem terpasang diuji dan konteks bangunan disetujui.

@@ -2,8 +2,9 @@
 article_id: CUB-09-D
 title: "Bukti Perilaku Api dan Asap pada Material Cubicle"
 slug: "bukti-api-dan-asap-material-cubicle"
-description: "Distinguish material/component/assembly evidence, test method and specimen, scope, interfaces, smoke, penetrations, documentation, and competent review"
-status: outline
+description: "Panduan membedakan bukti material, komponen, dan rakitan cubicle saat memeriksa klaim api dan asap."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,52 +17,15 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/72960.html"
   - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
-  - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
-  - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
-  - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
   - "https://www.iso.org/standard/83943.html"
   - "https://store.astm.org/e0119-24.html"
+  - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
+  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Bukti Perilaku Api dan Asap pada Material Cubicle
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Bukti Perilaku Api dan Asap pada Material Cubicle”
-- **Reader and situation:** Designer or buyer reviewing “fire-rated” marketing
-- **Reader outcome:** Distinguish material/component/assembly evidence, test method and specimen, scope, interfaces, smoke, penetrations, documentation, and competent review
-- **Primary intent:** Verify fire claims
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Kawan Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not declare building compliance or copy test values across configurations; current project requirements and fire professionals own acceptance
-- **Final public route:** `/artikel/bukti-api-dan-asap-material-cubicle.html`
-- **Appointed CMS date:** `2026-02-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Bukti Perilaku Api dan Asap pada Material Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Cubicle.id`, `Sobat Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -72,140 +36,86 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Kawan Cubicle.id!
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Saat brosur menyebut panel cubicle “fire-rated” atau “low smoke”, pembeli sering menganggap seluruh bilik otomatis memiliki tingkat keselamatan yang sama. Anggapan itu berisiko: bukti untuk satu lembar material belum tentu berlaku untuk pintu, sambungan, rangka, jangkar, atau susunan yang dipasang di proyek Anda.
 
-### KR-01
+Jawaban singkatnya, perilaku api dan asap harus dibaca pada tingkat bukti yang tepat. Tanyakan apakah dokumen itu menguji material, komponen, atau rakitan lengkap; metode dan spesimen apa yang dipakai; serta apakah konfigurasi, penetrasi, dan pemasangan sama dengan yang akan digunakan. Metode uji seperti ISO 834-1 atau ASTM E119 menjelaskan ruang lingkup pengujian ketahanan api, bukan dengan sendirinya membuktikan suatu produk lulus atau mematuhi proyek tertentu ([ISO 834-1](https://www.iso.org/standard/83943.html), [ASTM E119-24](https://store.astm.org/e0119-24.html)).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Gunakan artikel ini untuk memutuskan dokumen apa yang perlu diminta dan kapan harus menghentikan keputusan sampai peninjauan profesional tersedia. [NEEDS PROJECT FIRE CLASSIFICATION AND ACCEPTANCE CRITERIA]
 
-### KR-08
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
 
-### KR-09
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+Sobat Cubicle.id, simpan perbedaan ini saat membandingkan dua penawaran: yang satu mungkin hanya menjual bahan, sedangkan yang lain menyerahkan rakitan dengan dokumen konfigurasi.
 
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
+## Apa yang sebenarnya dibuktikan oleh dokumen api dan asap?
 
-### KR-20
+Sebelum menilai angka atau label, samakan dulu objek yang diuji dengan objek yang hendak dibeli. Bagian ini mencegah kekeliruan paling umum: memindahkan hasil dari bahan dasar ke sistem cubicle tanpa memeriksa batas penerapannya.
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+**Material** adalah bahan lembaran atau inti yang diuji sebagai benda uji tertentu. Standar seri ISO 4586 membedakan metode uji dan lingkup compact laminate; abstraknya tidak otomatis memberi klasifikasi untuk semua merek atau ketebalan ([ISO 4586-2](https://www.iso.org/standard/72960.html), [ISO 4586-4](https://www.iso.org/standard/72962.html)). Jadi, label HPL, phenolic, atau compact hanya identitas bahan. Minta lembar data yang menyebut produk, ketebalan, permukaan, dan kondisi spesimen.
 
-### KR-13
+**Komponen** mencakup pintu, engsel, latch, kaki, bracket, atau panel dengan detail tepi. Komponen dapat mengubah jalur panas, celah, dan jumlah material yang terbakar. Petunjuk pemasangan Bobrick, misalnya, memperlakukan panel, pilaster, perangkat keras, dan penyangga sebagai satu urutan pemasangan; jangan menyalin dimensinya ke sistem lain ([petunjuk pemasangan Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
 
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
+**Rakitan** berarti susunan yang bekerja bersama: panel atau papan, rangka, pengikat, sambungan, perimeter, pintu, insulasi bila ada, dan penetrasi. Klaim ketahanan api melekat pada rakitan persis itu. Jika satu detail berubah, bukti lama tidak dapat dianggap sama tanpa penilaian yang berwenang.
 
-## Evidence gates
+## Bagaimana membaca metode uji, spesimen, dan hasilnya?
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Setelah objeknya jelas, baca laporan dari kolom identitas hingga batas hasil. Jembatan ini penting karena nama standar sering terdengar seperti sertifikat kelulusan, padahal standar terutama menetapkan cara menguji.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Periksa nama laboratorium, nomor laporan, tanggal, produk, ketebalan, orientasi, dan susunan lapisan. Cocokkan pula ukuran benda uji, jenis sambungan, pengikat, serta kondisi tepi. Spesimen kecil atau panel tunggal menjawab pertanyaan perilaku benda uji itu; ia tidak otomatis menjawab perilaku bilik lengkap di lapangan.
 
-## Internal-link plan
+Bedakan **reaksi terhadap api**—misalnya kecenderungan permukaan menyala atau menghasilkan asap dalam kondisi uji—dari **ketahanan api**, yaitu kemampuan rakitan mempertahankan fungsi pemisah selama program pengujian. Jangan menyamakan istilah “smoke” di brosur dengan pengendalian asap pada bangunan. ISO 834-1 dan ASTM E119 menetapkan lingkup metode ketahanan api; laporan lulus dan klasifikasi yang cocok tetap harus tersedia untuk rakitan yang dimaksud.
 
-### Existing local routes
+Tanyakan apa yang terjadi pada sambungan dan sisi belakang spesimen. Api dan asap sering melewati celah, kepala pengikat, atau tepi yang dipotong lebih dahulu daripada bidang panel. Jika laporan tidak menyebut detail tersebut, catat sebagai kekosongan dokumen, bukan sebagai bukti aman.
 
-- `/` — fallback home route; use only when it is genuinely useful.
+## Mengapa sambungan, penetrasi, dan pemasangan dapat mengubah hasil?
 
-### Planned sibling articles
+Kini kita beralih dari kertas ke kondisi pemasangan. Penjelasan ini mencegah keputusan yang hanya membeli panel “tahan api” sementara jalur kelemahan berada pada antarmuka bangunan.
 
-These are future routes. Do not link them as live until their HTML exists.
+Cubicle menerima beban melalui kaki, bracket, jangkar, dan penyangga lantai atau dinding. Lubang yang dibor, jarak tepi, pemotongan, dan ventilasi mengubah geometri serta jalur panas. Panduan fabrikasi compact laminate juga menekankan perlunya mengendalikan lubang, pengikat, dan perubahan dimensi akibat kelembapan ([panduan fabrikasi Formica](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)). Gunakan informasi itu sebagai panduan proses produk yang disebut, bukan sebagai nilai universal.
 
-- `CUB-09-B` → `/artikel/desain-cubicle-mudah-dibersihkan.html` — Kebersihan Cubicle: Desain Sambungan dan Detail yang Mudah Dibersihkan
-- `CUB-09-C` → `/artikel/bahan-pembersih-untuk-cubicle.html` — Matriks Bahan Pembersih untuk Cubicle: Cara Memverifikasi Kompatibilitas
-- `CUB-09-E` → `/artikel/cubicle-dan-jalur-evakuasi.html` — Cubicle dan Jalur Evakuasi: Meninjau Beban Api, Hambatan, dan Akses
-- `CUB-09-F` → `/artikel/emisi-debu-bau-kualitas-udara-cubicle.html` — Emisi, Debu, Bau, dan Kualitas Udara dari Sistem Cubicle
+Penetrasi pipa, kabel, kisi, atau celah di sekitar pintu harus ditinjau sebagai bagian dari rakitan. Menutup celah dengan bahan yang tidak tercantum dalam laporan dapat mengubah perilaku asap dan api. Karena persyaratan proyek dan klasifikasi lokal belum tersedia di packet ini, keputusan detail memerlukan [NEEDS COMPETENT FIRE-PROFESSIONAL REVIEW].
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Faktor lapangan yang mengubah perilaku api dan asap
 
-## Jawaban singkat dan salah paham utama
+Bukti uji hanya berguna bila kondisi lapangan tetap dalam ruang lingkupnya. Bagian ini membantu Anda memilah perubahan yang tampak kecil tetapi dapat memutus kesetaraan konfigurasi.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Bukti Perilaku Api dan Asap pada Material Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, identifikasi lingkungan dan penggunaan: area basah, frekuensi pembersihan, sumber panas, serta kemungkinan benturan. Kelembapan dapat memengaruhi dimensi compact laminate; perubahan itu lalu memengaruhi celah, pintu, dan pengikat. Jangan memakai klaim ketahanan lembap sebagai izin merendam panel atau mengabaikan ventilasi.
 
-## Definisi dan batas objek
+Kedua, cocokkan urutan kerja. Pemotongan di lapangan, penggantian sekrup, sealant, atau aksesori dari pemasok lain harus dicatat. Setiap substitusi memerlukan konfirmasi tertulis dari pemegang bukti atau penilai yang kompeten.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Bukti Perilaku Api dan Asap pada Material Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ketiga, siapkan inspeksi setelah serah terima. Asap, bau, delaminasi, celah baru, atau pintu yang tidak menutup dapat menandakan gerakan, air, benturan, korosi, atau kegagalan substrat; gejala tunggal tidak menunjuk satu penyebab. Temukan sumbernya sebelum melakukan perbaikan kosmetik berulang.
 
-## Cara kerjanya
+## Contoh keputusan praktis saat menilai klaim “fire-rated”
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Bukti Perilaku Api dan Asap pada Material Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan Anda menerima satu halaman brosur yang hanya menampilkan kata “fire-rated”. Berhenti pada tiga pertanyaan berikut sebelum memasukkannya ke spesifikasi:
 
-## Faktor yang mengubah hasil
+1. **Objek apa yang diuji?** Jika hanya panel, minta bukti terpisah untuk pintu, sambungan, rangka, dan penetrasi. Jika rakitan lengkap, cocokkan setiap lapisan dan perangkat dengan barang yang akan dipasang.
+2. **Metode dan spesimen apa?** Catat standar, nomor laporan, ukuran, orientasi, dan batas klasifikasi. Metode tanpa hasil yang dapat ditelusuri bukan bukti lulus.
+3. **Siapa yang menerima?** Minta peninjauan pihak proyek atau profesional kebakaran terhadap persyaratan setempat. Tanpa itu, tandai [NEEDS ACCEPTANCE REVIEW] dan jangan menulis klaim kepatuhan.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Bukti Perilaku Api dan Asap pada Material Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Bukti Perilaku Api dan Asap pada Material Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Cubicle.id, keputusan “lanjut”, “minta dokumen”, atau “tahan” seharusnya mengikuti jawaban tiga pertanyaan itu, bukan daya tarik istilah pemasaran.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Bukti Perilaku Api dan Asap pada Material Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Shortcut pertama adalah menganggap HPL atau phenolic selalu setara dengan rating dinding. Periksa kembali apakah dokumen menyebut rakitan dan konfigurasi, bukan hanya nama bahan.
 
-## Objection or shortcut to address
+Shortcut kedua adalah menyalin hasil uji dari produk atau pasar lain. Cocokkan merek, seri, ketebalan, aksesori, dan petunjuk pemasangan; bila salah satu berbeda, minta konfirmasi baru.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Shortcut ketiga adalah mengabaikan asap karena panel tidak terlihat terbakar. Tinjau celah, perimeter, pintu, dan penetrasi sebagai jalur asap, kemudian minta bukti yang memang mengukur aspek tersebut.
 
-## Required conclusion
+Shortcut keempat adalah menganggap pemasangan selesai ketika panel sudah berdiri. Simpan gambar konfigurasi, daftar komponen, nomor batch atau dokumen produk, serta catatan perubahan. Catatan itu memungkinkan pemeriksa menilai apakah kondisi aktual masih sesuai spesimen.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Penutup: bukti yang perlu diminta sebelum menyetujui material cubicle
 
-## Draft completion checklist
+Bukti perilaku api dan asap yang dapat dipertanggungjawabkan harus menjawab objek, metode, spesimen, hasil, dan batas konfigurasi. Material saja tidak membuktikan rakitan cubicle; metode uji saja tidak membuktikan kelulusan; dan satu konfigurasi tidak boleh dipindahkan ke konfigurasi lain tanpa penilaian.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya: minta laporan uji lengkap beserta gambar rakitan dan daftar komponen, cocokkan dengan detail pemasangan proyek, lalu serahkan kepada profesional kebakaran atau penanggung jawab teknis untuk penerimaan. Simpan [NEEDS PROJECT-SPECIFIC EVIDENCE] bila dokumen belum menutup celah tersebut.
+
+Teman Cubicle.id, bila pemasok belum dapat menunjukkan kecocokan spesimen dan konfigurasi, tahan persetujuan sambil meminta dokumen yang hilang.
+
+Aturan operasinya sederhana: jika objek uji atau antarmukanya tidak sama dengan yang akan dipasang, perlakukan klaim sebagai belum terbukti—bukan sebagai rating yang boleh dipastikan. Untuk menyiapkan pertanyaan awal proyek, Anda dapat mulai dari [beranda Cubicle.id](/).

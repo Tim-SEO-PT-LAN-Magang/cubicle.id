@@ -2,8 +2,9 @@
 article_id: CUB-14-D
 title: "Memasang atau Mengganti Cubicle di Gedung yang Tetap Beroperasi"
 slug: "retrofit-cubicle-di-gedung-beroperasi"
-description: "Cover survey uncertainty, phasing, temporary facilities, access, dust/noise, isolation, protection, user communication, reinstatement, and handover"
-status: outline
+description: "Panduan merencanakan pemasangan atau penggantian cubicle tanpa mengabaikan pengguna, akses, keselamatan, dan serah terima gedung yang tetap beroperasi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-06-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,51 +15,15 @@ reader_address: "Sobat Cubicle.id"
 final_route: "/artikel/retrofit-cubicle-di-gedung-beroperasi.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Home/Details/216870/permen-pupr-no-9-tahun-2021"
-  - "https://www.iso.org/standard/69370.html"
-  - "https://www.iso.org/standard/87610.html"
-  - "https://www.iso.org/standard/14021.html"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
   - "https://www.who.int/westernpacific/newsroom/fact-sheets/detail/asbestos"
   - "https://www.ilo.org/resource/ilo-position-safety-use-asbestos"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Memasang atau Mengganti Cubicle di Gedung yang Tetap Beroperasi
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Memasang atau Mengganti Cubicle di Gedung yang Tetap Beroperasi”
-- **Reader and situation:** Facility/project manager minimizing disruption
-- **Reader outcome:** Cover survey uncertainty, phasing, temporary facilities, access, dust/noise, isolation, protection, user communication, reinstatement, and handover
-- **Primary intent:** Plan an occupied retrofit
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Sobat Cubicle.id`
-- **Natural variants:** `Kawan Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not give electrical shutdown procedures; qualified personnel own them and CUB-11-C owns trade coordination
-- **Final public route:** `/artikel/retrofit-cubicle-di-gedung-beroperasi.html`
-- **Appointed CMS date:** `2026-06-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memasang atau Mengganti Cubicle di Gedung yang Tetap Beroperasi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Cubicle.id`, `Kawan Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -69,140 +34,67 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Sobat Cubicle.id! Memasang atau mengganti cubicle di gedung yang tetap dipakai bukan pekerjaan “bongkar hari ini, pasang besok”. Keputusan utamanya adalah membagi pekerjaan menjadi tahap yang dapat dikendalikan, sambil menjaga jalur pengguna, kebersihan, privasi, dan layanan gedung. Jika survei awal belum menjawab akses material, waktu kerja, kondisi substrat, dan area yang harus tetap berfungsi, jadwal cepat justru dapat memindahkan risiko ke penghuni.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jawaban singkatnya: lakukan survei bersama pengelola, susun zona dan urutan kerja tertulis, siapkan fasilitas sementara, lalu tetapkan titik isolasi dan penerimaan sebelum satu panel pun dilepas. Prosedur pemadaman listrik atau pekerjaan utilitas bukan ruang lingkup artikel ini; personel berkualifikasi dan koordinator pekerjaan terkait yang harus memilikinya. Kondisi bangunan lama, material mencurigakan, kebocoran, atau kebutuhan aksesibilitas dapat mengubah rencana dan memerlukan persetujuan profesional.
 
-### KR-01
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
 
-### KR-22
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Apa yang dimaksud retrofit cubicle di gedung beroperasi?
 
-- **Original sources:** [Permen PUPR No. 9 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Home/Details/216870/permen-pupr-no-9-tahun-2021), [ISO 20887:2020 design for disassembly/adaptability](https://www.iso.org/standard/69370.html), [ISO 14025:2026 environmental product declarations](https://www.iso.org/standard/87610.html), [ISO 14021:2026 self-declared environmental claims](https://www.iso.org/standard/14021.html)
-- **Purpose for this article:** Ground demountability, reuse, waste, EPD, and “green” claims in life-cycle evidence rather than slogans.
-- **Safe grounded facts:** “Demountable” does not prove reusable after removal, and an EPD does not automatically make one product preferable. Evaluation needs a common functional unit/scope, service conditions, replacement, maintenance, damage, disassembly method, recovery route, transport, and verified destination.
-- **Limits:** ISO abstracts do not supply project results. Verify current documents, comparable PCR/boundaries, Indonesian waste routes, and actual reuse/recycling capacity; resolve `G-14`.
+Istilah *retrofit* di sini berarti memasang atau mengganti sekat cubicle pada ruang yang masih menerima pengguna. Fokusnya bukan sekadar produk, melainkan antarmuka antara pekerjaan, penghuni, kebersihan, akses, dan sistem gedung. Rencana harus menyebut area yang ditutup, area yang tetap dibuka, jalur alternatif, jam kerja, serta siapa yang berwenang membuka kembali area.
 
-### KR-15
+Batas ini penting agar penggantian panel tidak dianggap otomatis menyelesaikan persoalan ruang. Posisi pintu, arah bukaan, ruang mendekat, perlengkapan, dan sirkulasi saling memengaruhi; satu ukuran produk tidak membuktikan suatu rute sudah dapat digunakan semua orang. Gunakan regulasi bangunan yang berlaku dan tinjauan perencana untuk keputusan aksesibilitas; [Permen PUPR 14/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017) menjadi salah satu rujukan status, bukan pengganti pemeriksaan lapangan.
 
-- **Original sources:** [US EPA Moisture Control Guidance for Building Design, Construction and Maintenance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association mold-prevention guidance](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Ground moisture-exposure classification, material storage, ventilation, edge/interface details, leak diagnosis, and repair/replace decisions.
-- **Safe grounded facts:** “Moisture resistant” is not “waterproof assembly.” Leaks, condensation, capillary contact, submerged/flood exposure, drainage, ventilation, edges, fastener holes, substrate, sealants, corrosion, and drying access can control service life and hygiene.
-- **Limits:** US/industry guidance is not an Indonesian code. Exact exposure category, replacement threshold, sealant, chemical, and drying/remediation method need site facts and product instructions; resolve `G-05`, `G-06`, and `G-11`.
+## Bagaimana urutan kerja yang aman bagi penghuni?
 
-### KR-23
+Sebelum menentukan tanggal, buat peta kondisi: ukuran nyata, titik angkut, pintu yang dapat dikunci, jalur evakuasi, sumber air, ventilasi, dan area penyimpanan. Tandai pula kebocoran, sambungan longgar, permukaan rapuh, serta utilitas yang mungkin tersembunyi. Setiap temuan diberi pemilik keputusan dan bukti foto atau gambar kerja; asumsi yang belum diverifikasi tidak boleh menjadi dasar pembelian.
 
-- **Original sources:** [WHO asbestos fact sheet, 27 September 2024](https://www.who.int/westernpacific/newsroom/fact-sheets/detail/asbestos), [ILO position on safety in the use of asbestos](https://www.ilo.org/resource/ilo-position-safety-use-asbestos), [PP No. 22 Tahun 2021 environmental and waste-management framework — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html)
-- **Purpose for this article:** Establish a stop-before-disturbance gate for old boards, insulation, adhesives, coatings, contaminated wet areas, and unknown demolition waste.
-- **Safe grounded facts:** Visual inspection cannot reliably clear an unknown legacy material. Cutting, drilling, sanding, or demolition can turn a contained hazard into airborne dust or contaminated waste; flood/sewage or mold conditions add separate assessment needs.
-- **Limits:** Foreign WHO/ILO guidance does not define the complete Indonesian legal procedure. Do not tell readers to sample or remove suspect material themselves. Resolve `G-07`, `G-11`, and current local environmental requirements before procedural content.
+Berikut urutan praktis yang mudah diaudit:
 
-### KR-03
+1. **Rapat pra-mulai.** Pengelola, pelaksana, kebersihan, keamanan, dan wakil pengguna menyepakati zona, jam bising, rute angkut, nomor kontak, serta kriteria buka kembali.
+2. **Isolasi zona.** Pasang pembatas yang benar-benar mengarahkan orang, bukan hanya pita tanda. Sediakan rute dan cubicle alternatif yang kapasitasnya telah diterima pengelola.
+3. **Bongkar terkendali.** Lepas komponen sesuai instruksi produk, kendalikan debu dan suara, dan keluarkan limbah melalui rute yang disepakati. Jangan mengganggu utilitas tanpa izin tim berkualifikasi.
+4. **Pemeriksaan substrat.** Pastikan lantai, dinding, titik pengikat, dan kondisi lembap siap menerima sistem. Perbaiki sumber air sebelum menutupnya.
+5. **Pasang dan cek bertahap.** Periksa ketegakan, celah, fungsi kunci, arah pintu, kebersihan, dan ruang gerak setiap zona sebelum pindah ke zona berikutnya.
+6. **Reinstatement dan serah terima.** Bersihkan area, kembalikan perlengkapan, uji fungsi bersama pengelola, dan catat sisa pekerjaan.
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
+## Faktor apa yang paling sering mengubah hasil?
 
-## Evidence gates
+Kondisi lembap adalah salah satu pengubah hasil terbesar. Bahan “tahan lembap” bukan berarti seluruh rakitan kedap air. Kebocoran, kondensasi, kontak kapiler, lubang pengikat, tepi panel, sealant, ventilasi, dan kesempatan mengering menentukan umur pakai. Panduan EPA menekankan pengendalian sumber air dan pengeringan sebagai bagian desain serta pemeliharaan; gunakan [panduan kendali kelembapan EPA](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0) untuk menyusun pemeriksaan, lalu minta keputusan teknis proyek untuk bahan dan metode perbaikan.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Gedung beroperasi juga memerlukan pengendalian debu dan bising. Pilih pekerjaan yang dapat dipotong atau dirakit di luar zona pengguna bila memungkinkan, gunakan penutup dan pembersihan berulang, serta sepakati batas waktu aktivitas yang mengganggu. Komunikasi bukan formalitas: pemberitahuan harus menyebut zona tertutup, rute pengganti, durasi perkiraan, dan kanal pelaporan agar pengguna tidak masuk ke area kerja karena informasi yang kabur.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Material lama yang tidak dikenal memerlukan pintu berhenti. Pemeriksaan mata tidak dapat memastikan papan, insulasi, perekat, atau lapisan lama bebas asbestos. Pemotongan, pengeboran, pengamplasan, atau pembongkaran dapat membuat debu berbahaya dan limbah terkontaminasi. WHO dan ILO sama-sama menempatkan identifikasi serta pengendalian profesional sebagai prasyarat; [lembar fakta WHO tentang asbestos](https://www.who.int/westernpacific/newsroom/fact-sheets/detail/asbestos) menjelaskan risikonya. Jangan mengambil sampel atau melepas sendiri; hentikan pekerjaan dan minta penilaian yang berwenang, termasuk persyaratan lingkungan Indonesia yang berlaku.
 
-## Internal-link plan
+## Contoh keputusan praktis sebelum memesan material
 
-### Existing local routes
+Kawan Cubicle.id, gunakan pertanyaan bersyarat berikut saat rapat:
 
-- `/` — fallback home route; use only when it is genuinely useful.
+| Temuan lapangan | Keputusan sementara | Bukti yang harus ada |
+|---|---|---|
+| Jalur angkut melewati lobi ramai | Pindahkan pengiriman ke jam sepi dan lindungi rute | Persetujuan pengelola dan denah rute |
+| Hanya satu kelompok toilet tersedia | Kerjakan satu zona kecil, pertahankan zona pengganti | Daftar fasilitas yang tetap berfungsi |
+| Ada rembesan di balik panel | Tunda penutupan dan telusuri sumber air | Catatan inspeksi dan keputusan perbaikan |
+| Material lama tidak teridentifikasi | Stop sebelum mengebor atau membongkar | Laporan penilaian material |
+| Pintu atau sirkulasi berubah | Minta tinjauan aksesibilitas | Gambar revisi dan persetujuan profesional |
 
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-14-B` → `/artikel/cubicle-untuk-kebersihan-tinggi.html` — Cubicle untuk Area dengan Tuntutan Kebersihan Tinggi
-- `CUB-14-C` → `/artikel/cubicle-iklim-lembap-dan-pesisir.html` — Cubicle di Iklim Lembap dan Pesisir Indonesia
-- `CUB-14-E` → `/artikel/cubicle-mudah-diubah-diperbaiki-dipakai-ulang.html` — Desain Cubicle agar Mudah Diubah, Diperbaiki, dan Dipakai Ulang
-- `CUB-14-F` → `/artikel/decommissioning-cubicle.html` — Decommissioning Cubicle: Salvage, Limbah, dan Dokumentasi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memasang atau Mengganti Cubicle di Gedung yang Tetap Beroperasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Memasang atau Mengganti Cubicle di Gedung yang Tetap Beroperasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Memasang atau Mengganti Cubicle di Gedung yang Tetap Beroperasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Memasang atau Mengganti Cubicle di Gedung yang Tetap Beroperasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Memasang atau Mengganti Cubicle di Gedung yang Tetap Beroperasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tabel ini bukan izin kerja otomatis. Ia membantu membedakan fakta yang sudah dilihat dari keputusan yang masih harus disahkan.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Memasang atau Mengganti Cubicle di Gedung yang Tetap Beroperasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah mengukur produk, bukan ruang. Periksa kembali dimensi aktual, toleransi, titik pengikat, ayunan pintu, dan ruang pengguna setelah seluruh perlengkapan terpasang. Kesalahan kedua adalah menjadikan jadwal pemasangan sebagai satu-satunya rencana; tambahkan waktu pembatasan area, pembersihan, inspeksi, dan kemungkinan temuan tersembunyi.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah membuka kembali zona segera setelah panel berdiri. Gunakan daftar periksa: tidak ada tepi tajam, pintu dan kunci berfungsi, lantai kering, limbah keluar, tanda sementara dilepas, jalur pengguna jelas, dan pengelola menandatangani penerimaan. Jika satu item gagal, zona tetap ditutup dengan alasan yang tercatat.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+### Jalan pintas yang tampak hemat tetapi berisiko
 
-## Required conclusion
+Menutup seluruh toilet sekaligus sering dianggap mempercepat pekerjaan. Di gedung aktif, cara ini dapat menghilangkan layanan penting dan mendorong pengguna memasuki zona yang belum aman. Tahapkan pekerjaan dan komunikasikan perubahan harian; kecepatan hanya berarti bila fasilitas, akses, dan tanggung jawab buka-kembali tetap jelas.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Langkah berikutnya untuk rencana yang dapat dipertanggungjawabkan
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Siapkan satu lembar rencana retrofit berisi denah zona, urutan, rute material, jam kerja, fasilitas sementara, kontak, titik berhenti, dan kriteria serah terima. Bawa lembar itu ke survei bersama pengelola dan personel berkualifikasi. Untuk konteks pekerjaan cubicle lain, gunakan [beranda Cubicle.id](/) sebagai titik kembali. [Posisi ILO tentang penggunaan asbestos](https://www.ilo.org/resource/ilo-position-safety-use-asbestos) juga perlu dibaca saat material lama belum teridentifikasi. Sobat Cubicle.id, keputusan pemasangan dapat berjalan di gedung yang tetap beroperasi bila setiap zona punya batas, bukti, dan pemilik keputusan; detail utilitas, material mencurigakan, aksesibilitas, serta kepatuhan akhir tetap memerlukan tinjauan teknis proyek.

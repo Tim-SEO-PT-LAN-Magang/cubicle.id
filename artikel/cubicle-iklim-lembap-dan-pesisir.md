@@ -2,8 +2,9 @@
 article_id: CUB-14-C
 title: "Cubicle di Iklim Lembap dan Pesisir Indonesia"
 slug: "cubicle-iklim-lembap-dan-pesisir"
-description: "Connect exposure mapping to substrates, edges, coatings, fasteners, ventilation, storage, inspection, maintenance, and evidence"
-status: outline
+description: "Panduan menyesuaikan cubicle dengan paparan lembap dan pesisir melalui pemetaan bahan, sambungan, ventilasi, penyimpanan, pemeriksaan, dan perawatan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-06-19"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,51 +15,89 @@ reader_address: "Teman Cubicle.id"
 final_route: "/artikel/cubicle-iklim-lembap-dan-pesisir.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Home/Details/216870/permen-pupr-no-9-tahun-2021"
-  - "https://www.iso.org/standard/69370.html"
-  - "https://www.iso.org/standard/87610.html"
-  - "https://www.iso.org/standard/14021.html"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
   - "https://www.who.int/westernpacific/newsroom/fact-sheets/detail/asbestos"
   - "https://www.ilo.org/resource/ilo-position-safety-use-asbestos"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Cubicle di Iklim Lembap dan Pesisir Indonesia
 
-## Assignment lock
+Halo, Teman Cubicle.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Cubicle di Iklim Lembap dan Pesisir Indonesia”
-- **Reader and situation:** Buyer facing humidity, salt, wet cleaning, or limited spares
-- **Reader outcome:** Connect exposure mapping to substrates, edges, coatings, fasteners, ventilation, storage, inspection, maintenance, and evidence
-- **Primary intent:** Adapt systems to exposure
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Teman Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Kawan Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Not a city page and no universal climate grade is assigned; CUB-05-D owns electrical environments and CUB-09-A owns moisture evidence
-- **Final public route:** `/artikel/cubicle-iklim-lembap-dan-pesisir.html`
-- **Appointed CMS date:** `2026-06-19` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Di bangunan dekat pantai atau ruang yang sering dicuci, masalah cubicle jarang dimulai dari warna panel. Yang lebih menentukan ialah jalur masuk air, udara yang sulit mengeringkan permukaan, garam yang menempel, serta lubang dan tepi yang tidak terlindungi. Karena itu, jawaban praktisnya bukan memilih satu “grade iklim”, melainkan memetakan paparan lalu mencocokkannya dengan bahan, sambungan, ventilasi, penyimpanan, dan rencana pemeriksaan.
 
-## Opening instructions
+Cubicle yang disebut tahan lembap belum otomatis menjadi rakitan kedap air. Kondensasi, genangan, kebocoran, pembersihan basah, dan udara asin memberi beban berbeda pada inti panel, lapisan tepi, sekrup, dan dinding penyangga. Panduan pengendalian kelembapan EPA juga menekankan bahwa desain, pelaksanaan, dan pemeliharaan perlu dipikirkan bersama; detail proyek dan petunjuk produklah yang mengubah keputusan akhir ([EPA](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)).
 
-- Open with the exact short salutation: **“Halo, Teman Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cubicle di Iklim Lembap dan Pesisir Indonesia**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.id`, `Sobat Cubicle.id`, or `Kawan Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Apa yang dimaksud cubicle untuk iklim lembap dan pesisir?
+
+Sebelum memilih spesifikasi, samakan dulu arti “iklim lembap dan pesisir”. Bagian ini mencegah anggapan bahwa jarak dari laut saja sudah cukup untuk menentukan bahan. Yang dibahas adalah paparan nyata pada ruang dan siklus pemakaiannya, bukan label kota atau kelas iklim universal.
+
+Petakan setidaknya lima kondisi: apakah permukaan terkena cipratan atau hanya uap, apakah lantai bisa tergenang, seberapa sering pembersihan basah dilakukan, apakah udara dapat mengalir dan mengering, serta apakah garam atau bahan kimia pembersih mungkin menempel. Catat juga posisi cubicle terhadap dinding luar, bukaan, saluran air, dan sumber kebocoran.
+
+Hasil pemetaan ini menjadi pertanyaan pengadaan: bahan inti apa yang diizinkan, bagaimana tepi diselesaikan, jenis pengikat apa yang sesuai, dan bagaimana bagian yang rusak dapat diganti tanpa membongkar seluruh ruang. Jangan menyimpulkan kepatuhan aksesibilitas hanya dari ukuran panel; tata letak, ayunan pintu, ruang pendekatan, dan perlengkapan harus ditinjau sebagai satu rute sesuai persyaratan proyek dan peraturan yang berlaku ([Permen PUPR 14/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)).
+
+## Bagaimana kelembapan dan udara asin merambat ke rakitan cubicle?
+
+Setelah paparan dicatat, telusuri jalur masuknya air dan garam. Memahami urutan ini membantu Anda memeriksa titik lemah, bukan hanya mengamati permukaan yang tampak bersih.
+
+Air dapat masuk dari cipratan, celah sambungan, lubang pengikat, atau kontak kapiler di bagian bawah panel. Uap yang mengembun menambah siklus basah-kering. Bila pengeringan terhambat, inti atau substrat dapat mengembang, lapisan tepi terlepas, dan area di balik panel tetap lembap meskipun muka panel sudah terlihat kering. Petunjuk fabrikasi untuk compact laminate menempatkan pemotongan, tepi, lubang, dan penyimpanan sebagai bagian penting dari pengendalian kelembapan ([panduan Formica Compact](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)).
+
+Di lingkungan pesisir, endapan garam dan kelembapan dapat mempercepat korosi pada pengikat yang tidak cocok. Namun, jenis logam, konsentrasi paparan, dan frekuensi pembilasan harus dibuktikan untuk proyek tertentu. Maka mintalah lembar data material dan instruksi pembersihan, bukan janji lisan “anti-karat”.
+
+## Faktor apa yang paling mengubah umur pakai dan kebersihan?
+
+Bagian ini mengubah mekanisme tadi menjadi daftar keputusan. Setiap faktor perlu dipasangkan dengan bukti dan tindakan pemeriksaan agar “tahan lembap” tidak berhenti sebagai slogan.
+
+**Substrat dan tepi.** Pastikan bahan inti, lapisan permukaan, dan perlindungan tepi ditentukan untuk paparan yang telah dipetakan. Tanyakan apa yang terjadi bila tepi terpotong di lapangan dan bagaimana lubang pengikat diselesaikan. “Tahan air” pada lembar bahan tidak membuktikan seluruh sambungan tahan air.
+
+**Pengikat dan antarmuka.** Periksa kecocokan sekrup, engsel, kaki, dinding, serta lantai. Lubang yang longgar atau genangan di kaki dapat menjadi titik korosi dan tempat kotoran berkumpul. Minta metode penggantian komponen yang rusak tanpa merusak panel lain.
+
+**Ventilasi dan pengeringan.** Pastikan udara dapat mencapai area yang biasanya tertutup, termasuk celah bawah dan belakang. Ventilasi bukan pengganti perbaikan kebocoran; ia hanya membantu mengurangi waktu permukaan berada dalam kondisi basah.
+
+**Penyimpanan dan pemasangan.** Simpan panel sesuai petunjuk produsen, terlindung dari hujan dan genangan, lalu beri waktu kondisi material menyesuaikan ruang bila diwajibkan petunjuk produk. Pemasangan saat substrat atau lantai masih basah dapat memerangkap kelembapan.
+
+**Pembersihan dan inspeksi.** Tetapkan siapa yang memeriksa tepi menggelembung, lapisan terangkat, karat, bau apek, dan kebocoran. Catat lokasi serta tanggalnya. Ambang perbaikan atau penggantian harus mengikuti kondisi nyata, petunjuk produk, dan penilaian profesional—bukan angka buatan artikel.
+
+## Bagaimana membuat keputusan pembelian secara praktis?
+
+Gunakan skenario bersyarat berikut untuk menyusun permintaan informasi. Ini bukan klasifikasi iklim, melainkan cara menghubungkan paparan dengan bukti.
+
+| Kondisi yang diamati | Pertanyaan kepada pemasok atau pengawas | Keputusan sementara |
+|---|---|---|
+| Cipratan rutin, tanpa genangan | Bagaimana tepi, kaki, dan lubang dilindungi? | Minta detail sambungan dan jadwal inspeksi. |
+| Lantai sering basah atau ada kebocoran | Dari mana air dibuang dan bagaimana area dikeringkan? | Tunda pemasangan sampai sumber air dan pengeringan ditangani. |
+| Udara asin atau pembersih agresif | Bahan pengikat dan lapisan apa yang kompatibel, dan apa batas pembersihannya? | Minta lembar data serta prosedur tertulis; jangan mengasumsikan semua logam setara. |
+| Panel lama atau asal bahan tidak jelas | Adakah risiko material berbahaya sebelum dibor atau dipotong? | Hentikan pekerjaan dan minta penilaian pihak kompeten. |
+
+Teman Cubicle.id, simpan foto titik sambungan dan catatan pembersihan sebagai bukti perawatan. Bukti ini membantu membedakan kebocoran bangunan, kesalahan pemasangan, dan kerusakan pemakaian ketika keputusan perbaikan dibuat.
+
+## Kesalahan umum apa yang perlu diperiksa ulang?
+
+Jembatani pilihan produk dengan pemeriksaan lapangan berikut agar shortcut yang tampak murah tidak memindahkan biaya ke perawatan.
+
+Kesalahan pertama adalah menganggap panel tahan lembap berarti seluruh sistem kedap air. Periksa tepi, lubang, kaki, dan dinding di belakangnya. Kesalahan kedua adalah menutup ventilasi demi tampilan rapi; periksa apakah ruang tersembunyi masih dapat mengering. Kesalahan ketiga adalah menyemprot atau mengampelas panel lama tanpa mengetahui materialnya.
+
+WHO dan ILO menyatakan bahwa pemeriksaan visual tidak cukup untuk memastikan material lama bebas asbes; memotong, mengebor, atau mengampelas bahan yang dicurigai dapat menyebarkan debu, sehingga pekerjaan harus berhenti dan dinilai oleh pihak kompeten ([WHO](https://www.who.int/westernpacific/newsroom/fact-sheets/detail/asbestos), [ILO](https://www.ilo.org/resource/ilo-position-safety-use-asbestos)). Jalur pengelolaan limbah juga perlu mengikuti ketentuan Indonesia yang berlaku, bukan meniru prosedur asing.
+
+Sebelum serah terima, cocokkan gambar tata letak, daftar bahan, detail pengikat, instruksi pembersihan, dan rencana inspeksi. Bila salah satu dokumen tidak tersedia, tandai sebagai pertanyaan terbuka dan jangan menerbitkan klaim umur pakai atau jaminan kinerja.
+
+## Jalan pintas “pilih bahan paling tahan air” dan batasnya
+
+Bahan yang paling tahan air sekalipun dapat gagal bila air terus masuk dari sambungan, substrat tetap basah, atau pengikat berkarat. Jalan yang lebih andal adalah memilih rakitan berdasarkan paparan yang terukur, meminta detail tepi dan antarmuka, lalu memastikan ada akses untuk mengeringkan dan mengganti komponen.
+
+## Kesimpulan: mulai dari peta paparan, bukan label iklim
+
+Cubicle di iklim lembap dan pesisir Indonesia perlu disesuaikan melalui urutan: petakan air, uap, garam, pembersihan, dan pengeringan; cocokkan bahan serta pengikat; lalu siapkan penyimpanan, inspeksi, dan perawatan. Minggu ini, minta pemasok menandai jalur air dan menyerahkan lembar data bahan, detail tepi, instruksi pembersihan, serta prosedur untuk material lama yang tidak dikenal.
+
+Jika kondisi bangunan, bahan, atau limbah belum jelas, pertahankan penanda `[NEEDS PROJECT/PRODUCT REVIEW]` dan minta peninjauan teknis sebelum pengeboran atau pemasangan. Untuk menyiapkan pertanyaan pengadaan, Anda dapat mulai dari [beranda Cubicle.id](/). Aturan operasinya sederhana, Kawan Cubicle.id: tidak ada label “tahan lembap” yang menggantikan bukti kecocokan seluruh rakitan.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -69,140 +108,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-22
-
-- **Original sources:** [Permen PUPR No. 9 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Home/Details/216870/permen-pupr-no-9-tahun-2021), [ISO 20887:2020 design for disassembly/adaptability](https://www.iso.org/standard/69370.html), [ISO 14025:2026 environmental product declarations](https://www.iso.org/standard/87610.html), [ISO 14021:2026 self-declared environmental claims](https://www.iso.org/standard/14021.html)
-- **Purpose for this article:** Ground demountability, reuse, waste, EPD, and “green” claims in life-cycle evidence rather than slogans.
-- **Safe grounded facts:** “Demountable” does not prove reusable after removal, and an EPD does not automatically make one product preferable. Evaluation needs a common functional unit/scope, service conditions, replacement, maintenance, damage, disassembly method, recovery route, transport, and verified destination.
-- **Limits:** ISO abstracts do not supply project results. Verify current documents, comparable PCR/boundaries, Indonesian waste routes, and actual reuse/recycling capacity; resolve `G-14`.
-
-### KR-15
-
-- **Original sources:** [US EPA Moisture Control Guidance for Building Design, Construction and Maintenance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association mold-prevention guidance](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Ground moisture-exposure classification, material storage, ventilation, edge/interface details, leak diagnosis, and repair/replace decisions.
-- **Safe grounded facts:** “Moisture resistant” is not “waterproof assembly.” Leaks, condensation, capillary contact, submerged/flood exposure, drainage, ventilation, edges, fastener holes, substrate, sealants, corrosion, and drying access can control service life and hygiene.
-- **Limits:** US/industry guidance is not an Indonesian code. Exact exposure category, replacement threshold, sealant, chemical, and drying/remediation method need site facts and product instructions; resolve `G-05`, `G-06`, and `G-11`.
-
-### KR-23
-
-- **Original sources:** [WHO asbestos fact sheet, 27 September 2024](https://www.who.int/westernpacific/newsroom/fact-sheets/detail/asbestos), [ILO position on safety in the use of asbestos](https://www.ilo.org/resource/ilo-position-safety-use-asbestos), [PP No. 22 Tahun 2021 environmental and waste-management framework — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html)
-- **Purpose for this article:** Establish a stop-before-disturbance gate for old boards, insulation, adhesives, coatings, contaminated wet areas, and unknown demolition waste.
-- **Safe grounded facts:** Visual inspection cannot reliably clear an unknown legacy material. Cutting, drilling, sanding, or demolition can turn a contained hazard into airborne dust or contaminated waste; flood/sewage or mold conditions add separate assessment needs.
-- **Limits:** Foreign WHO/ILO guidance does not define the complete Indonesian legal procedure. Do not tell readers to sample or remove suspect material themselves. Resolve `G-07`, `G-11`, and current local environmental requirements before procedural content.
-
-### KR-03
-
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-14-A` → `/artikel/kebutuhan-cubicle-berdasarkan-bangunan.html` — Kebutuhan Cubicle di Kantor, Sekolah, Rumah Sakit, Hotel, dan Fasilitas Publik
-- `CUB-14-B` → `/artikel/cubicle-untuk-kebersihan-tinggi.html` — Cubicle untuk Area dengan Tuntutan Kebersihan Tinggi
-- `CUB-14-D` → `/artikel/retrofit-cubicle-di-gedung-beroperasi.html` — Memasang atau Mengganti Cubicle di Gedung yang Tetap Beroperasi
-- `CUB-14-E` → `/artikel/cubicle-mudah-diubah-diperbaiki-dipakai-ulang.html` — Desain Cubicle agar Mudah Diubah, Diperbaiki, dan Dipakai Ulang
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cubicle di Iklim Lembap dan Pesisir Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Cubicle di Iklim Lembap dan Pesisir Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Cubicle di Iklim Lembap dan Pesisir Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Cubicle di Iklim Lembap dan Pesisir Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Cubicle di Iklim Lembap dan Pesisir Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Cubicle di Iklim Lembap dan Pesisir Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

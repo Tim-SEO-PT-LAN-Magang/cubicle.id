@@ -2,8 +2,9 @@
 article_id: CUB-06-F
 title: "Cara Menyetujui Sampel Warna, Tekstur, dan Finishing Cubicle"
 slug: "persetujuan-sampel-finishing-cubicle"
-description: "Define reference sample, batch variation, lighting, directionality, joins, mock-up, labeling, storage, approval, and change control"
-status: outline
+description: "Panduan praktis menetapkan sampel acuan, memeriksa variasi warna dan tekstur, lalu merekam persetujuan finishing cubicle tanpa mencampurnya dengan persetujuan kinerja teknis."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,51 +17,17 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/72960.html"
   - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
-  - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
-  - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.iso.org/standard/83943.html"
-  - "https://store.astm.org/e0119-24.html"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
+  - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
   - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Cara Menyetujui Sampel Warna, Tekstur, dan Finishing Cubicle
 
-## Assignment lock
+Halo, Teman Cubicle.id! Persetujuan finishing bukan sekadar memilih warna yang terlihat bagus di meja rapat. Sengketa muncul ketika sampel kecil dianggap mewakili seluruh panel, padahal arah serat, pencahayaan, sambungan, dan perbedaan batch dapat mengubah tampilan. Cara aman adalah menetapkan satu sampel acuan yang diberi identitas, menilainya pada kondisi cahaya dan orientasi yang disepakati, lalu merekam keputusan beserta batas perubahannya.
 
-- **Writer task:** Expand this file into one complete article answering: “Cara Menyetujui Sampel Warna, Tekstur, dan Finishing Cubicle”
-- **Reader and situation:** Designer or buyer avoiding visual disputes
-- **Reader outcome:** Define reference sample, batch variation, lighting, directionality, joins, mock-up, labeling, storage, approval, and change control
-- **Primary intent:** Control finish approval
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Teman Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Kawan Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not approve technical performance; CUB-06-A owns property evidence and CUB-10-C owns the submittal register
-- **Final public route:** `/artikel/persetujuan-sampel-finishing-cubicle.html`
-- **Appointed CMS date:** `2025-12-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Hasil akhirnya adalah keputusan visual yang bisa dicocokkan saat barang datang: warna, tekstur, tingkat kilap, arah motif, tepi, dan sambungan dinyatakan jelas. Persetujuan ini tidak membuktikan kekuatan, ketahanan api, akustik, aksesibilitas, atau kinerja sistem cubicle. Untuk hal tersebut, minta bukti produk dan tinjauan teknis terpisah.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Menyetujui Sampel Warna, Tekstur, dan Finishing Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.id`, `Sobat Cubicle.id`, or `Kawan Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -71,138 +38,67 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
-## Evidence packet
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Hasil akhir dan prasyarat persetujuan sampel finishing
 
-### KR-01
+Sebelum melihat kartu warna, sepakati siapa yang berwenang memberi keputusan dan dokumen apa yang menjadi acuannya. Siapkan gambar elevasi, daftar ruang, kode produk, contoh perangkat keras yang tampak, serta lokasi pemasangan. Tanpa konteks itu, orang dapat menyetujui warna yang benar tetapi untuk panel atau ruang yang salah.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Buat lembar persetujuan berisi nomor sampel, tanggal, pemasok, nama produk, kode warna, tekstur, kilap, dan tanda tangan pihak berwenang. Pilih secara eksplisit “disetujui”, “disetujui dengan catatan”, atau “tolak dan revisi”. Catatan lisan tidak cukup untuk mengendalikan perubahan.
 
-### KR-08
+“Sampel acuan” berarti potongan fisik atau panel contoh yang menjadi pembanding resmi. Setiap panel produksi dicocokkan terhadap identitas sampel itu, bukan ingatan atau foto layar. Simpan sampel utuh dan terlindung sampai pemeriksaan akhir. Tanyakan: apakah orang lain dapat menemukannya enam bulan lagi?
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+## Langkah 1 — Tetapkan cakupan warna, tekstur, dan detail yang dinilai
 
-### KR-15
+Bagian ini mencegah persetujuan visual melebar menjadi persetujuan teknis. Tuliskan elemen yang termasuk: permukaan panel, tepi, lis, profil, engsel atau indikator yang terlihat, serta sambungan antarpanel. Nyatakan yang tidak termasuk, seperti kapasitas beban, rating api, ketahanan bahan kimia, atau aksesibilitas.
 
-- **Original sources:** [US EPA Moisture Control Guidance for Building Design, Construction and Maintenance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association mold-prevention guidance](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Ground moisture-exposure classification, material storage, ventilation, edge/interface details, leak diagnosis, and repair/replace decisions.
-- **Safe grounded facts:** “Moisture resistant” is not “waterproof assembly.” Leaks, condensation, capillary contact, submerged/flood exposure, drainage, ventilation, edges, fastener holes, substrate, sealants, corrosion, and drying access can control service life and hygiene.
-- **Limits:** US/industry guidance is not an Indonesian code. Exact exposure category, replacement threshold, sealant, chemical, and drying/remediation method need site facts and product instructions; resolve `G-05`, `G-06`, and `G-11`.
+Pisahkan warna, tekstur, dan kilap. Warna adalah rona; tekstur adalah pola atau rasa permukaan; kilap adalah banyaknya cahaya yang dipantulkan. Ketiganya dapat berubah menurut sudut pandang dan cahaya. Sampel bermotif memiliki arah (directionality), yaitu orientasi pola yang harus konsisten. Tandai panah arah pada sampel dan gambar pemasangan.
 
-### KR-13
+Untuk HPL (laminasi tekanan tinggi) atau compact laminate, nama “phenolic”, “HPL”, atau “compact” saja belum menentukan kelas penggunaan. ISO menjelaskan ruang lingkup metode uji, bukan jaminan produk tertentu cocok untuk setiap lokasi ([ISO 4586-2:2018](https://www.iso.org/standard/72960.html); [ISO 4586-4:2018](https://www.iso.org/standard/72962.html)). Gunakan kode produk dan lembar teknis pemasok yang benar-benar ditawarkan.
 
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
+## Langkah 2 — Kumpulkan dan cocokkan bukti sebelum menyatakan setuju
 
-### KR-20
+Bandingkan sampel dalam kondisi yang mendekati tempat terpasang. Catat jenis pencahayaan, waktu pengamatan, dan dominasi lampu buatan atau cahaya siang. Jangan menyimpulkan warna dari foto ponsel atau layar monitor.
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+Minta sampel berukuran cukup untuk melihat pola dan sambungan. Bila ada dua batch, tampilkan berdampingan dan minta pemasok menjelaskan variasinya. Keputusan dapat berbunyi “diterima dalam rentang yang ditunjukkan” atau “harus satu batch”, sesuai kebutuhan proyek; jangan menambahkan angka toleransi tanpa data produk.
 
-## Evidence gates
+Periksa arah motif pada pintu, sekat, dan panel samping. Buat sketsa dengan panah atas-bawah atau kiri-kanan. Pada pertemuan panel, lihat apakah garis tekstur berlanjut, berhenti, atau memang tidak dirancang menyatu.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Area basah memerlukan pertanyaan tentang tepi, lubang, dan penyimpanan. Panduan fabrikasi compact laminate Formica menekankan pentingnya detail pengolahan dan perlindungan material; baca petunjuk produk yang dipilih, bukan menggeneralisasi semua papan ([panduan Formica](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)). EPA menjelaskan bahwa kebocoran, kondensasi, ventilasi, dan akses pengeringan saling memengaruhi pengendalian kelembapan ([panduan EPA](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)). Persetujuan warna bukan izin merendam panel atau mengabaikan sumber air.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Langkah 3 — Jalankan urutan kerja dari mock-up sampai perubahan terkendali
 
-## Internal-link plan
+Mock-up adalah contoh susunan yang membantu melihat hubungan antarpermukaan. Buat satu modul cubicle dengan pintu, sekat, profil, dan sambungan yang akan terlihat. Tujuannya menemukan ketidakcocokan visual sebelum produksi massal, bukan menguji performa.
 
-### Existing local routes
+Urutannya: pasang sampel pada orientasi rencana; amati dari jarak dan sudut pengguna; bandingkan di bawah cahaya yang dicatat; lalu foto untuk arsip. Jika cahaya, lokasi, atau produk berubah, ulangi penilaian dan beri nomor revisi.
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Labeli sampel dengan kode unik, versi, tanggal, arah pemasangan, dan status. Simpan dalam map atau kotak datar, kering, dan terlindung dari sinar langsung; jangan menulis di sisi permukaan. Sampel pudar, tergores, atau tertukar tidak lagi menjadi pembanding yang dapat dipercaya.
 
-### Planned sibling articles
+Jika pemasok mengusulkan penggantian, minta lembar perubahan yang menyebut alasan, kode lama, kode baru, dampak pada mock-up, dan persetujuan pihak yang sama. Jika perubahan menyentuh produk, kelas penggunaan, atau detail tepi, hentikan keputusan visual dan minta tinjauan teknis.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Titik berhenti: kapan persetujuan harus ditinjau
 
-- `CUB-06-D` → `/artikel/kaca-metal-dan-korosi-cubicle.html` — Kaca, Metal, dan Korosi pada Sistem Cubicle
-- `CUB-06-E` → `/artikel/panel-kayu-finishing-dan-kelembapan.html` — Panel Berbasis Kayu, Finishing, dan Risiko Kelembapan
+Teman Cubicle.id, berhenti bila sampel tidak memiliki kode produk, berasal dari batch berbeda tanpa penjelasan, atau tidak dapat dinilai dalam pencahayaan yang disepakati. Berhenti juga bila warna tampak cocok tetapi material, tepi, atau perangkat keras belum jelas.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Jangan memakai persetujuan finishing sebagai bukti rating kebakaran. Ketahanan api adalah sifat rakitan lengkap, bukan hasil nama permukaan atau satu metode uji. Klaim rating atau kepatuhan menunggu bukti sistem dan review profesional: **[NEEDS FIRE-SYSTEM EVIDENCE AND PROFESSIONAL REVIEW]**.
 
-## Hasil akhir dan prasyarat
+Jika ada lembap, bau, jamur, delaminasi, atau korosi, pisahkan keputusan warna dan minta diagnosis penyebab. Memoles ulang tanpa mengatasi sumber air dapat menyamarkan masalah; gunakan pendekatan mencari sumber dan jalur pengeringan terlebih dahulu.
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menyetujui Sampel Warna, Tekstur, dan Finishing Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Verifikasi hasil dan serah terima berdasarkan sampel yang disetujui
 
-## Langkah 1 — tetapkan scope
+Saat material tiba, cocokkan label peti, kode produk, dan batch dengan lembar persetujuan. Ambil panel dari setiap batch untuk dibandingkan dengan sampel acuan dalam kondisi cahaya sama. Catat sesuai, sesuai dengan catatan, atau tidak sesuai; lampirkan nomor panel dan lokasi.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menyetujui Sampel Warna, Tekstur, dan Finishing Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Periksa orientasi tekstur, konsistensi kilap, kerusakan tepi, dan garis sambungan. Untuk pembersihan setelah serah terima, ikuti petunjuk produsen; materi Bobrick adalah rujukan umum partisi dan tidak menggantikan instruksi produk terpasang ([Bobrick cleaning and maintenance](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/)).
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+Serahkan paket akhir berisi sampel acuan, formulir keputusan, daftar revisi, kode produk, batch, gambar orientasi, dan pengecualian. Tetapkan siapa yang boleh menyetujui perubahan berikutnya. Jika pembaca membutuhkan konteks proyek yang lebih luas, gunakan [beranda Cubicle.id](/) sebagai titik kembali.
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menyetujui Sampel Warna, Tekstur, dan Finishing Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas yang sering dipilih, tetapi berisiko
 
-## Langkah 3 — jalankan urutan kerja
+Kawan Cubicle.id, menyetujui berdasarkan render, foto WhatsApp, atau satu keping kecil gagal karena layar dan kamera tidak merepresentasikan cahaya ruang, sementara keping kecil tidak menunjukkan arah motif, kilap, dan hubungan sambungan. Alternatifnya adalah mock-up fisik berlabel, penilaian pada kondisi cahaya tercatat, dan keputusan tertulis bernomor revisi.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menyetujui Sampel Warna, Tekstur, dan Finishing Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesimpulan: setujui yang dapat dicocokkan, bukan yang sekadar terlihat cocok
 
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menyetujui Sampel Warna, Tekstur, dan Finishing Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menyetujui Sampel Warna, Tekstur, dan Finishing Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Cara menyetujui sampel finishing cubicle adalah menetapkan sampel acuan, mencatat warna–tekstur–kilap–arah, memeriksa variasi batch dan sambungan dalam mock-up, lalu mengunci keputusan serta perubahan melalui label dan dokumen. Mulailah dengan meminta kode produk, sampel fisik, kondisi pencahayaan, dan pihak penanda tangan. Jika keputusan menyentuh performa teknis, kelembapan serius, atau rating api, teruskan ke bukti sistem dan review profesional; persetujuan visual saja tidak cukup.

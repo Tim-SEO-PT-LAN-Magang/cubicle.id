@@ -2,8 +2,9 @@
 article_id: CUB-09-F
 title: "Emisi, Debu, Bau, dan Kualitas Udara dari Sistem Cubicle"
 slug: "emisi-debu-bau-kualitas-udara-cubicle"
-description: "Separate product emissions, adhesives/coatings, dust, cleaning chemicals, dampness, ventilation, symptom reports, and evidence/escalation"
-status: outline
+description: "Panduan memilah sumber bau, debu, bahan pembersih, kelembapan, dan ventilasi pada sistem cubicle sebelum menentukan pemeriksaan lanjutan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-07"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,54 +15,13 @@ reader_address: "Kawan Cubicle.id"
 final_route: "/artikel/emisi-debu-bau-kualitas-udara-cubicle.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/72960.html"
   - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
-  - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
   - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
-  - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
-  - "https://www.iso.org/standard/83943.html"
-  - "https://store.astm.org/e0119-24.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Emisi, Debu, Bau, dan Kualitas Udara dari Sistem Cubicle
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Emisi, Debu, Bau, dan Kualitas Udara dari Sistem Cubicle”
-- **Reader and situation:** Owner responding to odor or indoor-air concerns
-- **Reader outcome:** Separate product emissions, adhesives/coatings, dust, cleaning chemicals, dampness, ventilation, symptom reports, and evidence/escalation
-- **Primary intent:** Evaluate occupant-health evidence
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Kawan Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not diagnose illness or promise “non-toxic”; health professionals own medical concerns and CUB-13-C owns dampness defects
-- **Final public route:** `/artikel/emisi-debu-bau-kualitas-udara-cubicle.html`
-- **Appointed CMS date:** `2026-03-07` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Emisi, Debu, Bau, dan Kualitas Udara dari Sistem Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Cubicle.id`, `Sobat Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -72,138 +32,64 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Kawan Cubicle.id! Bau baru setelah pemasangan cubicle tidak otomatis berarti panelnya “beracun”. Debu pekerjaan, perekat atau lapisan yang masih melepaskan aroma, cairan pembersih, saluran yang lembap, dan pertukaran udara yang kurang dapat terasa serupa. Keputusan awal yang aman adalah memisahkan sumber-sumber itu sebelum meminta penggantian material atau menyimpulkan ada gangguan kesehatan.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Catat kapan bau muncul, area yang terdampak, kegiatan terakhir (pemasangan, pembersihan, atau kebocoran), serta keluhan penghuni. Bukti tersebut dapat mengubah langkah berikutnya: pemeriksaan ventilasi dan kelembapan, peninjauan lembar produk, atau konsultasi tenaga kesehatan. Artikel ini membantu memilah bukti, bukan mendiagnosis penyakit atau menjanjikan produk “non-toxic”.
 
-### KR-01
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
 
-### KR-08
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Apa yang sebenarnya dinilai dari emisi dan kualitas udara cubicle?
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+Sebelum menilai panel, bedakan objeknya. Emisi adalah pelepasan zat atau aroma dari material; debu adalah partikel hasil pekerjaan atau pemakaian; bau adalah sinyal inderawi yang belum menunjukkan penyebab; kualitas udara adalah kondisi udara ruang yang juga dipengaruhi ventilasi dan sumber lain. Label HPL atau compact laminate hanya menjelaskan jenis bahan tertentu, bukan kinerja seluruh sistem terpasang. ISO 4586-4 menjelaskan lingkup compact laminate interior, tetapi abstrak standar tidak memberi nilai emisi untuk proyek tertentu (https://www.iso.org/standard/72962.html).
 
-### KR-09
+Sistem cubicle mencakup panel, pintu, sambungan, perangkat keras, penyangga, dan bidang bangunan di sekitarnya. Karena itu, bau dari celah lantai, karpet basah, atau ruang servis tidak boleh langsung ditimpakan pada panel. Tanyakan: “Sumber mana yang terlihat, kapan mulai, dan apa yang berubah?”
 
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
+Catatan sederhana dapat membuat pengamatan lebih dapat dibandingkan. Tulis waktu mulai dan berakhirnya bau, posisi orang yang melaporkan, apakah pintu atau kipas sedang terbuka, serta tindakan yang dilakukan sebelum dan sesudah keluhan. Jika beberapa orang melaporkan hal serupa, catat pola waktunya tanpa menganggap semua keluhan memiliki penyebab yang sama. Jangan menguji dengan sengaja menutup ventilasi, menyemprot bahan tambahan, atau memindahkan panel tanpa rencana, karena tindakan itu mengubah kondisi yang sedang dinilai. Tujuan pencatatan adalah memperjelas urutan kejadian bagi pengelola, pemeriksa bangunan, atau tenaga kesehatan.
 
-### KR-20
+Jika penghuni mengalami gejala menetap atau berat, dokumentasikan keluhan dan arahkan ke tenaga kesehatan. Jangan mengubah keluhan menjadi diagnosis lingkungan tanpa pengukuran dan penilaian profesional.
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+## Bagaimana bau, debu, bahan kimia, dan kelembapan masuk ke penilaian?
 
-### KR-13
+Urutan sebab-akibat membantu mencegah pemeriksaan acak. Setelah pekerjaan, debu dapat tertinggal di atas kepala, engsel, atau kisi; pembersihan kemudian menambahkan bahan kimia dan aroma. Perekat atau pelapis dapat memiliki aroma tersendiri, sedangkan air yang tertahan menciptakan kondisi berbeda. Ventilasi menentukan seberapa cepat udara pengganti membawa atau mengencerkan sumber tersebut.
 
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
+Mulailah dari observasi: apakah bau paling kuat dekat sambungan, lantai, saluran, atau ruang tertutup? Berikutnya cari mekanisme: residu, tumpahan, kebocoran, atau udara yang tidak bergerak. Baru tetapkan keputusan, misalnya pembersihan sesuai petunjuk produk dan pemeriksaan sumber air. Panduan pemeliharaan Bobrick menekankan penggunaan prosedur pembersihan yang sesuai sistem, bukan bahan sembarang (https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/).
 
-## Evidence gates
+Kawan Cubicle.id, jangan mencampur bahan pembersih untuk “menetralisir” bau. Hentikan percobaan jika muncul iritasi, uap menyengat, atau permukaan berubah; simpan nama produk dan lembar keselamatannya untuk peninjauan.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+## Faktor apa yang paling sering mengubah hasil pemeriksaan?
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Kondisi ruang menentukan apakah sumber tetap berada di tempat atau cepat hilang. Periksa pola waktu (hanya setelah dibersihkan atau terus-menerus), pola lokasi (satu bilik atau seluruh ruang), serta hubungan dengan kipas, pintu, dan penggunaan air. Catatan ini lebih berguna daripada kesan “bau material” saja.
 
-## Internal-link plan
+Kelembapan memerlukan perhatian khusus. EPA menyarankan pengendalian sumber air dan pengeringan dalam pengelolaan kualitas udara ruang; panduan itu tidak menetapkan diagnosis atau ambang universal untuk cubicle tertentu (https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0). Cari kebocoran, genangan, kondensasi, atau seal yang gagal, lalu minta pemeriksaan bangunan bila sumber tidak jelas.
 
-### Existing local routes
+Periksa juga bukti produk: nama dan kelas material, perekat atau pelapis yang dipakai, petunjuk pembersihan, serta tanggal pemasangan. Tanpa dokumen itu, klaim “bebas emisi” atau “aman untuk semua orang” tidak dapat diverifikasi.
 
-- `/` — fallback home route; use only when it is genuinely useful.
+## Contoh keputusan praktis saat penghuni melaporkan bau
 
-### Planned sibling articles
+Skenario pertama: bau muncul hanya beberapa jam setelah pembersihan dan berkurang setelah ruang berventilasi. Keputusan awal adalah hentikan bahan yang dicurigai, cocokkan dengan petunjuk produsen, dan catat waktu pemulihan; jangan menyimpulkan panel rusak.
 
-These are future routes. Do not link them as live until their HTML exists.
+Skenario kedua: bau menetap di dekat lantai, disertai area lembap atau lapisan mengelupas. Perlakukan sebagai dugaan sumber air atau kerusakan lokal. Batasi penggunaan area bila perlu, dokumentasikan foto dan lokasi, lalu minta pemeriksaan pemeliharaan. EPA menempatkan pengendalian kelembapan sebagai langkah dasar, bukan sekadar menutup bau.
 
-- `CUB-09-D` → `/artikel/bukti-api-dan-asap-material-cubicle.html` — Bukti Perilaku Api dan Asap pada Material Cubicle
-- `CUB-09-E` → `/artikel/cubicle-dan-jalur-evakuasi.html` — Cubicle dan Jalur Evakuasi: Meninjau Beban Api, Hambatan, dan Akses
+Skenario ketiga: keluhan terjadi di banyak ruang tanpa pola aktivitas yang jelas. Bandingkan ventilasi, saluran, dan pekerjaan bangunan lain; pertimbangkan penilaian kualitas udara oleh pihak kompeten. Pengelola tidak boleh menjadikan satu laporan sebagai bukti sebab tunggal.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Kesalahan umum saat mengejar sumber bau dan debu
 
-## Jawaban singkat dan salah paham utama
+Kesalahan pertama adalah mengganti semua panel sekaligus. Langkah itu mahal dan bisa gagal bila sumber sebenarnya adalah saluran, pembersih, atau kelembapan. Uji perubahan secara terkontrol: dokumentasikan kondisi awal, tangani satu sumber yang paling mungkin, lalu amati dengan catatan yang sama.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Emisi, Debu, Bau, dan Kualitas Udara dari Sistem Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan kedua adalah memakai pewangi atau pelapis penutup. Aroma baru menutupi sinyal dan menambah sumber kimia. Pilih pembersihan yang tercantum di petunjuk sistem dan pastikan sirkulasi udara berfungsi.
 
-## Definisi dan batas objek
+Kesalahan ketiga adalah menganggap sertifikat bahan sebagai bukti udara ruang. Dokumen bahan perlu dicocokkan dengan produk, perekat, cara pemasangan, serta kondisi pemakaian aktual. Bila dokumen tidak lengkap, tandai `[NEEDS PRODUCT-EMISSION EVIDENCE]` dan minta pemasok melengkapinya.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Emisi, Debu, Bau, dan Kualitas Udara dari Sistem Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas “cukup beri pewangi” dan alternatifnya
 
-## Cara kerjanya
+Pewangi memang dapat mengubah persepsi bau sesaat, tetapi tidak menghilangkan debu, sumber air, atau ventilasi yang buruk. Alternatif yang lebih dapat ditelusuri adalah: hentikan sumber baru, bersihkan sesuai petunjuk, periksa kebocoran dan aliran udara, kumpulkan dokumen produk, lalu eskalasi bila keluhan bertahan.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Emisi, Debu, Bau, dan Kualitas Udara dari Sistem Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah berikutnya untuk keputusan yang dapat dipertanggungjawabkan
 
-## Faktor yang mengubah hasil
+Buat satu lembar pemeriksaan berisi lokasi, waktu, aktivitas sebelum kejadian, kondisi lembap, bahan pembersih, perubahan ventilasi, dan keluhan yang dilaporkan. Lampirkan foto, daftar material dan perekat, serta petunjuk pemeliharaan. Untuk rujukan umum pengelolaan situs, Anda dapat melihat [beranda Cubicle.id](/). Minta pengelola bangunan atau tenaga kompeten menilai sumber teknis; minta tenaga kesehatan menilai gejala.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Emisi, Debu, Bau, dan Kualitas Udara dari Sistem Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Emisi, Debu, Bau, dan Kualitas Udara dari Sistem Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Emisi, Debu, Bau, dan Kualitas Udara dari Sistem Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jawaban atas pertanyaan judulnya: emisi, debu, bau, dan kualitas udara cubicle tidak dapat dinilai dari nama panel saja. Pisahkan sumber, verifikasi dokumen dan kondisi ruang, lalu eskalasi dengan bukti. Sobat Cubicle.id, jangan menjanjikan “non-toxic” atau diagnosis; operating rule-nya sederhana: setiap bau yang menetap harus ditelusuri sebagai masalah sumber dan ventilasi sampai ada bukti yang cukup untuk menyimpulkan sebaliknya.

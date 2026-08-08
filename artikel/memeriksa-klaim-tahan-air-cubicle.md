@@ -2,8 +2,9 @@
 article_id: CUB-09-A
 title: "Memeriksa Klaim Tahan Air pada Panel dan Sistem Cubicle"
 slug: "memeriksa-klaim-tahan-air-cubicle"
-description: "Define humidity, splash, wet cleaning, leakage, immersion, edges, joints, penetrations, fasteners, ventilation, and system evidence"
-status: outline
+description: "Panduan memeriksa klaim tahan air pada panel dan sistem cubicle sebelum memilih produk dan menyetujui pemasangan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,52 +17,19 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/72960.html"
   - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
-  - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
-  - "https://www.iso.org/standard/83943.html"
-  - "https://store.astm.org/e0119-24.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Memeriksa Klaim Tahan Air pada Panel dan Sistem Cubicle
 
-## Assignment lock
+Halo, Teman Cubicle.id! Saat membandingkan cubicle untuk kamar mandi atau area yang sering dicuci, Anda mungkin melihat kata “tahan air” pada panel. Kata itu belum menjawab pertanyaan terpenting: tahan terhadap kondisi apa, pada bagian mana, dan berdasarkan bukti sistem yang mana?
 
-- **Writer task:** Expand this file into one complete article answering: “Memeriksa Klaim Tahan Air pada Panel dan Sistem Cubicle”
-- **Reader and situation:** Buyer comparing wet-area products
-- **Reader outcome:** Define humidity, splash, wet cleaning, leakage, immersion, edges, joints, penetrations, fasteners, ventilation, and system evidence
-- **Primary intent:** Verify moisture-resistance claims
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Teman Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Kawan Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not declare a material waterproof from its name; CUB-06-A owns material comparison and CUB-13-C owns moisture-failure diagnosis
-- **Final public route:** `/artikel/memeriksa-klaim-tahan-air-cubicle.html`
-- **Appointed CMS date:** `2026-02-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: jangan menyatakan cubicle tahan air hanya dari nama bahan. Pisahkan paparan—kelembapan udara, percikan, pembersihan basah, kebocoran setempat, atau perendaman—lalu periksa panel, tepi, sambungan, lubang, pengikat, dan dukungan bangunan sebagai satu sistem. Standar HPL dan compact laminate menjelaskan ruang lingkup metode atau jenis material, bukan otomatis membuktikan seluruh cubicle terpasang lulus untuk proyek Anda ([ISO 4586-2](https://www.iso.org/standard/72960.html), [ISO 4586-4](https://www.iso.org/standard/72962.html)).
 
-## Opening instructions
+Bukti yang dapat mengubah keputusan adalah lembar data produk yang tepat, petunjuk fabrikasi dan pemasangan, kondisi pemakaian yang dinyatakan, serta pemeriksaan konfigurasi aktual. Jika dokumen itu tidak tersedia, tandai `[NEEDS PRODUCT/SYSTEM EVIDENCE: klaim paparan air dan detail pemasangan belum terverifikasi]` dan jangan mengubah istilah pemasaran menjadi jaminan.
 
-- Open with the exact short salutation: **“Halo, Teman Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memeriksa Klaim Tahan Air pada Panel dan Sistem Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.id`, `Sobat Cubicle.id`, or `Kawan Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -72,138 +40,72 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle panel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+![Ilustrasi cubicle panel](/wp-content/uploads/2023/03/cubicle-panel.jpg)
 
-## Evidence packet
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Apa arti “tahan air” untuk panel dan cubicle?
 
-### KR-01
+Sebelum memilih material, samakan dulu arti paparan air. Langkah ini mencegah pembeli menyamakan udara lembap dengan panel yang direndam, padahal beban dan jalur masuk airnya berbeda.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Kelembapan adalah uap air di udara. Percikan adalah tetesan yang mengenai permukaan sesekali. Pembersihan basah berarti permukaan dibasahi lalu dikeringkan sesuai petunjuk. Kebocoran adalah air yang masuk dari celah, pipa, lantai, atau sambungan secara tidak terkendali. Perendaman berarti bagian berada di dalam air; itu kondisi jauh lebih berat dan tidak boleh diasumsikan tercakup oleh klaim permukaan.
 
-### KR-08
+“HPL” (laminate bertekanan tinggi) dan “compact laminate” adalah istilah material. Keduanya membantu mengidentifikasi apa yang diuji, tetapi tidak menjelaskan apakah tepi yang dipotong, lubang engsel, kaki, sekrup, atau dinding penyangga akan tetap bekerja di lingkungan tertentu. Panduan fabrikasi compact laminate menekankan perlunya memperhatikan perubahan dimensi akibat kelembapan, lubang, jarak tepi, dan pengikat ([panduan Formica](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)).
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+Karena itu, objek pemeriksaan bukan hanya lembar panel. Periksa pintu, pilaster, sekat, engsel, kait, kaki, braket, jangkar, celah bawah, sambungan ke lantai atau plafon, dan kondisi substrat. Klaim panel tidak otomatis mencakup perangkat keras, kestabilan, korosi, atau aksesibilitas.
 
-### KR-09
+## Bagaimana air dapat mencapai dan memengaruhi sistem?
 
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
+Setelah jenis paparan jelas, ikuti jalur air dari sumber ke titik lemah. Jembatan ini penting karena permukaan panel bisa tampak baik sementara air masuk melalui detail yang tidak terlihat.
 
-### KR-20
+Mulai dari permukaan. Air yang menggenang lebih lama memberi kesempatan masuk ke tepi atau sambungan. Lanjutkan ke tepi potongan dan lubang. Di sana lapisan permukaan tidak lagi menjadi penghalang utuh, sehingga pengondisian material, penyegelan yang ditentukan produsen, dan cara pengeboran perlu dibuktikan—bukan ditebak.
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+Periksa sambungan antar-panel, pertemuan panel dengan lantai, serta penetrasi untuk baut atau pipa. Pengikat yang longgar dapat membuka celah; pengikat yang dipaksa terlalu kencang dapat menimbulkan tegangan. Konfigurasi sistem memengaruhi jalur beban, akses pembersihan, urutan pemasangan, dan tuntutan pada lantai atau plafon. Instruksi pemasangan Bobrick disusun untuk sistem tertentu; dimensinya tidak boleh disalin ke produk lain ([petunjuk pemasangan](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
 
-### KR-13
+Ventilasi juga bagian dari pengendalian kelembapan. Ruang yang terus lembap dapat memperpanjang waktu pengeringan setelah dibersihkan. Panduan pengendalian kelembapan EPA menempatkan pengelolaan sumber air, pengeringan, dan desain bangunan sebagai rangkaian, bukan satu lapisan pelindung tunggal ([EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)).
 
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
+## Faktor apa yang mengubah hasil pemeriksaan?
 
-## Evidence gates
+Kini kelompokkan kondisi yang sering membuat klaim terlihat lebih kuat atau lebih lemah. Dengan cara ini Anda bisa meminta bukti yang tepat, bukan sekadar brosur tambahan.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Pertama, cocokkan lingkungan dengan pernyataan produk: interior atau luar ruang, paparan sesekali atau terus-menerus, dan metode pembersihan yang diizinkan. Jangan menganggap kelas interior sama dengan kelas luar ruang. Kedua, cocokkan detail: tepi, sambungan, lubang, penetrasi, kaki, dan pengikat harus muncul dalam gambar detail atau instruksi.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Ketiga, periksa bangunan pendukung. Lantai yang tidak rata, dinding rapuh, atau saluran air yang bocor dapat menjadi sumber masalah yang bukan berasal dari panel. Keempat, minta bukti sistem, bukan hanya sampel panel: identitas produk, edisi dokumen, konfigurasi, material perangkat keras, cara ventilasi, dan batas penggunaan.
 
-## Internal-link plan
+Sobat Cubicle.id, setiap kekosongan bukti punya konsekuensi keputusan. Tanpa dokumen sistem, pilihannya bukan “pasti gagal”, melainkan “belum dapat dinyatakan sesuai”. Tahan keputusan pembelian atau minta tinjauan teknis sampai celah bukti ditutup.
 
-### Existing local routes
+## Contoh keputusan berdasarkan kondisi nyata
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Gunakan skenario berikut sebagai cara berpikir, bukan sebagai spesifikasi universal.
 
-### Planned sibling articles
+| Kondisi yang dinyatakan | Bukti minimum yang dicari | Keputusan sementara |
+|---|---|---|
+| Kelembapan udara dan percikan sesekali | Batas penggunaan produk, detail tepi dan sambungan | Lanjutkan hanya jika konfigurasi dan pembersihan cocok |
+| Pembersihan basah rutin | Petunjuk bahan pembersih, pengeringan, dan inspeksi | Minta persetujuan metode pembersihan tertulis |
+| Air masuk dari kebocoran bangunan | Sumber kebocoran dan rencana perbaikan | Bereskan sumber air dulu; jangan menyalahkan panel |
+| Bagian terendam atau selalu tergenang | Bukti eksplisit untuk perendaman pada sistem lengkap | Jangan setujui tanpa bukti khusus dan review profesional |
 
-These are future routes. Do not link them as live until their HTML exists.
+Jika penjual hanya menunjukkan foto permukaan panel, itu menjawab pertanyaan estetika, bukan kinerja sambungan atau pengikat. Mintalah gambar potongan, daftar komponen, dan batas lingkungan yang berlaku untuk model tersebut.
 
-- `CUB-09-B` → `/artikel/desain-cubicle-mudah-dibersihkan.html` — Kebersihan Cubicle: Desain Sambungan dan Detail yang Mudah Dibersihkan
-- `CUB-09-C` → `/artikel/bahan-pembersih-untuk-cubicle.html` — Matriks Bahan Pembersih untuk Cubicle: Cara Memverifikasi Kompatibilitas
+## Kesalahan umum saat memeriksa klaim tahan air
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Kesalahan pertama adalah menganggap kata “compact” berarti kedap air di semua kondisi. Istilah itu mengidentifikasi konstruksi material; hasil terpasang tetap dipengaruhi tepi dan sambungan.
 
-## Jawaban singkat dan salah paham utama
+Kesalahan kedua adalah menguji dengan menyiram berlebihan tanpa prosedur yang disetujui. Uji spontan dapat merusak produk dan tidak mewakili penggunaan harian. Lebih aman mengikuti petunjuk produsen dan mencatat kondisi awal, metode pembersihan, serta perubahan yang terlihat.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memeriksa Klaim Tahan Air pada Panel dan Sistem Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan ketiga adalah menutup retak atau celah berulang kali tanpa mencari sumber gerak, kebocoran, korosi, atau masalah substrat. Perbaikan kosmetik dapat menyembunyikan penyebab. Catat lokasi, waktu muncul, pola air, dan komponen yang terlibat; untuk kerusakan yang menyentuh kestabilan atau instalasi bangunan, minta pemeriksaan kompeten.
 
-## Definisi dan batas objek
+Kawan Cubicle.id, jangan menjadikan jadwal inspeksi atau bahan pembersih sebagai angka baku dari artikel ini. Frekuensi dan metode harus mengikuti produk, lingkungan, serta prosedur pengelola gedung. Jika ada potensi jamur, kebocoran aktif, atau komponen berbahaya, hentikan pekerjaan yang berisiko dan eskalasikan ke tenaga yang berwenang.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Memeriksa Klaim Tahan Air pada Panel dan Sistem Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas yang tampak praktis tetapi menyesatkan
 
-## Cara kerjanya
+Jalan pintas yang sering dipilih adalah membeli panel dengan label tahan air lalu meminta pemasang “menyesuaikan detail di lapangan”. Ini gagal ketika lubang, jarak tepi, pengikat, atau ventilasi dibuat tanpa acuan; air kemudian masuk melalui sistem, bukan melalui bidang panel.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Memeriksa Klaim Tahan Air pada Panel dan Sistem Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Alternatif yang lebih dapat dipertanggungjawabkan adalah mengunci paparan, konfigurasi, dan dokumen sebelum pemesanan. Minta pemasok menandai bagian yang tercakup dan yang tidak tercakup, lalu cocokkan dengan gambar kerja dan kondisi lantai, dinding, serta drainase. Bila klaim utama masih bergantung pada data yang belum tersedia, pertahankan penanda `[NEEDS PRODUCT/SYSTEM EVIDENCE]` untuk tinjauan teknis.
 
-## Faktor yang mengubah hasil
+## Langkah akhir sebelum menyetujui pembelian
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Memeriksa Klaim Tahan Air pada Panel dan Sistem Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Memeriksa klaim tahan air berarti memeriksa kecocokan paparan dan bukti sistem, bukan mencari satu kata pada label. Susun lembar verifikasi berisi jenis paparan, jalur air, detail tepi dan sambungan, penetrasi, pengikat, ventilasi, metode pembersihan, serta kondisi bangunan pendukung.
 
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Memeriksa Klaim Tahan Air pada Panel dan Sistem Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Memeriksa Klaim Tahan Air pada Panel dan Sistem Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Cubicle.id, minta dokumen produk dan pemasangan untuk model yang benar, bukan contoh umum. [Kunjungi halaman utama Cubicle.id](/) bila Anda perlu kembali ke konteks layanan dan materi terkait. Tandai setiap batas yang tidak dijelaskan dan minta review profesional untuk keputusan yang menyangkut kebocoran aktif, kestabilan, atau persetujuan proyek. Aturan operasionalnya sederhana: tanpa bukti yang cocok dengan konfigurasi dan paparan aktual, sebut klaim itu “belum terverifikasi”, bukan “tahan air”.

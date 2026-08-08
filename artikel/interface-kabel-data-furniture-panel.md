@@ -2,8 +2,9 @@
 article_id: CUB-07-C
 title: "Interface Kabel, Data, Furniture, dan Panel pada Office Cubicle"
 slug: "interface-kabel-data-furniture-panel"
-description: "Map cable entries, access, furniture supports, panel joints, service modules, labels, changes, and qualified electrical responsibility"
-status: outline
+description: "Panduan memetakan jalur kabel, akses, penopang furnitur, sambungan panel, modul layanan, label, perubahan, dan tanggung jawab teknisi listrik."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,49 +17,13 @@ technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
   - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://www.iso.org/standard/72960.html"
-  - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
   - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Interface Kabel, Data, Furniture, dan Panel pada Office Cubicle
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Interface Kabel, Data, Furniture, dan Panel pada Office Cubicle”
-- **Reader and situation:** Workplace team preventing incompatible parts
-- **Reader outcome:** Map cable entries, access, furniture supports, panel joints, service modules, labels, changes, and qualified electrical responsibility
-- **Primary intent:** Coordinate office component interfaces
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Teman Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Kawan Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not teach wiring; CUB-03-C owns service planning and qualified electrical professionals own connections
-- **Final public route:** `/artikel/interface-kabel-data-furniture-panel.html`
-- **Appointed CMS date:** `2026-01-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Interface Kabel, Data, Furniture, dan Panel pada Office Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.id`, `Sobat Cubicle.id`, or `Kawan Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -69,140 +34,83 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle panel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Interface Kabel, Data, Furniture, dan Panel pada Office Cubicle
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Cubicle.id! Masalah antarmuka muncul ketika meja, panel, kabel data, dan modul layanan dipasang seolah-olah bagian yang terpisah. Lubang kabel bisa tertutup panel, furnitur menekan jalur, atau perubahan tata letak membuat label tidak lagi cocok. Jawaban praktisnya: petakan hubungan antarkomponen lebih dulu, tetapkan titik akses dan penopang, lalu serahkan sambungan listrik kepada tenaga listrik yang berkualifikasi. Keputusan ini berubah bila gambar koordinasi, jenis produk, atau kondisi struktur bangunan belum tersedia.
 
-### KR-01
+Peta antarmuka minimal perlu memuat jalur masuk kabel, bukaan untuk pemeliharaan, posisi kaki atau bracket furnitur, sambungan antarpanel, modul layanan, label sirkuit/data, serta prosedur perubahan. Artikel ini membantu tim kantor menanyakan “siapa terhubung ke apa, melalui titik mana, dan siapa yang memeriksa” tanpa mengajarkan pengawatan.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi cubicle panel](/wp-content/uploads/2023/03/cubicle-panel.jpg)
 
-### KR-03
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Apa yang dimaksud antarmuka kabel, data, furnitur, dan panel?
 
-### KR-08
+Sebelum memilih detail, samakan arti objeknya. Antarmuka adalah titik pertemuan dua sistem yang harus tetap dapat dipasang, dipakai, diperiksa, dan diubah. Pada cubicle, contohnya bukan hanya lubang kabel, tetapi juga ruang di balik panel untuk menarik kabel, jalur servis, titik tumpu furnitur, serta sambungan yang menahan panel tetap stabil.
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+Ruang lingkup ini tidak sama dengan desain instalasi listrik. Anda dapat menandai lokasi stopkontak atau modul layanan pada gambar, tetapi ukuran penghantar, proteksi, terminasi, pengujian, dan energisasi harus ditentukan serta dikerjakan oleh profesional listrik sesuai proyek. Tanda tangan koordinasi tidak boleh disalahartikan sebagai persetujuan pengawatan.
 
-### KR-09
+Untuk akses pengguna, posisi panel dan pintu harus dibaca bersama jalur mendekat, ruang gerak, perangkat, dan tata letak ruang. Permen PUPR 14/2017 menempatkan aksesibilitas sebagai hubungan antara rute dan penggunaan, bukan sekadar ukuran satu produk ([status peraturan](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017); [teks PDF](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)). Karena itu, mintalah pemeriksaan rute dan operasi pintu, bukan hanya katalog panel.
 
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
+## Bagaimana urutan koordinasi antarmuka dilakukan?
 
-### KR-10
+Urutan kerja mencegah tim mengejar masalah setelah panel terpasang. Mulailah dari kebutuhan pengguna dan furnitur, lanjutkan ke jalur layanan, kemudian cek struktur pendukung dan akses pemeliharaan.
 
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
+### 1. Bekukan peta titik dan jalur
 
-## Evidence gates
+Tandai setiap meja, panel, pintu, modul layanan, jalur kabel, dan titik masuk/keluar pada satu gambar koordinasi. Beri identitas unik pada tiap titik. Peta ini menjawab apakah kabel dapat ditarik tanpa membongkar panel dan apakah pintu tetap bisa dibuka.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+### 2. Cocokkan bukaan dengan sistem panel
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Sambungan panel terdiri dari panel, pilaster, pintu, engsel, kaki, rel, bracket, anchor, dan celah kerja. Instruksi instalasi pabrikan menunjukkan bahwa konfigurasi dan urutan komponen memengaruhi stabilitas serta akses pemasangan ([contoh instruksi sistem](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)). Gunakan dokumen sistem yang benar; jangan menyalin dimensi atau detail produk lain.
 
-## Internal-link plan
+### 3. Periksa penopang dan gerakan bangunan
 
-### Existing local routes
+Beban furnitur atau panel harus diteruskan melalui penopang dan anchor ke struktur yang memang mampu menerimanya. Kisi plafon bukan otomatis tumpuan struktural. Untuk dinding tinggi, bukaan pintu, beban gantung, atau retrofit, minta peninjauan struktur dan gerakan bangunan. SNI 1727:2020 dan SNI 1726:2019 tercatat sebagai rujukan beban minimum dan gempa di katalog BSN ([SNI 1727](https://pesta.bsn.go.id/produk/detail/12927-sni17272020); [SNI 1726](https://pesta.bsn.go.id/produk/detail/12762-sni17262019)). Panduan FEMA E-74 juga mengingatkan bahwa komponen nonstruktural dapat rusak ketika bergerak berbeda dari struktur; panduan itu bukan pengganti kode Indonesia ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
 
-- `/` — fallback home route; use only when it is genuinely useful.
+### 4. Tetapkan label dan kendali perubahan
 
-### Planned sibling articles
+Labelkan kedua ujung kabel, modul, panel yang dapat dilepas, dan nomor revisi gambar. Setiap perubahan meja atau panel harus memperbarui peta, foto inspeksi, serta daftar titik. Tanpa jejak revisi, teknisi berikutnya tidak tahu apakah label lama masih berlaku.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Faktor apa yang paling sering mengubah hasil?
 
-- `CUB-07-A` → `/artikel/anatomi-hardware-cubicle.html` — Anatomi Hardware Cubicle: Engsel, Kunci, Kaki, Bracket, dan Rel
-- `CUB-07-B` → `/artikel/hardware-toilet-cubicle.html` — Hardware Toilet Cubicle untuk Privasi, Trafik, dan Akses Darurat
-- `CUB-07-D` → `/artikel/anchor-dan-fastener-cubicle.html` — Anchor dan Fastener Cubicle: Bukti Substrate dan Beban
-- `CUB-07-E` → `/artikel/interface-kaca-dan-hardware-cubicle.html` — Interface Kaca dan Hardware Cubicle: Risiko Tepi, Lubang, dan Tegangan
+Heading ini penting karena detail yang tampak kecil sering mengubah urutan kerja dan akses. Periksa faktor berikut sebelum menyetujui shop drawing.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+- **Akses pemeliharaan:** sisakan cara membuka panel dan mencapai modul tanpa merusak sambungan. Panel tertutup rapat mungkin tampak rapi, tetapi menyulitkan pemeriksaan.
+- **Kondisi ruang:** kelembapan, area basah, dan pembersihan memengaruhi pemilihan material serta hardware. Label “compact” atau “HPL” saja tidak membuktikan kecocokan sistem terpasang.
+- **Perubahan ukuran:** panel dan lubang harus mengikuti instruksi produk, termasuk kondisi material, tepi lubang, dan metode pengikat. Jangan mengarang jarak atau kapasitas dari nama bahan.
+- **Gerakan dan beban:** panel tinggi, pintu berat, furnitur gantung, dan sambungan ke plafon menambah pertanyaan struktur. Tandai sebagai [NEEDS STRUCTURAL REVIEW] bila data penopang belum ada.
+- **Aksesibilitas:** cek arah bukaan, ruang pendekat, jangkauan, privasi, dan sanitasi sebagai satu rangkaian. Bila gambar bangunan belum lengkap, pertahankan [NEEDS ACCESSIBILITY REVIEW].
 
-## Jawaban singkat dan salah paham utama
+## Contoh keputusan praktis di lapangan
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Interface Kabel, Data, Furniture, dan Panel pada Office Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sobat Cubicle.id, gunakan tabel sederhana agar rapat tidak berhenti pada “bisa dipasang”.
 
-## Definisi dan batas objek
+| Situasi | Pertanyaan pengunci | Keputusan aman |
+|---|---|---|
+| Meja dipindah mendekati panel | Apakah jalur kabel dan bukaan servis masih terbuka? | Revisi peta dan label sebelum memindah titik. |
+| Modul layanan berada di panel yang dapat dilepas | Siapa yang memutus dan memeriksa sambungan? | Tandai modul; pekerjaan listrik tetap oleh profesional berkualifikasi. |
+| Panel tinggi menempel plafon | Apakah plafon hanya kisi atau ada struktur pendukung terverifikasi? | Minta detail anchor/bracing dan tinjauan struktur. |
+| Area lembap atau sering dicuci | Apakah produk dan hardware memang untuk lingkungan itu? | Verifikasi lembar produk dan instruksi pabrikan; jangan menyamakan klaim bahan dengan kinerja sistem. |
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Interface Kabel, Data, Furniture, dan Panel pada Office Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Interface Kabel, Data, Furniture, dan Panel pada Office Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Interface Kabel, Data, Furniture, dan Panel pada Office Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Interface Kabel, Data, Furniture, dan Panel pada Office Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika salah satu jawaban belum tersedia, statusnya bukan “diasumsikan selesai”, melainkan [NEEDS COORDINATOR REVIEW].
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Interface Kabel, Data, Furniture, dan Panel pada Office Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah mengebor panel setelah semua komponen datang. Langkah itu mengabaikan tepi lubang, pengaku, jalur kabel, dan urutan pemasangan. Cocokkan gambar koordinasi dengan gambar pabrikan sebelum fabrikasi.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah memakai satu label “kabel data” untuk beberapa jalur. Label harus menunjukkan asal, tujuan, dan revisi; lakukan pengecekan silang dengan daftar titik layanan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menganggap bracket furnitur boleh menumpu pada panel dekoratif. Tanyakan jalur beban dan substratnya. Bila tidak ada detail anchor atau kapasitas yang disetujui, hentikan pemasangan dan minta pemeriksaan.
 
-## Required conclusion
+Kesalahan keempat adalah menganggap aksesibilitas selesai karena pintu atau panel memenuhi ukuran katalog. Periksa rute, ruang pendekat, operasi, dan fasilitas secara terpadu sesuai tinjauan proyek dan peraturan yang berlaku.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jangan memilih jalan pintas “rapikan dulu, cek nanti”
 
-## Draft completion checklist
+Jalan pintas ini terasa cepat karena kabel disembunyikan dan label dapat dibuat belakangan. Risikonya, panel harus dibongkar ulang, akses servis hilang, dan perubahan kecil menyebar ke banyak titik. Alternatif yang lebih dapat dilacak adalah menahan penutupan panel sampai peta, label, foto, dan pemeriksaan penopang disetujui.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan: peta antarmuka sebelum menutup panel
+
+Kawan Cubicle.id, interface kabel, data, furnitur, dan panel adalah pekerjaan koordinasi: petakan titik, sediakan akses, cocokkan sistem panel dan penopang, beri label, lalu kendalikan setiap perubahan. Untuk menyiapkan pembahasan kebutuhan ruang, Anda dapat mulai dari [beranda Cubicle.id](/). Jangan mengubah artikel ini menjadi panduan pengawatan atau pengganti persetujuan struktur dan aksesibilitas. Langkah berikutnya adalah meminta satu gambar koordinasi bertanda revisi, daftar titik layanan, instruksi produk, dan catatan tinjauan profesional sebelum panel ditutup.

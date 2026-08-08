@@ -2,8 +2,9 @@
 article_id: CUB-06-C
 title: "Panel PVC dan Komposit: Ringan Bukan Berarti Selalu Tepat"
 slug: "panel-pvc-dan-komposit"
-description: "Examine core/skin construction, stiffness, impact, fixing, heat, fire/smoke evidence, cleaning, repair, and end-of-life"
-status: outline
+description: "Panduan menilai panel PVC dan komposit dari konstruksi, kekakuan, pemasangan, panas, kebakaran, perawatan, hingga batas pemakaiannya."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,53 +15,24 @@ reader_address: "Kawan Cubicle.id"
 final_route: "/artikel/panel-pvc-dan-komposit.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/72960.html"
-  - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
   - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
   - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
   - "https://www.iso.org/standard/83943.html"
-  - "https://store.astm.org/e0119-24.html"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
   - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Panel PVC dan Komposit: Ringan Bukan Berarti Selalu Tepat
 
-## Assignment lock
+Halo, Kawan Cubicle.id! Ketika penawaran menyebut panel PVC atau komposit lebih ringan dan lebih murah, keputusan sering berhenti di angka berat. Padahal panel adalah bagian dari sistem: inti dan kulit panel, rangka, sekrup, engsel, sambungan, serta bidang tempat ia dipasang harus bekerja bersama. Panel ringan bisa menjadi pilihan baik untuk kondisi tertentu, tetapi dapat mengecewakan jika dipaksa menahan benturan, panas, atau kelembapan yang tidak sesuai.
 
-- **Writer task:** Expand this file into one complete article answering: “Panel PVC dan Komposit: Ringan Bukan Berarti Selalu Tepat”
-- **Reader and situation:** Buyer attracted by low weight or price
-- **Reader outcome:** Examine core/skin construction, stiffness, impact, fixing, heat, fire/smoke evidence, cleaning, repair, and end-of-life
-- **Primary intent:** Evaluate PVC/composite suitability
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Kawan Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not generalize “waterproof” or “durable”; CUB-09-A owns exposure claims and CUB-14-F owns end-of-life
-- **Final public route:** `/artikel/panel-pvc-dan-komposit.html`
-- **Appointed CMS date:** `2025-12-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pilih berdasarkan beban pemakaian dan bukti sistem, bukan label material. Tanyakan konstruksi inti–kulit, kekakuan, cara pengikatan, kondisi panas dan air, serta dokumen uji untuk api atau asap bila area memerlukannya. Kesimpulan dapat berubah setelah pemasok menunjukkan lembar teknis produk dan detail pemasangan yang benar-benar sama dengan proyek Anda.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Panel PVC dan Komposit: Ringan Bukan Berarti Selalu Tepat**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Cubicle.id`, `Sobat Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi cubicle panel](/wp-content/uploads/2023/03/cubicle-panel.jpg)
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -71,140 +43,64 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle panel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Apa yang sebenarnya dimaksud panel PVC dan komposit?
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Sebelum membandingkan harga, samakan dulu objeknya. Panel PVC adalah lembar berbasis polivinil klorida; panel komposit menyatukan dua atau lebih lapisan atau bahan agar masing-masing memberi fungsi berbeda. Istilah “komposit” sendiri belum menjelaskan apakah intinya berongga, padat, berpenguat, atau memakai kulit laminasi.
 
-### KR-01
+Konstruksi inti–kulit (core–skin) menentukan cara panel menahan lentur. Inti memberi jarak dan bentuk, sedangkan kulit menerima sebagian besar tegangan permukaan. Akibatnya, dua panel dengan ketebalan luar yang mirip dapat terasa sangat berbeda ketika pintu dibanting atau orang bersandar. Minta potongan penampang, ketebalan tiap lapisan, dan jenis perekat atau pengikatnya.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Ruang lingkup artikel ini adalah keputusan kesesuaian panel untuk cubicle: kekakuan, benturan, pengikatan, panas, api/asap, kebersihan, dan perbaikan. Ia tidak menyatakan semua panel “tahan air” atau “awet”, dan tidak menggantikan penilaian paparan lokasi maupun rencana akhir masa pakai yang memiliki pembahasan tersendiri.
 
-### KR-08
+## Bagaimana inti, kulit, dan pengikat menentukan perilaku panel?
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+Bagian ini penting karena masalah yang tampak seperti panel “lemah” sering berasal dari antarmuka. Beban dari daun pintu atau aksesori berpindah melalui sekrup dan rangka ke inti panel, lalu ke dinding atau lantai. Jika inti mudah hancur, lubang terlalu dekat tepi, atau substrat bergerak, pengikat dapat longgar walau permukaan panel masih terlihat rapi.
 
-### KR-15
+Periksa jalur beban pada gambar detail: lokasi rangka, jenis kepala sekrup, washer, penguat lokal, dan jarak tepi. Jangan menganggap perekat saja setara dengan pengikat mekanis; kecocokannya bergantung pada bahan, kebersihan permukaan, suhu, dan petunjuk produk. Keputusan praktisnya adalah meminta detail sambungan untuk engsel, kaki, sekat, dan aksesori yang benar-benar akan dipakai.
 
-- **Original sources:** [US EPA Moisture Control Guidance for Building Design, Construction and Maintenance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association mold-prevention guidance](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Ground moisture-exposure classification, material storage, ventilation, edge/interface details, leak diagnosis, and repair/replace decisions.
-- **Safe grounded facts:** “Moisture resistant” is not “waterproof assembly.” Leaks, condensation, capillary contact, submerged/flood exposure, drainage, ventilation, edges, fastener holes, substrate, sealants, corrosion, and drying access can control service life and hygiene.
-- **Limits:** US/industry guidance is not an Indonesian code. Exact exposure category, replacement threshold, sealant, chemical, and drying/remediation method need site facts and product instructions; resolve `G-05`, `G-06`, and `G-11`.
+Kekakuan juga dipengaruhi bentang bebas dan tumpuan. Panel yang cukup kaku sebagai sekat pendek belum tentu stabil sebagai pintu lebar. Minta pemasok menyatakan batas penggunaan menurut konfigurasi, bukan hanya angka ketebalan. Tanpa data proyek dan hasil uji yang relevan, tandai keputusan struktural sebagai **[NEEDS G-01/G-02/G-03 REVIEW]**.
 
-### KR-13
+## Kondisi apa yang paling mengubah hasil di lapangan?
 
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
+Jembatani pilihan material dengan lingkungan nyata: kamar mandi ramai, ruang servis, area dekat sumber panas, dan lokasi dengan pembersihan sering memberi tuntutan berbeda. “Tahan lembap” berarti material memiliki batas terhadap air dalam kondisi tertentu; itu bukan izin untuk genangan, perendaman, atau kebocoran berulang. Panduan pengendalian kelembapan EPA menekankan bahwa sumber air, ventilasi, pengeringan, tepi, dan sambungan ikut menentukan hasil sistem (https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0).
 
-### KR-20
+Untuk area basah, cek arah aliran air, celah tepi, lubang sekrup, sealant, dan akses untuk mengeringkan bagian belakang panel. Kondensasi atau kebocoran kecil yang tidak terlihat dapat membuat inti, perekat, pengikat, atau substrat berubah sebelum noda muncul. Mintalah metode penyimpanan dan fabrikasi yang sesuai dengan produk; jangan menyalin prosedur dari panel lain.
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+Panas dapat mengubah dimensi dan membuat sambungan bekerja lebih keras. Ukur lokasi sumber panas dan tanyakan batas temperatur dalam lembar teknis. Untuk api, bedakan reaksi permukaan (seberapa mudah permukaan menyala atau menghasilkan asap) dari ketahanan api (berapa lama sistem pemisah mempertahankan fungsinya). Catatan katalog SNI 03-1736-2000 dan ruang lingkup uji ISO 834-1 menunjukkan bahwa penilaian terkait sistem dan metode uji, bukan klaim bahan tunggal (https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000; https://www.iso.org/standard/83943.html). Bukti uji harus mencakup panel, rangka, sambungan, penetrasi, pintu, dan cara pasang yang sama. Jika belum ada, gunakan penanda **[NEEDS G-01/G-10 REVIEW]**, bukan janji rating.
 
-## Evidence gates
+## Bagaimana memilih secara praktis tanpa terjebak label ringan?
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Gunakan urutan keputusan berikut agar spesifikasi menjawab risiko utama.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+1. **Tentukan beban dan benturan.** Catat apakah panel hanya menjadi sekat, atau juga menahan pintu, gantungan, dan dorongan berulang. Minta detail penguat dan bukti uji yang sesuai.
+2. **Petakan air dan panas.** Tunjukkan sumber air, arah pembersihan, genangan yang mungkin, serta peralatan panas. Pilih konfigurasi tepi dan sealant berdasarkan instruksi produk.
+3. **Pisahkan kebutuhan api dari kebutuhan kebersihan.** Panel yang mudah dilap belum tentu memiliki bukti ketahanan api. Untuk area yang mensyaratkan kinerja kebakaran, libatkan tenaga kompeten dan minta dokumen sistem.
+4. **Pastikan perawatan dapat dilakukan.** Tanyakan bahan pembersih yang kompatibel, cara mengganti pengikat, dan apakah bagian belakang dapat diperiksa. Panduan perawatan partisi Bobrick menempatkan pembersihan dan pemeriksaan sebagai pekerjaan yang mengikuti bahan serta komponennya (https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/).
+5. **Minta dokumen sebelum memesan.** Simpan lembar teknis, gambar sambungan, petunjuk fabrikasi, dan batas penggunaan dalam berkas serah-terima.
 
-## Internal-link plan
+## Skenario keputusan: kapan panel ringan masuk akal?
 
-### Existing local routes
+Bayangkan dua situasi tanpa menganggapnya sebagai hasil proyek tertentu. Pada sekat pendek dengan benturan rendah, akses pengikat mudah, dan tidak ada tuntutan rating api, panel PVC atau komposit bisa dipertimbangkan bila dokumen produk mendukung konfigurasi tersebut. Keuntungannya adalah penanganan yang lebih mudah, bukan jaminan umur pakai.
 
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-06-A` → `/artikel/matriks-material-cubicle.html` — Matriks Material Cubicle: Phenolic, PVC, Kayu, Kaca, dan Metal
-- `CUB-06-B` → `/artikel/panel-phenolic-dan-compact-laminate.html` — Panel Phenolic dan Compact Laminate: Bukti yang Perlu Diperiksa
-- `CUB-06-D` → `/artikel/kaca-metal-dan-korosi-cubicle.html` — Kaca, Metal, dan Korosi pada Sistem Cubicle
-- `CUB-06-E` → `/artikel/panel-kayu-finishing-dan-kelembapan.html` — Panel Berbasis Kayu, Finishing, dan Risiko Kelembapan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Panel PVC dan Komposit: Ringan Bukan Berarti Selalu Tepat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Panel PVC dan Komposit: Ringan Bukan Berarti Selalu Tepat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Panel PVC dan Komposit: Ringan Bukan Berarti Selalu Tepat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Panel PVC dan Komposit: Ringan Bukan Berarti Selalu Tepat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Panel PVC dan Komposit: Ringan Bukan Berarti Selalu Tepat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pada pintu lebar dengan engsel sering dipakai, troli melintas, atau sumber panas dan air sulit dikendalikan, bobot rendah tidak menyelesaikan jalur beban maupun antarmuka. Anda mungkin memerlukan inti lebih kaku, rangka atau penguat berbeda, dan detail tepi yang lebih terlindungi. Jika pemasok hanya memberi brosur tanpa detail itu, tahan keputusan dan minta tinjauan teknis.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Panel PVC dan Komposit: Ringan Bukan Berarti Selalu Tepat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan “komposit” dengan mutu tertentu. Periksa komposisi, arah lapisan, dan produsen; istilah umum tidak membuktikan kekakuan atau ketahanan benturan.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menganggap panel kedap air karena permukaannya tidak menyerap. Telusuri tepi, lubang, sambungan, dan bagian belakang. Cari sumber air dan rencana pengeringan sebelum mengganti panel.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah memakai hasil uji bahan sebagai rating seluruh cubicle. Minta identitas sistem lengkap dan metode pemasangan. Katalog BSN untuk SNI 1741:2008 hanya menunjukkan rekaman standar uji, bukan bahwa produk Anda lulus (https://pesta.bsn.go.id/produk/detail/7531-sni17412008).
 
-## Required conclusion
+Kesalahan keempat adalah memperbaiki gejala berulang dengan mengecat atau mengencangkan sekrup. Longgar, retak, korosi, atau pintu seret dapat berasal dari gerakan substrat, benturan, air, atau pemasangan. Dokumentasikan lokasi dan penyebab yang diduga; hentikan pekerjaan yang menyentuh sistem api, kaca, atau struktur sampai ditinjau pihak kompeten.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Apakah harga dan bobot boleh menjadi jalan pintas?
 
-## Draft completion checklist
+Boleh menjadi pertimbangan awal, tetapi bukan keputusan akhir. Panel lebih ringan dapat mengurangi beban penanganan, namun sistem tetap membutuhkan pengikat, penguat, dan pekerjaan tepi. Biaya penggantian akibat sambungan gagal atau pembersihan yang salah dapat menghapus penghematan awal.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kawan Cubicle.id, minta tiga hal tertulis: konfigurasi yang ditawarkan, batas lingkungan pemakaian, dan dokumen uji atau perawatan yang berlaku untuk produk itu. Bila salah satunya belum tersedia, simpulkan “belum cukup bukti”, bukan “pasti aman”. Untuk menyiapkan pertanyaan proyek, Anda dapat mulai dari [beranda Cubicle.id](/).
+
+## Kesimpulan: ringan adalah data awal, bukan vonis
+
+Panel PVC dan komposit tepat ketika konstruksi inti–kulit, jalur pengikat, paparan air dan panas, kebutuhan api, serta rencana perawatannya cocok dengan lokasi. Langkah berikutnya: kirim gambar ruang dan beban aksesori kepada pemasok, minta detail sambungan serta lembar teknis, lalu lakukan tinjauan teknis sebelum pemesanan. Teman Cubicle.id, pegang aturan ini: jika bukti hanya menyebut bahan atau panel, jangan mengubahnya menjadi klaim kinerja seluruh cubicle; tandai **[NEEDS TECHNICAL REVIEW]** dan putuskan setelah sistem lengkap diverifikasi.

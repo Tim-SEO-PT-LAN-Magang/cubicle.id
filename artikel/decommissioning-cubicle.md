@@ -2,8 +2,9 @@
 article_id: CUB-14-F
 title: "Decommissioning Cubicle: Salvage, Limbah, dan Dokumentasi"
 slug: "decommissioning-cubicle"
-description: "Define isolation/competence, inventory, hazardous uncertainty, disassembly plan, salvage grading, data/label control, waste streams, contractors, and records"
-status: outline
+description: "Panduan merencanakan pembongkaran cubicle secara bertanggung jawab: isolasi, pemilahan komponen, limbah, dan dokumentasi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-07-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,51 +15,24 @@ reader_address: "Kawan Cubicle.id"
 final_route: "/artikel/decommissioning-cubicle.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Home/Details/216870/permen-pupr-no-9-tahun-2021"
   - "https://www.iso.org/standard/69370.html"
-  - "https://www.iso.org/standard/87610.html"
-  - "https://www.iso.org/standard/14021.html"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
   - "https://www.who.int/westernpacific/newsroom/fact-sheets/detail/asbestos"
   - "https://www.ilo.org/resource/ilo-position-safety-use-asbestos"
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
-  - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+Halo, Kawan Cubicle.id! Membongkar cubicle lama bukan sekadar melepas panel lalu mengangkutnya. Kekeliruan umum adalah menganggap semua komponen otomatis bisa dipakai ulang atau dibuang sebagai limbah biasa. Padahal, status tiap bagian baru dapat diputuskan setelah isolasi, inventaris, pemeriksaan kondisi, dan tujuan akhirnya jelas.
+
+Urutan aman biasanya: hentikan dan amankan utilitas oleh tenaga listrik yang kompeten, catat apa yang ada, tandai bahan yang belum diketahui, susun metode bongkar, lalu pisahkan untuk dipakai ulang, diperbaiki, atau dikelola sebagai limbah. “Demountable” hanya menjelaskan kemungkinan dibongkar; itu tidak membuktikan komponen selamat, cocok, atau punya jalur pemulihan. [ISO 20887](https://www.iso.org/standard/69370.html) menempatkan desain untuk bongkar-pasang dalam konteks kondisi layanan, kerusakan, metode pembongkaran, dan tujuan berikutnya.
 
 # Decommissioning Cubicle: Salvage, Limbah, dan Dokumentasi
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Decommissioning Cubicle: Salvage, Limbah, dan Dokumentasi”
-- **Reader and situation:** Owner removing obsolete systems
-- **Reader outcome:** Define isolation/competence, inventory, hazardous uncertainty, disassembly plan, salvage grading, data/label control, waste streams, contractors, and records
-- **Primary intent:** Plan responsible end of life
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Kawan Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not claim recyclability or disposal routes without current local evidence; qualified electrical personnel own electrical decommissioning
-- **Final public route:** `/artikel/decommissioning-cubicle.html`
-- **Appointed CMS date:** `2026-07-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Decommissioning Cubicle: Salvage, Limbah, dan Dokumentasi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Cubicle.id`, `Sobat Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -69,138 +43,60 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Tetapkan kondisi awal, batas pekerjaan, dan isolasi sebelum pembongkaran
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Sebelum meminta harga atau memindahkan satu panel, tetapkan keputusan yang hendak dibuat: bagian mana yang benar-benar dikeluarkan, utilitas apa yang berpotensi terhubung, area mana yang tetap beroperasi, dan bukti serah terima apa yang dibutuhkan. Batas ini mencegah pekerjaan pembongkaran berubah menjadi renovasi tanpa persetujuan.
 
-### KR-01
+Tenaga listrik yang berwenang harus mengidentifikasi, memutus, dan memverifikasi kondisi aman pada rangkaian terkait. Penulis artikel ini tidak menetapkan prosedur isolasi listrik, karena penugasannya berada pada personel listrik berkualifikasi dan aturan proyek. Minta catatan isolasi, titik yang sudah diverifikasi, serta siapa yang berwenang mengembalikan energi.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Buat inventaris sederhana per ruang: kode lokasi, jumlah panel, pintu, engsel, kaki, pengikat, sealant, kaca, perangkat sanitair, kabel atau aksesori, dan kondisi terlihat. Foto seperlunya untuk mencocokkan nomor bagian; jangan menyimpulkan mutu tersembunyi hanya dari foto. Tandai komponen yang basah, berkarat, retak, berubah bentuk, atau tidak diketahui riwayatnya.
 
-### KR-22
+Kawan Cubicle.id, pisahkan fakta dari dugaan. Kolom “terlihat”, “perlu pemeriksaan”, dan “keputusan sementara” membuat tim tidak menjual kembali bagian yang sebenarnya belum layak dinilai.
 
-- **Original sources:** [Permen PUPR No. 9 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Home/Details/216870/permen-pupr-no-9-tahun-2021), [ISO 20887:2020 design for disassembly/adaptability](https://www.iso.org/standard/69370.html), [ISO 14025:2026 environmental product declarations](https://www.iso.org/standard/87610.html), [ISO 14021:2026 self-declared environmental claims](https://www.iso.org/standard/14021.html)
-- **Purpose for this article:** Ground demountability, reuse, waste, EPD, and “green” claims in life-cycle evidence rather than slogans.
-- **Safe grounded facts:** “Demountable” does not prove reusable after removal, and an EPD does not automatically make one product preferable. Evaluation needs a common functional unit/scope, service conditions, replacement, maintenance, damage, disassembly method, recovery route, transport, and verified destination.
-- **Limits:** ISO abstracts do not supply project results. Verify current documents, comparable PCR/boundaries, Indonesian waste routes, and actual reuse/recycling capacity; resolve `G-14`.
+## Susun metode bongkar berdasarkan material, akses, dan risiko tersembunyi
 
-### KR-15
+Metode bongkar menjawab bagaimana komponen dilepas tanpa menambah kerusakan atau debu berbahaya. Tetapkan jalur keluar, ruang penyimpanan sementara, perlindungan lantai dan area yang tetap dipakai, urutan pelepasan, serta alat yang diizinkan. Jika panel harus dipotong karena sambungan macet, itu mengubah peluang salvage dan harus dicatat sebelum pekerjaan berjalan.
 
-- **Original sources:** [US EPA Moisture Control Guidance for Building Design, Construction and Maintenance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association mold-prevention guidance](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Ground moisture-exposure classification, material storage, ventilation, edge/interface details, leak diagnosis, and repair/replace decisions.
-- **Safe grounded facts:** “Moisture resistant” is not “waterproof assembly.” Leaks, condensation, capillary contact, submerged/flood exposure, drainage, ventilation, edges, fastener holes, substrate, sealants, corrosion, and drying access can control service life and hygiene.
-- **Limits:** US/industry guidance is not an Indonesian code. Exact exposure category, replacement threshold, sealant, chemical, and drying/remediation method need site facts and product instructions; resolve `G-05`, `G-06`, and `G-11`.
+Kelembapan juga mengubah keputusan. Bahan “tahan lembap” bukan berarti seluruh rakitan kedap air; kebocoran, kondensasi, kontak kapiler, lubang pengikat, tepi panel, ventilasi, dan akses pengeringan memengaruhi umur pakai. [Panduan EPA tentang pengendalian kelembapan](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0) menekankan diagnosis sumber air dan kemampuan mengeringkan, bukan sekadar mengelap permukaan. Simpan panel di tempat kering dan berventilasi sesuai petunjuk material; jangan menutup bahan yang masih basah.
 
-### KR-23
+Hentikan pekerjaan bila menemukan papan, insulasi, perekat, pelapis, atau debu lama yang asalnya tidak jelas dan berpotensi mengandung asbestos atau kontaminan lain. Pemeriksaan visual tidak cukup untuk membebaskannya. Pemotongan, pengeboran, pengamplasan, atau pembongkaran kasar dapat mengubah bahan terkandung menjadi debu dan limbah tercemar. [WHO](https://www.who.int/westernpacific/newsroom/fact-sheets/detail/asbestos) dan [ILO](https://www.ilo.org/resource/ilo-position-safety-use-asbestos) menjelaskan perlunya pengendalian profesional; jangan mengambil sampel atau mengangkat bahan yang dicurigai sendiri. **[NEEDS LOCAL REVIEW: prosedur identifikasi, pengujian, dan pengelolaan bahan berbahaya di lokasi]**
 
-- **Original sources:** [WHO asbestos fact sheet, 27 September 2024](https://www.who.int/westernpacific/newsroom/fact-sheets/detail/asbestos), [ILO position on safety in the use of asbestos](https://www.ilo.org/resource/ilo-position-safety-use-asbestos), [PP No. 22 Tahun 2021 environmental and waste-management framework — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html)
-- **Purpose for this article:** Establish a stop-before-disturbance gate for old boards, insulation, adhesives, coatings, contaminated wet areas, and unknown demolition waste.
-- **Safe grounded facts:** Visual inspection cannot reliably clear an unknown legacy material. Cutting, drilling, sanding, or demolition can turn a contained hazard into airborne dust or contaminated waste; flood/sewage or mold conditions add separate assessment needs.
-- **Limits:** Foreign WHO/ILO guidance does not define the complete Indonesian legal procedure. Do not tell readers to sample or remove suspect material themselves. Resolve `G-07`, `G-11`, and current local environmental requirements before procedural content.
+## Nilai komponen untuk dipakai ulang dengan kriteria yang bisa diperiksa
 
-### KR-03
+Salvage berarti menyimpan komponen untuk penggunaan berikutnya, bukan sekadar menumpuk barang. Kelompokkan hasil bongkar menjadi: siap diperiksa untuk dipakai ulang, perlu perbaikan atau pembersihan, hanya sumber suku cadang, dan tidak layak dipulihkan. Beri setiap kelompok alasan yang dapat ditelusuri—misalnya sambungan lengkap atau pecah, korosi permukaan atau menembus, kering atau pernah terendam—tanpa memberi jaminan performa.
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
+Ukur kecocokan terhadap fungsi baru: ukuran ruang, sistem pengikat, arah pintu, privasi, sanitair, dan kondisi substrat. Satu dimensi produk tidak membuktikan seluruh jalur atau ruang dapat digunakan; aksesibilitas merupakan koordinasi rute, ruang pendekatan, operasi pintu, dan perlengkapan. Untuk keputusan desain, gunakan regulasi dan tinjauan proyek yang berlaku, bukan asumsi dari katalog lama. **[NEEDS PROFESSIONAL REVIEW: kesesuaian layout dan aksesibilitas untuk lokasi tujuan]**
 
-## Evidence gates
+Labeli setiap komponen dengan ID inventaris, lokasi asal, tanggal bongkar, status pemeriksaan, dan keputusan. Lepaskan label sensitif, kunci, atau data penghuni dari panel sebelum dipindahkan; simpan daftar pemetaan secara terbatas. Jangan mencampur bagian dari beberapa ruang tanpa rekaman, karena asal dan kondisi tidak lagi dapat dibuktikan.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+## Pisahkan aliran limbah dan tetapkan penerima yang dapat ditelusuri
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Limbah bukan kategori “yang tersisa setelah salvage”. Pisahkan setidaknya material panel, logam, kaca, plastik, sealant atau bahan campuran, dan material yang dicurigai terkontaminasi. Tanyakan kepada pengelola bangunan dan kontraktor berizin tentang klasifikasi, wadah, pengangkutan, dan fasilitas penerima yang benar-benar tersedia di lokasi. Jangan menjanjikan daur ulang atau rute pembuangan tanpa bukti mutakhir.
 
-## Internal-link plan
+Kerangka lingkungan dan pengelolaan limbah di Indonesia perlu diverifikasi untuk kondisi proyek. [PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html) menjadi salah satu rujukan resmi, tetapi tidak menggantikan penetapan jenis limbah dan persyaratan setempat oleh pihak berwenang. Minta bukti timbang, tanda terima, atau dokumen penerimaan sesuai kontrak; simpan nomor dan tanggalnya.
 
-### Existing local routes
+## Bandingkan penawaran dari lingkup dan bukti yang sama
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Penawaran sebanding harus menyebut jumlah ruang, urutan isolasi, metode pelepasan, perlindungan area, pemilahan, pengemasan, angkut, pembersihan, pemeriksaan bahan tidak dikenal, dan keluaran dokumentasi. Tulis juga inklusi, eksklusi, asumsi akses, jam kerja, waktu tunggu, serta siapa membayar pekerjaan tambahan setelah kondisi terbuka.
 
-### Planned sibling articles
+Tanyakan kepada penyedia: siapa penanggung jawab listrik; bagaimana komponen diberi ID; apa kriteria “siap dipakai ulang”; bagaimana bahan basah atau terkontaminasi dihentikan; ke fasilitas mana tiap aliran dibawa; dan dokumen apa yang diterima pada akhir pekerjaan. Jawaban lisan tanpa nama penanggung jawab dan bukti penerimaan adalah celah scope, bukan kepastian.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Kenali tanda bahaya sebelum menyetujui pekerjaan
 
-- `CUB-14-D` → `/artikel/retrofit-cubicle-di-gedung-beroperasi.html` — Memasang atau Mengganti Cubicle di Gedung yang Tetap Beroperasi
-- `CUB-14-E` → `/artikel/cubicle-mudah-diubah-diperbaiki-dipakai-ulang.html` — Desain Cubicle agar Mudah Diubah, Diperbaiki, dan Dipakai Ulang
+Waspadai harga borongan yang tidak menyebut jumlah komponen, klaim “semua bisa didaur ulang”, permintaan memotong panel agar cepat, atau janji selesai tanpa rencana area tetap beroperasi. Biaya tersembunyi biasanya muncul dari akses terbatas, penyimpanan sementara, menunggu isolasi, pembersihan debu, pengemasan khusus, dan perubahan metode setelah material terbuka.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Sobat Cubicle.id, shortcut “angkut semuanya dulu, pilah nanti” menghapus jejak asal, mencampur material berisiko, dan membuat nilai salvage tidak dapat dibuktikan. Alternatif yang lebih dapat dipertanggungjawabkan adalah karantina sementara, label per komponen, dan keputusan tertulis setelah pemeriksaan kompeten.
 
-## Definisikan kebutuhan sebelum meminta harga
+## Terima pekerjaan dengan rekaman yang menjawab siapa, apa, dan ke mana
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Decommissioning Cubicle: Salvage, Limbah, dan Dokumentasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum acceptance, cocokkan daftar inventaris awal dengan daftar yang dibongkar, disimpan, dipakai ulang, atau diserahkan sebagai limbah. Periksa bahwa area sudah aman untuk dikembalikan, utilitas ditangani oleh pihak berwenang, dan temuan tak dikenal memiliki status terbuka atau penutupan profesional.
 
-## Buat penawaran benar-benar sebanding
+Paket serah terima minimal memuat foto dan ID sebelum-sesudah, log isolasi, daftar komponen dan kondisinya, catatan penyimpangan, nama pihak yang memeriksa, serta bukti penerimaan dari tujuan material atau limbah bila tersedia. Simpan versi tanggalnya; jangan mengubah “perlu review” menjadi “lulus” hanya agar formulir tertutup.
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Decommissioning Cubicle: Salvage, Limbah, dan Dokumentasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah berikutnya: buat lembar keputusan sebelum kontraktor datang
 
-## Dokumen yang membuktikan hal berbeda
+Jawaban singkatnya: rencanakan decommissioning cubicle sebagai rangkaian isolasi, inventaris, pemeriksaan bahaya, bongkar terkendali, grading salvage, pemilahan limbah, dan dokumentasi. Mulailah dengan satu lembar per ruang yang memuat batas pekerjaan, penanggung jawab listrik, status material tidak dikenal, tujuan tiap aliran, dan bukti yang harus diterima.
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Decommissioning Cubicle: Salvage, Limbah, dan Dokumentasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pertanyaan wajib kepada penyedia
-
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Decommissioning Cubicle: Salvage, Limbah, dan Dokumentasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Red flag dan biaya yang sering tersembunyi
-
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Decommissioning Cubicle: Salvage, Limbah, dan Dokumentasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Penerimaan, serah terima, dan keputusan akhir
-
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Decommissioning Cubicle: Salvage, Limbah, dan Dokumentasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Minta tinjauan profesional untuk listrik, bahan berbahaya, aksesibilitas, serta aturan limbah yang berlaku di lokasi. Anda dapat memakai [beranda Cubicle.id](/) untuk kembali ke konteks layanan dan dokumentasi umum, tetapi keputusan teknis tetap berada pada tim proyek. **[NEEDS COORDINATOR TECHNICAL REVIEW: verifikasi prosedur lokal, kompetensi kontraktor, dan rute penerimaan aktual sebelum publikasi.]** Aturan operasinya sederhana: jangan mengganggu material yang belum dikenali, jangan menyebut sesuatu “siap dipakai ulang” tanpa pemeriksaan dan rekaman, dan jangan menutup pekerjaan tanpa bukti ke mana setiap bagian pergi.

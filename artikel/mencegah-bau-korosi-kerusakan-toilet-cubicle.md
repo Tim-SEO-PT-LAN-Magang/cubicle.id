@@ -2,8 +2,9 @@
 article_id: CUB-04-F
 title: "Mengurangi Bau, Korosi, dan Kerusakan pada Toilet Cubicle"
 slug: "mencegah-bau-korosi-kerusakan-toilet-cubicle"
-description: "Connect ventilation, leakage, edges, fasteners, cleaning chemistry, drying, inspection, and repair escalation"
-status: outline
+description: "Panduan praktis menghubungkan ventilasi, kebocoran, tepi panel, pengikat, bahan pembersih, pengeringan, inspeksi, dan eskalasi perbaikan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,52 +15,22 @@ reader_address: "Sobat Cubicle.id"
 final_route: "/artikel/mencegah-bau-korosi-kerusakan-toilet-cubicle.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://www.iso.org/standard/72960.html"
-  - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
-  - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
+  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
+  - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Mengurangi Bau, Korosi, dan Kerusakan pada Toilet Cubicle
 
-## Assignment lock
+Halo, Sobat Cubicle.id! Toilet sudah dibersihkan, tetapi bau tetap muncul; sekrup menguning; tepi panel menghitam atau pintu mulai seret. Situasi seperti ini sering membuat pengelola langsung menyalahkan bahan panel atau menambah pewangi. Padahal, bau, korosi, dan kerusakan dapat berasal dari rangkaian yang sama: uap air tidak keluar, air merembes ke sambungan, lalu residu pembersih dan pengikat mempercepat penurunan kondisi.
 
-- **Writer task:** Expand this file into one complete article answering: “Mengurangi Bau, Korosi, dan Kerusakan pada Toilet Cubicle”
-- **Reader and situation:** Facility manager with recurring restroom problems
-- **Reader outcome:** Connect ventilation, leakage, edges, fasteners, cleaning chemistry, drying, inspection, and repair escalation
-- **Primary intent:** Prevent wet-area deterioration
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Sobat Cubicle.id`
-- **Natural variants:** `Kawan Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not diagnose mold or swelling in detail; CUB-13-C owns moisture defects and CUB-09-C owns cleaning compatibility
-- **Final public route:** `/artikel/mencegah-bau-korosi-kerusakan-toilet-cubicle.html`
-- **Appointed CMS date:** `2025-11-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: kendalikan sumber air dan udara lembap, pastikan detail tepi serta pengikat tetap kering, gunakan bahan pembersih yang kompatibel, dan catat gejala sebelum memutuskan perbaikan. Jika ada gerakan panel, kebocoran aktif, pengikat lepas, atau bagian yang mengganggu keselamatan dan akses, batasi penggunaan dan minta pemeriksaan kompeten. Kondisi bangunan, sistem ventilasi, dan spesifikasi produk setempat dapat mengubah keputusan teknis.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mengurangi Bau, Korosi, dan Kerusakan pada Toilet Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Cubicle.id`, `Kawan Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -70,138 +41,54 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Mulai dari gejala toilet cubicle, bukan tebakan penyebab
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Sebelum memilih obat atau mengganti panel, ubah keluhan menjadi catatan yang bisa dibandingkan. Tulis lokasi bau atau karat, kapan muncul, bagian yang basah, perubahan setelah hujan atau pembersihan, dan apakah pintu masih menutup normal. Satu gejala tidak otomatis menunjuk satu penyebab; misalnya bau di sudut dapat berkaitan dengan genangan, saluran, atau udara yang tidak tertukar.
 
-### KR-01
+Pisahkan apa yang dilihat dari dugaan. “Ada tetes air di bawah kaki panel” adalah observasi; “panel pasti bocor” adalah kesimpulan yang belum diuji. Foto sebelum dan sesudah area dikeringkan, tanpa membuka komponen, membantu tim melihat apakah masalah berulang di titik yang sama. Jika sumbernya berada di balik dinding atau lantai, jangan membongkar sendiri—tandai kebutuhan pemeriksaan.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+## Saringan risiko langsung sebelum toilet dipakai kembali
 
-### KR-03
+Bagian ini penting agar program pencegahan tidak berubah menjadi pekerjaan yang menambah risiko. Periksa dengan mata dan sentuhan ringan saja: apakah panel atau pilaster bergerak, kaki atau braket longgar, tepi tajam, pintu tidak dapat dibuka, atau air terus mengalir ke area pengguna. Batasi akses pada bilik yang menunjukkan kondisi tersebut dan pasang penanda sementara sesuai prosedur fasilitas.
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
+Kebocoran aktif, pengikat yang gagal, atau bagian yang dapat jatuh memerlukan pemeriksaan orang kompeten. Jangan mengencangkan secara paksa atau menyemprot cairan ke dalam mekanisme kunci dan engsel tanpa petunjuk produk. Untuk kebutuhan aksesibilitas, tata letak, ayunan pintu, ruang pendekatan, dan perlengkapan harus dinilai sebagai satu kesatuan; status peraturan dapat dilihat pada [Permen PUPR No. 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), tetapi angka atau penerapannya tetap perlu ditinjau untuk proyek yang berlaku.
 
-### KR-08
+## Kemungkinan mekanisme bau, korosi, dan kerusakan
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+Jembatani gejala ke mekanisme supaya tindakan tidak berhenti pada pewangi. Udara lembap yang menetap membuat permukaan lebih lama basah. Pedoman pengendalian kelembapan EPA menekankan pengelolaan sumber air, pengeringan, dan ventilasi sebagai rangkaian pemeliharaan, bukan satu perangkat tunggal ([EPA Moisture Control Guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)). Karena itu, catat apakah exhaust bekerja, apakah udara pengganti tersedia, dan apakah kisi tertutup debu; jangan menyimpulkan kapasitas hanya dari suara kipas.
 
-### KR-09
+Air dapat masuk melalui sambungan lantai, celah tepi, lubang pengikat, atau kebocoran dari perlengkapan di sekitarnya. Panel kompak atau HPL (laminasi tekanan tinggi) tetap merupakan bagian dari sistem: konfigurasi panel, pintu, kaki, braket, dan penyangga menentukan jalur beban serta akses pembersihan. Lubang atau tepi yang dibuat tanpa mengikuti petunjuk sistem dapat menahan air dan mempercepat kerusakan. Detail pemasangan dan pemeliharaan harus mengikuti dokumen produk yang benar, bukan label bahan semata.
 
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
+Korosi pada sekrup atau engsel dapat dipicu air, residu kimia, atau pasangan logam yang tidak sesuai. Pembersih yang terlalu keras atau dibiarkan mengering di permukaan bisa merusak lapisan dan membuat noda berulang. Panduan perawatan pabrikan, seperti sumber pemeliharaan Bobrick, berguna sebagai rujukan produk tertentu; jangan mengubahnya menjadi jaminan untuk semua merek ([Bobrick cleaning and maintenance](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/)).
 
-### KR-20
+## Urutan pemeriksaan toilet cubicle yang aman
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+Mulai dari pemeriksaan tanpa alat: cari air tersisa, noda yang kembali setelah pengeringan, bau yang mengikuti waktu tertentu, dan bagian yang berubah warna. Lanjutkan dengan memeriksa ventilasi, saluran, sambungan, kaki, engsel, kait, serta kondisi lantai di sekitar bilik. Bersihkan dan keringkan area kecil terlebih dahulu agar Anda dapat membedakan noda lama dari kebocoran baru.
 
-## Evidence gates
+Berikutnya, cocokkan temuan dengan dokumen serah terima, gambar pemasangan, dan petunjuk pembersihan produk. Bila masalah muncul setelah bahan kimia atau metode baru diterapkan, hentikan percobaan tersebut dan simpan nama produk, pengenceran, waktu kontak, serta tanggal kejadian. Jangan menguji campuran bahan kimia atau mengamplas permukaan tanpa persetujuan teknis.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-04-D` → `/artikel/toilet-cubicle-untuk-trafik-tinggi.html` — Toilet Cubicle untuk Trafik Tinggi: Apa yang Harus Dibuktikan?
-- `CUB-04-E` → `/artikel/toilet-cubicle-untuk-anak-dan-keluarga.html` — Toilet Cubicle untuk Anak dan Keluarga: Desain yang Inklusif
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Mulai dari gejala, bukan tebakan penyebab
-
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Mengurangi Bau, Korosi, dan Kerusakan pada Toilet Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Saringan risiko langsung
-
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Mengurangi Bau, Korosi, dan Kerusakan pada Toilet Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kemungkinan mekanisme
-
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Mengurangi Bau, Korosi, dan Kerusakan pada Toilet Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Urutan pemeriksaan dan pengujian
-
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Mengurangi Bau, Korosi, dan Kerusakan pada Toilet Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika penyebab belum jelas, minta pemeriksaan terarah: uji sumber kebocoran, pemeriksaan kestabilan pengikat, atau evaluasi ventilasi oleh pihak yang berwenang. Tetapkan area, metode, dan kriteria keputusan sebelum pengujian. Catatan ini mencegah perbaikan kosmetik berulang yang hanya menutupi gejala.
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Mengurangi Bau, Korosi, dan Kerusakan pada Toilet Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil inspeksi menjawab pertanyaan tertentu, bukan semuanya. Panel kering setelah dilap menunjukkan kondisi saat itu; tidak membuktikan tidak ada rembesan di balik sambungan. Sekrup yang berkarat menunjukkan perubahan pada pengikat; belum membuktikan panel harus diganti seluruhnya. Hubungkan setiap temuan dengan lokasi, waktu, kemungkinan mekanisme, dan batas metode pemeriksaan.
 
-## Pilihan tindakan dan titik eskalasi
+Gunakan tiga kolom dalam laporan: fakta yang diamati, dugaan yang masih perlu diuji, dan keputusan sementara. Contohnya, “bau kembali dua jam setelah dibersihkan” adalah fakta; “udara lembap atau sumber air belum terkendali” adalah dugaan; “jadwalkan pemeriksaan ventilasi dan kebocoran” adalah keputusan. Sobat Cubicle.id, format sederhana ini membuat diskusi dengan vendor dan teknisi lebih jujur.
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Mengurangi Bau, Korosi, dan Kerusakan pada Toilet Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Pilihan tindakan dan titik eskalasi perbaikan
 
-## Objection or shortcut to address
+Kontrol sementara dapat berupa mengeringkan area, membatasi bilik, memperbaiki kebocoran yang sudah terverifikasi, dan meningkatkan pencatatan. Tindakan ini bukan pengganti perbaikan permanen. Setelah sumber air dan penyebab gerakan diketahui, tentukan apakah cukup mengganti pengikat, memperbaiki detail tepi, mengganti komponen, atau mengulang bagian sistem sesuai instruksi produsen.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Eskalasi diperlukan bila kerusakan berulang, panel atau penyangga bergerak, terdapat bagian tajam, kebocoran berasal dari struktur bangunan, atau keputusan menyentuh aksesibilitas dan keselamatan. Minta lingkup kerja tertulis, identifikasi produk, metode pembersihan, dan kriteria penerimaan. Jangan menerima klaim ketahanan, garansi, atau kepatuhan tanpa dokumen yang berlaku untuk produk dan proyek Anda.
 
-## Required conclusion
+## Jalan pintas “tinggal tambah pewangi” dan mengapa gagal
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Pewangi hanya menutupi bau untuk sementara. Jika kelembapan atau air tetap ada, bau kembali dan lingkungan basah terus membebani tepi panel serta pengikat. Jalan yang lebih andal adalah menghilangkan sumber air, memastikan pertukaran udara, mengeringkan permukaan, lalu memeriksa detail yang rusak. Kawan Cubicle.id, biaya dan waktu pengulangan biasanya lebih mudah dikendalikan ketika penyebab dicatat sebelum komponen dibeli.
 
-## Draft completion checklist
+## Langkah berikutnya untuk pengelola fasilitas
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Buat satu lembar log untuk setiap bilik: lokasi gejala, waktu, kondisi basah, tindakan pembersihan, perubahan ventilasi, dan foto. Dalam rapat pemeliharaan berikutnya, bawa log itu bersama petunjuk produk dan gambar pemasangan. Minta pemeriksaan kompeten untuk temuan yang menyangkut kestabilan, kebocoran tersembunyi, aksesibilitas, atau bahan kimia yang tidak jelas kompatibilitasnya. Dokumen pendukung lain dapat ditelusuri dari [beranda Cubicle.id](/).
+
+Intinya, mengurangi bau, korosi, dan kerusakan toilet cubicle berarti mengendalikan kelembapan dan air, menjaga detail sistem tetap sesuai petunjuk, membersihkan secara kompatibel, serta mengeskalasi gejala berisiko. Jika bukti proyek atau produk belum tersedia, berhenti pada keputusan aman dan tandai `[NEEDS TECHNICAL REVIEW: G-02/G-03/G-05]`; jangan mengganti ketidakpastian dengan tebakan.

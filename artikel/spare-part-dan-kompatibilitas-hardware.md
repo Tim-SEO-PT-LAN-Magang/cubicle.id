@@ -2,8 +2,9 @@
 article_id: CUB-07-F
 title: "Strategi Spare Part dan Kompatibilitas Hardware Cubicle"
 slug: "spare-part-dan-kompatibilitas-hardware"
-description: "Define critical spares, model/finish records, interchangeability evidence, storage, obsolescence, substitute approval, and reorder triggers"
-status: outline
+description: "Panduan praktis menyusun suku cadang kritis, catatan model dan finishing, bukti kecocokan, penyimpanan, penggantian produk usang, persetujuan substitusi, serta pemicu pemesanan ulang."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,11 +16,6 @@ final_route: "/artikel/spare-part-dan-kompatibilitas-hardware.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://www.iso.org/standard/72960.html"
-  - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
   - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
@@ -28,37 +24,86 @@ sources:
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+Halo, Teman Cubicle.id!
 
 # Strategi Spare Part dan Kompatibilitas Hardware Cubicle
 
-## Assignment lock
+Ketika satu engsel, kunci, kaki penyangga, atau panel cubicle rusak, membeli barang yang “kelihatannya sama” sering terasa paling cepat. Padahal lubang, arah bukaan, ketebalan panel, finishing, dan cara beban diteruskan ke lantai dapat berbeda. Akibatnya suku cadang baru tidak terpasang, pintu tidak sejajar, atau sistem justru kehilangan kestabilan.
 
-- **Writer task:** Expand this file into one complete article answering: “Strategi Spare Part dan Kompatibilitas Hardware Cubicle”
-- **Reader and situation:** Owner concerned about future availability
-- **Reader outcome:** Define critical spares, model/finish records, interchangeability evidence, storage, obsolescence, substitute approval, and reorder triggers
-- **Primary intent:** Plan maintainable replacement parts
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Teman Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Kawan Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not set maintenance intervals; CUB-12-A owns planning and CUB-10-E owns warranty/spares procurement
-- **Final public route:** `/artikel/spare-part-dan-kompatibilitas-hardware.html`
-- **Appointed CMS date:** `2026-01-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Strateginya adalah membuat daftar suku cadang kritis berbasis identitas komponen dan antarmukanya, menyimpan bukti kecocokan, lalu menetapkan pemicu pemesanan ulang. Komponen pengganti baru boleh disebut kompatibel jika model, ukuran yang relevan, bahan/finishing, pola lubang, arah pemasangan, dan dukungan bangunannya cocok atau telah disetujui secara tertulis. Bukti itu bisa berupa gambar kerja, lembar produk, instruksi pemasangan, dan pemeriksaan lapangan—bukan sekadar nama dagang.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Strategi Spare Part dan Kompatibilitas Hardware Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.id`, `Sobat Cubicle.id`, or `Kawan Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Apa yang dimaksud strategi spare part cubicle?
+
+Sebelum menyusun daftar belanja, bedakan “spare part” dari persediaan sembarang. Bagian ini menjelaskan objek yang harus dicatat dan batas keputusan agar Anda tidak mencampur pemeliharaan berkala dengan pengadaan pengganti.
+
+Suku cadang kritis adalah bagian yang jika gagal menghentikan penggunaan bilik, mengganggu privasi, atau membuat pintu dan panel tidak aman untuk dioperasikan. Contohnya dapat mencakup engsel, latch atau pengunci, indikator kosong/terisi, bracket, kaki, sekrup khusus, dan panel pengganti. Daftar final tetap bergantung pada sistem yang terpasang; artikel ini tidak menetapkan interval pemeliharaan maupun ketentuan garansi atau pengadaan.
+
+Catat setiap item dengan identitas yang dapat diverifikasi: nama komponen, kode pabrikan, versi atau tahun, sisi kiri/kanan, orientasi, bahan, warna/finishing, ketebalan panel, serta lokasi pemasangan. Tambahkan foto label dan gambar sederhana pola lubang bila diizinkan prosedur proyek. Catatan model tanpa finishing dan orientasi belum cukup untuk pemesanan.
+
+## Bagaimana membuktikan hardware pengganti benar-benar kompatibel?
+
+Kata “kompatibel” berarti antarmuka pengganti bekerja pada sistem yang sama tanpa mengubah fungsi atau jalur bebannya. Jadi, pemeriksaan harus mengikuti urutan dari dokumen ke benda terpasang, bukan dari kemasan ke asumsi.
+
+Mulai dari lembar produk dan instruksi pemasangan. Dokumen sistem menunjukkan hubungan panel, pilaster, pintu, latch, engsel, kaki, headrail, bracket, anchor, celah, dan penyangga bangunan. Instruksi Bobrick, misalnya, memperlihatkan bahwa konfigurasi dan urutan pemasangan merupakan bagian dari sistem, bukan detail dekoratif ([instruksi pemasangan Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)). Panduan fabrikasi compact laminate juga menekankan pengondisian, lubang, tepi, dan pengikat; jangan menyalin dimensinya ke produk lain tanpa persetujuan ([panduan fabrikasi Formica](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)).
+
+Berikutnya cocokkan lima antarmuka: bidang kontak dan ketebalan, pola serta diameter lubang, arah bukaan, jenis ulir atau pengikat, dan ruang gerak saat dibersihkan. Jika satu saja berbeda, tandai “perlu verifikasi”, bukan “setara”. Penggantian panel juga harus memeriksa perubahan dimensi akibat kelembapan dan detail tepi; label HPL atau compact saja tidak membuktikan kecocokan seluruh cubicle ([bukti material compact-grade Bobrick](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/)).
+
+## Faktor lingkungan dan bangunan yang mengubah keputusan spare part
+
+Komponen yang cocok di meja belum tentu cocok setelah dipasang. Jembatan ini penting karena kerusakan sering berasal dari lingkungan, gerakan bangunan, atau akses pembersihan—bukan dari komponen tunggal.
+
+Di area basah, periksa jalur air, bahan pengikat, tepi panel, dan kemudahan pembersihan. “Tahan lembap” tidak sama dengan boleh terendam; klaim satu panel juga tidak otomatis berlaku untuk anchor, hardware, atau sambungan. Pastikan lembar produk yang dirujuk memang untuk kelas penggunaan dan pasar yang sama.
+
+Untuk dinding tinggi, bukaan pintu, partisi penuh, sistem gantung atas, atau beban tambahan, minta pemeriksaan jalur beban dan gerakan bangunan. SNI 1727:2020 dan SNI 1726:2019 tercatat sebagai rujukan beban minimum dan gempa, sedangkan FEMA E-74 menjelaskan risiko kerusakan elemen nonstruktural; sumber-sumber itu tidak memberi detail universal stud, anchor, atau jarak pengikat untuk proyek Anda ([katalog SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [katalog SNI 1726:2019](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)). Karena itu, detail penggantian yang mengubah titik tumpu memerlukan [NEEDS G-01/G-03/G-06: review profesional dan bukti proyek].
+
+Aksesibilitas adalah keputusan ruang dan operasi, bukan ukuran satu hardware. Arah ayun, ruang pendekatan, privasi, visibilitas, dan fittings perlu dibaca bersama tata letak sanitair sesuai ketentuan Indonesia ([Permen PUPR No. 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)). Jangan menganggap latch pengganti otomatis mempertahankan aksesibilitas.
+
+## Contoh keputusan praktis saat memilih dan menyimpan spare part
+
+Contoh berikut adalah cara berpikir, bukan spesifikasi proyek. Gunakan kolom bukti untuk memisahkan fakta terukur dari dugaan.
+
+| Situasi | Bukti yang dicari | Keputusan sementara |
+|---|---|---|
+| Latch rusak, kode dan arah sama | Kode, foto, pola lubang, instruksi | Pesan setelah pemeriksaan fisik cocok |
+| Finishing sudah tidak tersedia | Sampel warna, kode lama, persetujuan desain | Tahan pengadaan; minta persetujuan substitusi tertulis |
+| Panel mengembang di area basah | Kondisi tepi, ventilasi, sumber air, lembar produk | Cari penyebab dan review sistem; jangan hanya ganti panel |
+| Bracket diganti pada partisi tinggi | Gambar tumpuan, anchor, beban, gerakan | Hentikan pemasangan sampai review profesional |
+
+Simpan suku cadang di tempat kering dan terlindung, dengan kemasan serta label identitas tetap terbaca. Pisahkan item kiri/kanan dan finishing berbeda. Terapkan pencatatan keluar-masuk sederhana: tanggal, lokasi, alasan penggantian, dan sisa jumlah. Catatan ini membantu menemukan pola kegagalan tanpa mengarang umur pakai. Untuk menata dokumen pendukung, Anda dapat kembali ke [beranda Cubicle.id](/) sebagai titik navigasi umum.
+
+## Bagaimana menetapkan substitusi, keusangan, dan pemesanan ulang?
+
+Substitusi bukan keputusan harga semata. Bagian ini menjelaskan gerbang persetujuan supaya barang yang tersedia tidak mengubah fungsi atau tampilan tanpa disadari.
+
+Buat status tiga tingkat: “disetujui”, “perlu verifikasi”, dan “ditolak”. Substitusi naik ke status disetujui hanya setelah pembanding menutup identitas, antarmuka, bahan/finishing, instruksi pemasangan, dan dampak ruang. Minta pemasok atau penanggung jawab teknis menandatangani perbandingan; simpan versi dokumen dan tanggalnya.
+
+Tandai komponen usang ketika kode dihentikan, dokumen berubah, pemasok tidak lagi menjamin kecocokan, atau finishing tidak dapat ditelusuri. Jangan mengganti kode lama dengan kode baru secara otomatis. Buat catatan “pengganti yang disetujui” dan komponen yang ikut berubah, misalnya sekrup atau bracket yang tidak lagi sama.
+
+Pemicu pemesanan ulang sebaiknya berbasis kondisi nyata: satu item kritis dipakai, stok turun di bawah jumlah minimum yang disetujui, waktu pasok berubah, atau ditemukan kegagalan berulang. Nilai minimum dan waktu pasok harus berasal dari data proyek/pemasok; [NEEDS G-07/G-08: tetapkan angka reorder dan lead time berdasarkan catatan aktual].
+
+## Kesalahan umum dan cara memeriksanya
+
+Kesalahan paling mahal biasanya terjadi sebelum teknisi menyentuh bilik. Pemeriksaan singkat berikut mengubah shortcut menjadi pertanyaan yang bisa dijawab.
+
+- Mengandalkan foto katalog: cocokkan kode, orientasi, dan pola lubang pada benda terpasang.
+- Menganggap semua compact laminate sama: cek kelas penggunaan, tepi, kelembapan, dan instruksi produk yang tepat.
+- Membeli hardware universal: pastikan jalur beban, pengikat, ruang gerak, dan dukungan bangunan tidak berubah.
+- Menghapus label lama: foto dan arsipkan label sebelum komponen dilepas.
+- Mengganti tanpa uji fungsi: lakukan pemeriksaan pembukaan, penguncian, privasi, dan kestabilan sesuai prosedur proyek; jangan menyatakan lulus tanpa kriteria yang disetujui.
+
+Kawan Cubicle.id, bila pemasok menawarkan “setara”, minta tabel perbandingan dan dokumen pemasangan sebelum menyetujui. Jika bukti berhenti pada kemiripan bentuk, statusnya tetap perlu verifikasi.
+
+## Kesimpulan: mulai dari daftar identitas, bukan dari keranjang belanja
+
+Strategi spare part cubicle yang dapat dipelihara terdiri dari daftar komponen kritis, rekaman model-finishing-orientasi, bukti antarmuka, penyimpanan berlabel, proses substitusi, dan pemicu pemesanan ulang berbasis data. Urutan ini mencegah penggantian yang tampak cocok tetapi mengubah fungsi, stabilitas, aksesibilitas, atau tampilan.
+
+Langkah berikutnya adalah inventaris setiap bilik, foto label, kumpulkan gambar/instruksi pemasangan, lalu minta review pemasok dan profesional untuk item yang mengubah tumpuan, beban, atau akses. Teman Cubicle.id, pegang aturan operasi ini: tanpa bukti kecocokan dan persetujuan yang sesuai, jangan menyebut suku cadang sebagai kompatibel.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -69,138 +114,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-03
-
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-### KR-08
-
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
-
-### KR-09
-
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
-
-### KR-10
-
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-07-D` → `/artikel/anchor-dan-fastener-cubicle.html` — Anchor dan Fastener Cubicle: Bukti Substrate dan Beban
-- `CUB-07-E` → `/artikel/interface-kaca-dan-hardware-cubicle.html` — Interface Kaca dan Hardware Cubicle: Risiko Tepi, Lubang, dan Tegangan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Strategi Spare Part dan Kompatibilitas Hardware Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Strategi Spare Part dan Kompatibilitas Hardware Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Strategi Spare Part dan Kompatibilitas Hardware Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Strategi Spare Part dan Kompatibilitas Hardware Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Strategi Spare Part dan Kompatibilitas Hardware Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Strategi Spare Part dan Kompatibilitas Hardware Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

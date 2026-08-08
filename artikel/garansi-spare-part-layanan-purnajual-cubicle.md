@@ -2,8 +2,9 @@
 article_id: CUB-10-E
 title: "Garansi, Spare Part, dan Layanan Purnajual Cubicle"
 slug: "garansi-spare-part-layanan-purnajual-cubicle"
-description: "Clarify coverage, exclusions, start date, maintenance duties, claim route, response evidence, spares, obsolescence, and remedies"
-status: outline
+description: "Panduan memeriksa cakupan garansi, suku cadang, kewajiban perawatan, jalur klaim, dan bukti layanan purnajual cubicle."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-26"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,13 @@ final_route: "/artikel/garansi-spare-part-layanan-purnajual-cubicle.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
-  - "https://peraturan.bpk.go.id/Details/37637/uu"
-  - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
-  - "https://www.bobrick.com/resource-center-2/guide-specifications/"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Garansi, Spare Part, dan Layanan Purnajual Cubicle
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Garansi, Spare Part, dan Layanan Purnajual Cubicle”
-- **Reader and situation:** Buyer reviewing warranty language
-- **Reader outcome:** Clarify coverage, exclusions, start date, maintenance duties, claim route, response evidence, spares, obsolescence, and remedies
-- **Primary intent:** Evaluate after-sales commitments
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Kawan Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not repeat “100% guarantee”; `/` owns verified commercial terms and CUB-07-F owns compatibility records
-- **Final public route:** `/artikel/garansi-spare-part-layanan-purnajual-cubicle.html`
-- **Appointed CMS date:** `2026-03-26` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Garansi, Spare Part, dan Layanan Purnajual Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Cubicle.id`, `Sobat Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -68,139 +33,78 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Kawan Cubicle.id! Saat menilai penawaran cubicle, banyak pembeli berhenti pada kalimat “ada garansi”. Padahal kalimat itu belum menjawab: bagian apa yang dilindungi, kapan masa berlaku dimulai, siapa yang wajib merawat, dan apa yang terjadi ketika engsel atau pengunci perlu diganti.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jawaban singkatnya: anggap garansi sebagai rangkaian janji yang harus dapat dibuktikan, bukan angka durasi semata. Minta dokumen yang menyebut cakupan komponen, pengecualian, tanggal mulai, prosedur klaim, waktu tanggap, ketersediaan suku cadang, serta bentuk pemulihan. Keputusan dapat berubah bila kontrak proyek, manual sistem, atau hasil serah terima menetapkan ketentuan berbeda. Kerangka bangunan nasional menempatkan penggunaan, pemeliharaan, keselamatan, kesehatan, kenyamanan, dan dokumentasi sebagai bagian dari pengelolaan bangunan; label produk saja tidak membuktikan kepatuhan ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)).
 
-### KR-01
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
 
-### KR-02
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Apa saja yang sebenarnya dicakup garansi cubicle?
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
+Sebelum membandingkan durasi, bedakan objek garansi: panel, rangka, kaki penyangga, pintu, engsel, pengunci, aksesori, dan pekerjaan pemasangan dapat memiliki perlakuan berbeda. Pemisahan ini mencegah asumsi bahwa satu kalimat mencakup seluruh rakitan.
 
-### KR-19
+Garansi komponen menjelaskan kerusakan apa yang dianggap cacat material atau pembuatan. Garansi pemasangan berkaitan dengan kesalahan pekerjaan yang disepakati. Layanan purnajual adalah dukungan setelah serah terima, misalnya diagnosis, kunjungan, penyediaan suku cadang, atau instruksi perawatan. Ketiganya bisa memiliki jalur dan bukti berbeda; minta definisinya tertulis.
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
+Mintalah tabel sederhana dengan kolom komponen, masa berlaku, tanggal mulai, pengecualian, dan pemulihan. Jika dokumen hanya berkata “kerusakan akibat pemakaian tidak ditanggung” tanpa mendefinisikan pemakaian wajar, tandai sebagai pertanyaan terbuka, bukan menebak sendiri.
 
-### KR-21
+## Bagaimana tanggal mulai dan jalur klaim ditentukan?
 
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
+Tanggal mulai sering disalahpahami sebagai tanggal pembelian. Dalam proyek, tanggal pengiriman, pemasangan, berita acara serah terima, atau commissioning bisa dipakai—pilihan akhirnya harus mengikuti kontrak yang disetujui. Tulis tanggal pemicu dan dokumen pendukungnya pada berita acara.
 
-### KR-18
+Jalur klaim yang dapat dijalankan memuat kontak, format laporan, foto atau nomor komponen yang diperlukan, serta urutan pemeriksaan. Laporan sebaiknya mencatat lokasi, gejala, kapan terlihat, perubahan terakhir, dan tindakan pengamanan. Catatan ini membantu pemasok membedakan cacat, keausan, kerusakan akibat benturan, atau perubahan pihak lain tanpa menyimpulkan penyebab sebelum inspeksi.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
+Kawan Cubicle.id, tanyakan juga bentuk pemulihan: perbaikan, penggantian bagian, penggantian unit, atau rekomendasi lain. Jangan menyebut waktu tanggap sebagai janji jika angka itu belum ada di kontrak; sisakan penanda `[NEEDS KONTRACT RESPONSE TIME]` untuk ditetapkan para pihak.
 
-## Evidence gates
+## Suku cadang, perawatan, dan bukti layanan yang perlu diserahkan
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Suku cadang berarti bagian pengganti yang menjaga fungsi rakitan, bukan sekadar daftar kode barang. Daftar yang berguna memuat nama komponen, identitas atau ukuran yang disetujui, pemasok, cara pemesanan, dan status ketersediaan. Tanpa itu, kerusakan kecil dapat menghentikan satu bilik lebih lama daripada yang diperkirakan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Kewajiban perawatan harus menyebut tindakan dan batasnya: pembersihan, pemeriksaan pengencang, pelumasan bila diizinkan manual, serta larangan mengubah lubang atau mengganti perangkat dengan tipe lain. Instruksi pemasangan pabrikan menunjukkan mengapa catatan sambungan dan pemeriksaan tersembunyi penting; pekerjaan yang tertutup tanpa dokumentasi sulit diverifikasi kemudian ([Bobrick installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)). Jangan menyalin toleransi atau langkah manual itu ke sistem berbeda tanpa persetujuan teknis.
 
-## Internal-link plan
+Saat serah terima, minta gambar akhir, daftar komponen terpasang, manual, rekaman inspeksi, dan kontak layanan. Prinsipnya sama untuk elemen nonstruktural lain: sambungan, kondisi dudukan, dan antarmuka perlu dicatat sebelum tertutup, terutama bila perubahan dapat memengaruhi keselamatan ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
 
-### Existing local routes
+## Kondisi proyek apa yang dapat membatalkan atau mengubah hasil klaim?
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Hasil klaim dipengaruhi oleh lingkungan, penggunaan, pemasangan, dan perubahan setelah serah terima. Kelembapan, bahan pembersih, benturan, beban pada pintu, atau pemindahan partisi dapat menjadi pengecualian bila kontrak menyatakannya. Namun, istilah itu harus dapat dihubungkan ke bukti inspeksi; jangan menerima penolakan yang hanya berupa dugaan.
 
-### Planned sibling articles
+Perubahan sistem juga penting. Penggantian pengunci dengan produk lain, pengeboran panel, atau pemindahan kaki tanpa persetujuan dapat memutus jejak konfigurasi awal. Catat siapa yang mengubah, kapan, dengan gambar atau izin tertulis. Jika penyebab menyentuh struktur bangunan, utilitas, kebakaran, atau aksesibilitas, hentikan keputusan teknis dan minta peninjauan profesional; PP 16/2021 tidak memberi angka universal untuk ketebalan, jarak bebas pintu, atau rating partisi.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Contoh keputusan praktis saat membandingkan dua penawaran
 
-- `CUB-10-C` → `/artikel/register-submittal-cubicle.html` — Register Submittal Cubicle: Sampel, Data Teknis, Gambar, dan Sertifikat
-- `CUB-10-D` → `/artikel/biaya-siklus-hidup-cubicle.html` — Harga Awal vs Biaya Siklus Hidup Cubicle
-- `CUB-10-F` → `/artikel/perubahan-scope-dan-biaya-cubicle.html` — Mengendalikan Perubahan Scope dan Biaya Proyek Cubicle
+Bayangkan Penawaran A menjanjikan durasi lebih panjang tetapi hanya menyebut “produk”. Penawaran B berdurasi lebih singkat namun melampirkan matriks komponen, prosedur klaim, daftar suku cadang, dan jadwal inspeksi. A belum tentu lebih kuat: yang dapat dinilai adalah bukti dan batasnya.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Gunakan tabel keputusan berikut sebelum menunjuk pemasok:
 
-## Jawaban singkat dan salah paham utama
+| Pertanyaan | Bukti yang diminta | Keputusan bila belum ada |
+|---|---|---|
+| Apa yang dilindungi? | Matriks komponen dan pengecualian | Minta klarifikasi tertulis |
+| Kapan mulai? | Klausul tanggal pemicu dan berita acara | Jangan hitung sisa masa secara asumsi |
+| Bagaimana klaim? | Kontak, formulir, dan alur pemeriksaan | Tetapkan jalur eskalasi |
+| Suku cadang tersedia? | Daftar kode dan cara pemesanan | Tandai risiko penghentian operasi |
+| Apa bukti serah terima? | Manual, gambar akhir, rekaman uji | Tahan penerimaan item terkait sesuai kontrak |
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Garansi, Spare Part, dan Layanan Purnajual Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Garansi, Spare Part, dan Layanan Purnajual Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Garansi, Spare Part, dan Layanan Purnajual Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Garansi, Spare Part, dan Layanan Purnajual Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Garansi, Spare Part, dan Layanan Purnajual Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Anda dapat menautkan kebutuhan dokumen teknis ke [beranda Cubicle.id](/) bila perlu menghubungi sumber resmi. Rute itu hanya membantu langkah berikutnya; ia bukan bukti bahwa suatu garansi atau performa telah disetujui.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Garansi, Spare Part, dan Layanan Purnajual Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan garansi panel dengan garansi seluruh sistem. Periksa setiap perangkat keras dan pekerjaan pemasangan secara terpisah.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menganggap foto selesai sebagai commissioning. Uji fungsi pintu, pengunci, dan kestabilan sesuai metode proyek yang disetujui, lalu simpan hasilnya. Visual yang rapi tidak membuktikan fungsi atau kepatuhan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menyimpan kuitansi tetapi kehilangan identitas komponen. Cocokkan nomor atau deskripsi bagian dengan daftar terpasang agar klaim tidak tertunda karena barang tidak dapat dikenali.
 
-## Required conclusion
+Kesalahan keempat adalah menerima janji “spare part selalu tersedia”. Minta periode dukungan, mekanisme pemberitahuan perubahan, dan pilihan bila model tidak lagi diproduksi. Jika tidak ada komitmen, tulis `[NEEDS OBSOLESCENCE TERM]` daripada menjanjikan pengganti.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Mengapa memilih harga terendah saja dapat gagal?
 
-## Draft completion checklist
+Harga lump sum yang paling rendah bisa menyembunyikan perbedaan konfigurasi, akses logistik, perlindungan pekerjaan, pengujian, pengecualian, atau layanan setelah serah terima. Pedoman spesifikasi pabrikan juga memperlihatkan bahwa kesetaraan penawaran perlu memeriksa sistem, material, rangka, perangkat keras, pengujian, jadwal, garansi, suku cadang, dan dokumen serah terima—bukan luas area saja. Bandingkan daftar itu pada ruang lingkup proyek Anda, lalu minta tinjauan kontrak dan teknis untuk item yang belum jelas.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Langkah berikutnya sebelum menyetujui komitmen purnajual
+
+Kumpulkan draf garansi, matriks komponen, manual perawatan, daftar suku cadang, prosedur klaim, dan dokumen serah terima dalam satu paket. Tandai tanggal mulai, pengecualian, waktu tanggap, masa dukungan, dan bentuk pemulihan. Cocokkan paket tersebut dengan konfigurasi yang benar-benar ditawarkan dan kondisi lokasi.
+
+Teman Cubicle.id, minta pemasok menandatangani jawaban atas pertanyaan yang masih kosong; jangan mengubah asumsi menjadi hak kontraktual. Garansi yang layak dinilai bukan dari slogan, melainkan dari cakupan yang jelas, bukti pemasangan dan serah terima, jalur klaim yang dapat dijalankan, serta rencana suku cadang. Untuk kepatuhan, struktur, keselamatan, atau klausul hukum, keputusan akhir tetap memerlukan persetujuan profesional dan kontrak proyek yang berlaku.

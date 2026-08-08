@@ -2,8 +2,9 @@
 article_id: CUB-01-B
 title: "Kamus Cubicle dan Kubikel untuk Brief, Gambar, dan Penawaran"
 slug: "kamus-cubicle-dan-kubikel"
-description: "Define Indonesian/English terms, note synonyms, and flag words whose meaning changes by system"
-status: outline
+description: "Panduan menyamakan istilah cubicle dan kubikel agar ringkasan kebutuhan, gambar, serta penawaran membahas objek dan lingkup yang sama."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-12"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,50 +15,15 @@ reader_address: "Teman Cubicle.id"
 final_route: "/artikel/kamus-cubicle-dan-kubikel.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
+  - "https://peraturan.bpk.go.id/Details/161846/PP-no-16-tahun-2021"
   - "https://www.iso.org/standard/72959.html"
   - "https://www.iso.org/standard/72961.html"
   - "https://www.iso.org/standard/72962.html"
-  - "https://knauf.com/en-EG/systems/drywall-systems"
-  - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
-  - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Kamus Cubicle dan Kubikel untuk Brief, Gambar, dan Penawaran
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Kamus Cubicle dan Kubikel untuk Brief, Gambar, dan Penawaran”
-- **Reader and situation:** Procurement or design team reconciling mixed vocabulary
-- **Reader outcome:** Define Indonesian/English terms, note synonyms, and flag words whose meaning changes by system
-- **Primary intent:** Decode project terminology
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Teman Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Kawan Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not create separate synonym pages; CUB-01-A owns the entity distinction and CUB-02-A owns the brief
-- **Final public route:** `/artikel/kamus-cubicle-dan-kubikel.html`
-- **Appointed CMS date:** `2025-08-12` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kamus Cubicle dan Kubikel untuk Brief, Gambar, dan Penawaran**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.id`, `Sobat Cubicle.id`, or `Kawan Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -68,139 +34,64 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Cubicle.id! Ketika tim pengadaan menulis “cubicle”, desainer menggambar “kubikel”, lalu vendor menawar “partisi”, mereka belum tentu menunjuk benda yang sama. Salah istilah dapat membuat jumlah komponen, titik sambungan, dan batas pekerjaan ikut berubah. Jawaban singkatnya: sepakati objek, fungsi, bahan, sistem pemasangan, dan hasil penerimaan sebelum membandingkan harga.
 
-### KR-01
+Kamus ini membantu Anda menerjemahkan istilah ke dalam brief, gambar, dan penawaran. Untuk contoh pekerjaan terkait, gunakan halaman utama [Cubicle.id](/) sebagai titik koordinasi informasi, bukan sebagai bukti kinerja produk. Arti dapat berubah bila sistemnya berubah—lembar HPL bukan panel compact laminate yang berdiri sendiri, dan panel bukan keseluruhan cubicle terpasang. Untuk keputusan keselamatan, aksesibilitas, dan kepatuhan, minta dokumen produk serta tinjauan profesional; label dagang saja tidak membuktikan kesesuaian. Kerangka bangunan nasional mengaitkan keputusan partisi dengan keselamatan, kesehatan, kenyamanan, fungsi, dokumentasi, dan penggunaan bangunan ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/PP-no-16-tahun-2021)).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
-### KR-02
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-### KR-05
-
-- **Original sources:** [ISO 4586-1:2018 overview of the HPL series](https://www.iso.org/standard/72959.html), [ISO 4586-3:2018 thin HPL for bonding to a support](https://www.iso.org/standard/72961.html), [ISO 4586-4:2018 interior compact laminate](https://www.iso.org/standard/72962.html), [Knauf drywall systems overview](https://knauf.com/en-EG/systems/drywall-systems)
-- **Purpose for this article:** Prevent the catalog from treating HPL, compact laminate, gypsum board, framing, and a complete partition as synonyms.
-- **Safe grounded facts:** A decorative laminate sheet, a self-supporting compact panel, a composite panel, and an installed cubicle are different objects. Likewise, board type does not establish stud size, height capacity, impact resistance, acoustic performance, fire performance, or suitability around services.
-- **Limits:** ISO abstracts do not expose classifications or test values. Named manufacturer configurations are not universal and must be matched to locally supplied documents; resolve `G-05`.
-
-### KR-07
-
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass detail record — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass detail record — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)
-- **Purpose for this article:** Keep glass/aluminium partition selection tied to safety-glass identity, support, edge condition, human impact, doors, and installed context.
-- **Safe grounded facts:** Tempered and laminated products answer different breakage and retention questions. Product conformity does not determine project thickness, panel size, holes/cut-outs, edge support, fittings, guard/fall function, manifestation, door hardware, or frame/anchor adequacy.
-- **Limits:** Full SNI text, project design, and current supplier evidence are required before exact criteria or a compliance statement. Resolve `G-01`, `G-03`, and `G-13`.
-
-### KR-09
-
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — fallback home route; use only when it is genuinely useful.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-01-A` → `/artikel/apa-itu-cubicle.html` — Apa Itu Cubicle? Panduan Membedakan Kubikel Kantor, Toilet, dan Listrik
-- `CUB-01-C` → `/artikel/anatomi-sistem-cubicle.html` — Anatomi Sistem Cubicle: Panel, Rangka, Hardware, dan Interface
-- `CUB-01-D` → `/artikel/siklus-hidup-cubicle.html` — Siklus Hidup Cubicle dari Kebutuhan hingga Penggantian
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
 ## Definisikan kebutuhan sebelum meminta harga
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Kamus Cubicle dan Kubikel untuk Brief, Gambar, dan Penawaran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum memilih sinonim, tetapkan benda yang hendak dibeli. “Cubicle toilet” dapat berarti satu ruang partisi, sedangkan penawaran dapat memecahnya menjadi panel, pilaster, pintu, perangkat keras, kaki, dan pengikat. Tulis fungsi ruang, jumlah unit, kondisi lantai dan dinding, kebutuhan layanan, serta siapa yang menyiapkan bukaan dan angkur.
+
+Panel adalah bidang pengisi; pilaster atau tiang antar-panel adalah elemen tegak untuk sambungan; stile sering berarti sisi tegak pintu. Istilah ini bukan jaminan bahwa seluruh sistem berdiri sendiri. Instruksi pemasangan juga mencakup pintu, kait, engsel, kaki, rel kepala, braket, angkur, celah, dan tumpuan bangunan ([contoh instruksi Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)). Karena jalur beban dan urutan kerja berubah mengikuti konfigurasi, minta gambar rakitan, bukan hanya nama bahan.
+
+HPL (high-pressure laminate) adalah lembar laminasi dekoratif yang biasanya direkatkan ke media pendukung. Compact laminate adalah laminasi interior yang dirancang sebagai panel mandiri. ISO membedakan HPL umum, HPL tipis untuk direkatkan ke penopang, dan compact laminate ([ISO 4586-1](https://www.iso.org/standard/72959.html), [ISO 4586-3](https://www.iso.org/standard/72961.html), [ISO 4586-4](https://www.iso.org/standard/72962.html)). Minta konstruksi lengkap—inti, lapisan, tepi, sambungan, dan tumpuan—bukan sekadar kata HPL.
+
+Partisi adalah istilah payung pembatas ruang; cubicle menekankan unit atau susunan ruang yang dibatasi; kubikel ialah ejaan Indonesia yang lazim dipakai. Dalam gambar, pilih satu istilah utama lalu beri padanan, misalnya “kubikel toilet (toilet cubicle)”. Setelah itu gunakan kode item agar partisi tidak tertukar dengan dinding kering, kaca, atau panel utilitas.
+
+Sobat Cubicle.id, uji arti istilah dengan pertanyaan: “Apakah yang dihitung satu unit, satu panel, atau satu ruang lengkap?” Jika penawar menjawab berbeda, brief belum cukup spesifik.
 
 ## Buat penawaran benar-benar sebanding
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Kamus Cubicle dan Kubikel untuk Brief, Gambar, dan Penawaran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Harga dapat dibandingkan setelah setiap penawar mengisi lingkup yang sama. Pisahkan pengukuran, gambar kerja, fabrikasi, panel dan rangka, pintu serta hardware, pengiriman, pemasangan, perlindungan area, pembersihan, dan dokumen serah terima. Tulis eksklusi seperti pekerjaan sipil, perbaikan lantai, relokasi layanan, atau angkur khusus bila belum termasuk.
+
+Untuk area basah, tanyakan penanganan perubahan dimensi akibat kelembapan, pengkondisian material, lubang, jarak tepi, ventilasi, dan pengikat. Panduan fabrikasi compact laminate menekankan detail tersebut tidak boleh diimprovisasi dari label material ([Formica Compact fabrication guidance](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)). Minta lembar asumsi agar perbedaan metode terlihat sebelum kontrak.
+
+Gunakan tabel dengan kolom istilah vendor, padanan brief, bukti, termasuk/tidak, dan pihak penyetuju. “Hardware lengkap” harus diikuti daftar item dan jumlah; “siap pasang” harus menjelaskan pengukuran akhir, akses kerja, dan penyesuaian lapangan.
 
 ## Dokumen yang membuktikan hal berbeda
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Kamus Cubicle dan Kubikel untuk Brief, Gambar, dan Penawaran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Data produk menerangkan identitas dan batas material. Laporan uji merekam metode serta benda uji tertentu. Sertifikat kesesuaian menyatakan hubungan dengan skema atau standar yang dirujuk. Metode pemasangan menjelaskan urutan dan tumpuan. Garansi adalah komitmen kontraktual dengan syaratnya. Tidak satu pun otomatis membuktikan sistem terpasang cocok untuk proyek Anda.
+
+Untuk kaca, tempered dan laminated menjawab pertanyaan pecah yang berbeda. Rekaman standar BSN membantu mengenali identitas standar, tetapi tidak menetapkan ukuran panel, lubang, tepi, fittings, pintu, atau kecukupan angkur proyek tertentu. Minta gambar detail dan tinjauan desain sebelum menyebut aman atau sesuai.
 
 ## Pertanyaan wajib kepada penyedia
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Kamus Cubicle dan Kubikel untuk Brief, Gambar, dan Penawaran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- Apa arti “satu cubicle”: ruang, paket panel, atau paket terpasang?
+- Mana HPL berlapis dan mana compact laminate mandiri? Sertakan datasheet serta batas penggunaan.
+- Siapa memverifikasi ukuran akhir, tumpuan, angkur, dan bukaan layanan?
+- Apa saja yang termasuk: pilaster, stile, pintu, kait, engsel, kaki, rel kepala, braket, dan seal?
+- Dokumen apa yang diserahkan: gambar akhir, daftar produk, perawatan, inspeksi, dan garansi beserta syaratnya?
+- Perubahan lapangan apa yang memerlukan persetujuan ulang?
 
-## Red flag dan biaya yang sering tersembunyi
+Kawan Cubicle.id, minta jawaban dengan nomor gambar atau nama dokumen. Jawaban lisan yang tidak terlacak mudah berubah saat fabrikasi dimulai.
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Kamus Cubicle dan Kubikel untuk Brief, Gambar, dan Penawaran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Tanda bahaya dan biaya yang sering tersembunyi
+
+Waspadai “partisi toilet lengkap” tanpa denah, elevasi, jumlah bukaan, atau daftar hardware. Itu dapat menyembunyikan biaya pengukuran ulang, akses terbatas, waktu tunggu, dan pengerjaan ulang. Klaim “tahan air”, “fire rated”, atau “akustik” tanpa konfigurasi dan bukti yang cocok juga perlu ditahan; sifat lembar bahan tidak otomatis menjadi kinerja sistem terpasang.
+
+Shortcut menyalin spesifikasi proyek lain gagal ketika ukuran ruang, tumpuan, kelembapan, atau layanan berbeda. Alternatifnya: kunci istilah dan interface dalam gambar, minta penyedia menandai asumsi, lalu minta tinjauan profesional untuk isu keselamatan, aksesibilitas, kinerja, atau kepatuhan.
 
 ## Penerimaan, serah terima, dan keputusan akhir
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Kamus Cubicle dan Kubikel untuk Brief, Gambar, dan Penawaran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tentukan siapa memeriksa apa. Tim desain memeriksa gambar dan interface; pengadaan memeriksa kuantitas serta dokumen; pelaksana memeriksa pemasangan terhadap instruksi; penanggung jawab proyek menetapkan penerimaan berdasarkan kriteria tertulis. Simpan versi gambar, daftar komponen, catatan perubahan, catatan inspeksi, dan dokumen perawatan.
 
-## Objection or shortcut to address
+Jangan menjadikan “terpasang” satu-satunya kriteria. Periksa item yang datang sama dengan yang ditawar, pintu dan hardware berfungsi sesuai spesifikasi disetujui, sambungan serta tumpuan dapat diakses, dan pengecualian tercatat. Jika bukti kinerja atau kepatuhan belum tersedia, tandai keputusan tertunda—jangan mengubahnya menjadi klaim.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Simpan versi final istilah bersama gambar dan daftar harga agar semua pihak membaca acuan yang sama. Catat pula tanggal dan penanggung jawab persetujuan. Kesimpulannya, kamus cubicle dan kubikel bukan daftar sinonim, melainkan cara mengikat kata pada objek, sistem, bukti, dan keputusan. Mulailah dengan satu lembar istilah: padanan, definisi kerja, komponen termasuk, bukti yang diminta, serta pihak penyetuju. Sebelum rapat penawaran, kirimkan lembar ini kepada semua peserta dan minta setiap istilah diberi satu definisi kerja. Dengan begitu, perubahan dapat ditelusuri sejak brief sampai berita acara. Jika detail proyek atau dokumen produk belum cukup, pertahankan penanda **[NEEDS TECHNICAL REVIEW]** dan minta tinjauan profesional sebelum harga, gambar, atau penerimaan difinalkan.

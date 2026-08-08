@@ -2,8 +2,9 @@
 article_id: CUB-03-A
 title: "Panduan Memilih Office Cubicle untuk Cara Kerja dan Ruang Kantor"
 slug: "memilih-office-cubicle"
-description: "Connect work modes, team interaction, privacy, services, change, cleaning, and budget to a shortlist"
-status: outline
+description: "Panduan praktis menghubungkan cara kerja, interaksi tim, privasi, layanan bangunan, perubahan ruang, kebersihan, dan anggaran saat menyusun pilihan office cubicle."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-25"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,50 +16,13 @@ final_route: "/artikel/memilih-office-cubicle.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://www.iso.org/standard/72960.html"
-  - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
   - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Panduan Memilih Office Cubicle untuk Cara Kerja dan Ruang Kantor
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Panduan Memilih Office Cubicle untuk Cara Kerja dan Ruang Kantor”
-- **Reader and situation:** Office owner or designer comparing layouts
-- **Reader outcome:** Connect work modes, team interaction, privacy, services, change, cleaning, and budget to a shortlist
-- **Primary intent:** Select an office cubicle system
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Kawan Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not select raw materials; CUB-06-A owns that decision and CUB-10-A owns bid comparison
-- **Final public route:** `/artikel/memilih-office-cubicle.html`
-- **Appointed CMS date:** `2025-09-25` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Panduan Memilih Office Cubicle untuk Cara Kerja dan Ruang Kantor**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Cubicle.id`, `Sobat Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-004`
@@ -69,138 +33,71 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle kantor` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Panduan Memilih Office Cubicle untuk Cara Kerja dan Ruang Kantor
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Cubicle.id! Memilih office cubicle bukan sekadar menghitung berapa meja yang muat. Pilihan yang tepat menghubungkan cara orang bekerja, kebutuhan berinteraksi, privasi, jalur kabel, akses perawatan, dan kemampuan ruang untuk berubah. Kesalahan umum adalah memilih panel dari foto atau harga satuan, lalu baru menemukan bahwa pintu, stopkontak, jalur evakuasi, atau pembersihan tidak cocok.
 
-### KR-01
+Jawaban singkatnya: mulai dari pola kerja dan denah, susun batas privasi serta interaksi, petakan layanan bangunan, lalu bandingkan sistem cubicle sebagai satu kesatuan panel, tiang, pintu, perangkat keras, dan penyangga. Jenis panel atau bahan tertentu tidak dapat diputuskan terpisah dari cara pemasangan dan kondisi ruang. Jika data bangunan, persyaratan akses, atau detail produk belum tersedia, hasilnya harus tetap berupa daftar pendek bersyarat dan ditandai untuk tinjauan profesional.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi cubicle kantor](/wp-content/uploads/2023/03/cubicle-kantor.jpg)
 
-### KR-03
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Hasil pilihan office cubicle yang dapat dipertanggungjawabkan
 
-### KR-08
+Sebelum menilai model, tetapkan keluaran yang ingin Anda bawa ke rapat. Hasil yang berguna adalah denah alternatif, alasan pemilihan tiap zona, daftar kebutuhan layanan, asumsi yang belum terverifikasi, dan pertanyaan untuk pemasok atau perencana. Pemilik kantor atau desainer berwenang menyetujui kebutuhan ruang; pemasok mengonfirmasi konfigurasi dan petunjuk pemasangan; profesional bangunan meninjau hal yang menyentuh struktur, akses, keselamatan, dan peraturan.
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+Siapkan denah terkini, jumlah pengguna, jenis aktivitas (fokus, panggilan, kolaborasi, atau kunjungan), inventaris peralatan, posisi pintu dan jendela, titik listrik/data, sistem langit-langit, jadwal perubahan ruang, serta batas anggaran. Tanpa data itu, “kapasitas maksimal” hanyalah tebakan. Buat satu lembar keputusan agar setiap opsi dinilai dengan data yang sama.
 
-### KR-09
+## Langkah 1: tetapkan lingkup, zona kerja, dan batas privasi
 
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
+Bagian ini mencegah kekeliruan antara memilih sistem dan memilih bahan mentah. Office cubicle yang dinilai mencakup konfigurasi panel, meja, pintu atau bukaan, tiang, kaki, rel, pengikat, dan hubungannya dengan lantai, dinding, serta langit-langit. CUB-06-A menangani keputusan bahan; perbandingan penawaran rinci berada di luar halaman ini.
 
-### KR-10
+Gambar zona berdasarkan aktivitas. Area panggilan dan kerja fokus mungkin memerlukan jarak pandang atau peredaman yang berbeda dari area kerja tim. Tandai pula jalur masuk, ruang pendekatan, pintu, dan perabot yang harus dipindahkan. Untuk ruang yang digunakan publik atau oleh pengguna dengan kebutuhan akses tertentu, akses adalah hubungan rute dan penggunaan—bukan sekadar ukuran satu panel. Posisi partisi, arah bukaan, ruang pendekatan, perlengkapan, dan visibilitas harus ditinjau bersama sesuai Permen PUPR No. 14/PRT/M/2017 (https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017).
 
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
+Tuliskan batas privasi secara operasional: percakapan biasa, panggilan rahasia, penyimpanan dokumen, atau pandangan ke layar. Jangan menerjemahkan “lebih tinggi” menjadi jaminan privasi atau akustik tanpa bukti sistem terpasang. Keputusan awal yang baik berbunyi, “zona A membutuhkan pandangan terbuka dan akses cepat; zona B membutuhkan pembatas pandangan,” bukan “semua panel harus sama tinggi.”
 
-## Evidence gates
+## Langkah 2: cocokkan bukti ruang, layanan, dan produk
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Setelah kebutuhan kerja jelas, cocokkan setiap opsi dengan bukti yang bisa diperiksa. Minta gambar denah berukuran, daftar komponen, detail sambungan, kebutuhan lantai atau langit-langit, jalur kabel, metode pembersihan, serta petunjuk perawatan. Istilah “HPL”, “fenolik”, atau “compact” hanya menjelaskan keluarga material; istilah itu tidak otomatis membuktikan ketahanan sistem, perangkat keras, atau kesesuaian area basah.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Periksa layanan lebih dulu. Tanyakan dari mana listrik dan data masuk, bagaimana kabel dipisahkan dan diakses saat perubahan, serta apakah panel menghalangi sprinkler, detektor, ventilasi, atau pintu. Gambar pemasangan Bobrick menunjukkan bahwa panel, pilaster, pintu, engsel, kait, kaki, braket, dan pengikat bekerja sebagai satu sistem (https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf). Gunakan dokumen itu sebagai contoh kebutuhan koordinasi, bukan sebagai dimensi atau beban untuk produk lain.
 
-## Internal-link plan
+Bandingkan biaya siklus, bukan harga panel saja. Catat pekerjaan awal, pemindahan saat reorganisasi, akses servis, suku cadang, dan pembersihan. Jika pemasok tidak menyebut komponen atau asumsi pemasangan, tandai sebagai data belum lengkap. Sobat Cubicle.id, daftar pendek yang transparan dengan tiga asumsi terbuka lebih aman daripada tabel harga yang tampak pasti tetapi menyembunyikan pekerjaan antarmuka.
 
-### Existing local routes
+## Langkah 3: jalankan urutan seleksi dari pola kerja ke sistem
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Urutan berikut membantu rapat tetap fokus dan mengurangi keputusan yang harus dibatalkan.
 
-### Planned sibling articles
+1. **Tetapkan pola kerja dan tingkat interaksi.** Hitung kebutuhan berdasarkan aktivitas dan pergantian pengguna, bukan hanya jumlah kursi. Pisahkan area fokus, kolaborasi, tamu, dan penyimpanan.
+2. **Tentukan privasi yang diperlukan.** Pilih pandangan terbuka, pembatas pandangan, atau ruang tertutup sesuai percakapan dan dokumen yang ditangani. Minta bukti performa bila privasi akustik menjadi syarat; jangan menganggap panel sebagai dinding kedap.
+3. **Uji denah dan akses.** Simulasikan arah bukaan, ruang pendekatan, jalur keluar, dan penggunaan perlengkapan. Persyaratan akses yang berlaku harus ditinjau pada denah dan kondisi bangunan, bukan disimpulkan dari katalog.
+4. **Petakan struktur dan gerak bangunan.** Partisi tinggi, bukaan besar, benda berat, sistem gantung, atau sambungan rapat dapat mengubah tuntutan pada penyangga. SNI 1727:2020 dan SNI 1726:2019 menyediakan rujukan katalog untuk beban minimum dan desain seismik; perhitungan proyek tetap memerlukan dokumen dan peninjauan yang sesuai (https://pesta.bsn.go.id/produk/detail/12927-sni17272020, https://pesta.bsn.go.id/produk/detail/12762-sni17262019). Panduan FEMA E-74 juga mengingatkan bahwa komponen nonstruktural dapat terdampak gerak bangunan, tetapi bukan pengganti kode Indonesia (https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf).
+5. **Nilai perubahan dan perawatan.** Tanyakan berapa bagian dapat dipindah tanpa merusak lantai atau layanan, bagaimana panel dibersihkan, dan siapa yang dapat mengganti perangkat keras. Jawaban harus merujuk manual sistem yang ditawarkan.
+6. **Susun daftar pendek bersyarat.** Untuk setiap opsi, tulis kecocokan, kekurangan, data yang belum ada, biaya yang termasuk, dan persetujuan yang dibutuhkan. Berhenti pada dua atau tiga opsi yang dapat dibandingkan dengan dasar sama.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Kapan pilihan harus berhenti untuk ditinjau
 
-- `CUB-03-B` → `/artikel/bench-vs-workstation-vs-panel-tinggi.html` — Bench, Workstation Individual, atau Panel Tinggi: Mana yang Cocok?
-- `CUB-03-C` → `/artikel/kabel-listrik-dan-data-office-cubicle.html` — Perencanaan Kabel Listrik dan Data pada Office Cubicle
+Jangan lanjut ke pemesanan bila denah belum pasti, jalur keluar atau akses belum ditinjau, titik layanan bertabrakan, atau pemasok belum menyerahkan detail sambungan. Hentikan pula klaim tentang beban, ketahanan api, akustik, kelembapan, garansi, atau kepatuhan ketika bukti produk dan proyek belum cocok. Tandai `[NEEDS PROJECT/PRODUCT/PROFESSIONAL REVIEW]` pada lembar keputusan untuk setiap isu tersebut.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Untuk partisi yang menempel pada struktur, langit-langit, atau sistem gantung, minta profesional terkait memeriksa jalur beban dan pergerakan bangunan. Langit-langit grid tidak otomatis menjadi tumpuan struktural. Jangan menyalin jarak angkur, ukuran stud, atau detail kepala dinding dari contoh luar negeri ke proyek Indonesia tanpa rekayasa dan persetujuan yang relevan.
 
-## Hasil akhir dan prasyarat
+## Verifikasi hasil dan serah terima keputusan
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Panduan Memilih Office Cubicle untuk Cara Kerja dan Ruang Kantor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum menetapkan opsi, lakukan pemeriksaan bersama: denah menunjukkan fungsi setiap zona; bukaan dan ruang pendekatan dapat digunakan; listrik, data, ventilasi, dan perangkat keselamatan tidak terhalang; daftar komponen dan detail sambungan lengkap; akses pembersihan dan penggantian suku cadang jelas; serta asumsi biaya dan perubahan tercatat.
 
-## Langkah 1 — tetapkan scope
+Simpan versi denah, matriks perbandingan, lembar produk, manual pemasangan, catatan pertanyaan, dan nama pemberi persetujuan. Saat pemasangan selesai, cocokkan konfigurasi aktual dengan gambar yang disetujui dan catat penyimpangan untuk koreksi. Serah terima belum lengkap bila hanya menerima permukaan panel tanpa memeriksa pintu, kait, braket, kaki, kabel, dan sambungan ke bangunan.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Panduan Memilih Office Cubicle untuk Cara Kerja dan Ruang Kantor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas “pilih yang paling murah” dan mengapa bisa gagal
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+Harga awal yang rendah mudah terlihat unggul ketika semua opsi dianggap setara. Namun sistem dengan komponen yang tidak tercantum, akses kabel yang buruk, atau perubahan yang sulit dapat menambah pekerjaan ketika tata letak berubah. Pilihan murah juga tidak menyelesaikan konflik akses, layanan, dan struktur.
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Panduan Memilih Office Cubicle untuk Cara Kerja dan Ruang Kantor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Alternatif yang lebih dapat dipertanggungjawabkan adalah meminta penawaran dengan denah dan daftar komponen yang sama, lalu menilai harga bersama asumsi pemasangan, perawatan, perubahan, dan data yang masih kosong. Jika dua opsi tampak sama, pilih yang dokumentasinya paling mudah diverifikasi—bukan yang deskripsinya paling meyakinkan.
 
-## Langkah 3 — jalankan urutan kerja
+## Kesimpulan: pilih sistem yang cocok dengan pekerjaan dan ruang
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Panduan Memilih Office Cubicle untuk Cara Kerja dan Ruang Kantor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Panduan memilih office cubicle dimulai dari cara kerja, interaksi, privasi, layanan, akses, perubahan, kebersihan, dan anggaran; bahan dan merek baru dibandingkan setelah sistem serta antarmukanya jelas. Kawan Cubicle.id, langkah berikutnya adalah membuat denah zona, matriks kebutuhan, dan daftar pertanyaan pemasok, kemudian meminta tinjauan profesional untuk isu akses, struktur, keselamatan, dan kepatuhan. Bila Anda membutuhkan konteks layanan perusahaan, mulai dari [beranda Cubicle.id](/) dan kembali ke lembar keputusan proyek.
 
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Panduan Memilih Office Cubicle untuk Cara Kerja dan Ruang Kantor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Panduan Memilih Office Cubicle untuk Cara Kerja dan Ruang Kantor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan kerjanya sederhana: jangan menyetujui cubicle hanya karena panelnya terlihat cocok. Setujui hanya opsi yang fungsi, sambungan, layanan, perawatan, biaya, dan batas ketidakpastiannya dapat ditunjukkan dalam dokumen proyek.

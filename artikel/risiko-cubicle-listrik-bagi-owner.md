@@ -2,8 +2,9 @@
 article_id: CUB-05-E
 title: "Arc, Api, Kejut, dan Salah Operasi: Risiko Cubicle Listrik bagi Owner"
 slug: "risiko-cubicle-listrik-bagi-owner"
-description: "Explain hazard categories, competence, access, labeling, procedures, maintenance evidence, emergency planning, and escalation at a non-procedural level"
-status: outline
+description: "Panduan owner untuk mengenali kategori bahaya, mengatur akses, label, bukti pemeliharaan, rencana darurat, dan eskalasi tanpa mengambil alih pekerjaan spesialis."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,52 +14,10 @@ reader_community: "Cubicle.id"
 reader_address: "Sobat Cubicle.id"
 final_route: "/artikel/risiko-cubicle-listrik-bagi-owner.html"
 technical_review: required
-sources:
-  - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://www.iso.org/standard/72960.html"
-  - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
-  - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
-  - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
+sources: []
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Arc, Api, Kejut, dan Salah Operasi: Risiko Cubicle Listrik bagi Owner
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Arc, Api, Kejut, dan Salah Operasi: Risiko Cubicle Listrik bagi Owner”
-- **Reader and situation:** Asset owner setting governance and access rules
-- **Reader outcome:** Explain hazard categories, competence, access, labeling, procedures, maintenance evidence, emergency planning, and escalation at a non-procedural level
-- **Primary intent:** Recognize electrical risk controls
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Sobat Cubicle.id`
-- **Natural variants:** `Kawan Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not teach energized work, switching, fault clearing, rescue, or protective-setting design; qualified specialists and official procedures own those tasks
-- **Final public route:** `/artikel/risiko-cubicle-listrik-bagi-owner.html`
-- **Appointed CMS date:** `2025-12-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Arc, Api, Kejut, dan Salah Operasi: Risiko Cubicle Listrik bagi Owner**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Cubicle.id`, `Kawan Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-005`
@@ -69,139 +28,91 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle listrik 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Arc, Api, Kejut, dan Salah Operasi: Risiko Cubicle Listrik bagi Owner
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Cubicle.id! Owner sering menerima laporan singkat seperti “cubicle aman” atau “sudah dites”, tetapi tetap bingung: siapa yang boleh membuka panel, bukti apa yang harus disimpan, dan kapan operasi harus dihentikan? Risiko tidak hanya muncul dari listrik yang bertegangan. Busur listrik (arc), panas dan api, sentuhan berenergi (kejut), serta salah operasi dapat berawal dari akses, label, atau keputusan yang tidak jelas.
 
-### KR-01
+Jawaban singkatnya: kendalikan risiko melalui pembagian wewenang, pembatasan akses, identifikasi yang terbaca, prosedur resmi, bukti pemeliharaan, dan rencana darurat. Owner tidak perlu mengajarkan pekerjaan bertegangan; owner perlu memastikan pekerjaan itu hanya dilakukan oleh personel kompeten dengan dokumen yang dapat ditelusuri. Detail instalasi, pengaturan proteksi, dan langkah pemadaman tetap memerlukan [NEEDS TECHNICAL REVIEW: prosedur proyek dan spesialis kelistrikan].
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi cubicle listrik 1](/wp-content/uploads/2023/03/cubicle-listrik-1.jpg)
 
-### KR-03
+Ilustrasi umum dari aset lokal Cubicle.id; bukan dokumentasi proyek tertentu.
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
+## Risiko cubicle listrik dimulai dari keputusan owner, bukan hanya dari panel
 
-### KR-08
+Sebelum membahas istilah teknis, penting melihat situasinya: sebuah ruang listrik dapat terlihat rapi, tetapi orang yang salah masuk, label yang tertukar, atau instruksi yang kedaluwarsa dapat mengubah kondisi normal menjadi kejadian serius. Bagian ini menjawab salah paham bahwa “panel tertutup berarti semua orang aman”.
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+**Busur listrik (arc)** adalah pelepasan energi melalui udara ketika jalur listrik terbentuk. Mekanismenya dapat menghasilkan panas, cahaya, dan tekanan; akibatnya dapat berupa cedera, kerusakan peralatan, atau kebakaran. Owner tidak boleh menyimpulkan tingkat bahayanya dari tampilan panel saja. Tanyakan apakah penilaian bahaya dan batas akses sudah disahkan oleh spesialis.
 
-### KR-09
+**Kejut listrik** terjadi ketika tubuh menjadi bagian dari jalur arus. Pintu, lantai, atau sarung tangan yang tampak baik bukan bukti bahwa jalur energi sudah aman. Keputusan operasi harus mengikuti status isolasi yang diverifikasi dalam prosedur resmi, bukan kebiasaan lisan.
 
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
+**Api** dapat menjadi akibat lanjutan dari energi listrik atau material di sekitarnya. Sementara itu, **salah operasi** berarti tindakan pada perangkat yang tidak sesuai identitas, urutan, atau kewenangan. Dua risiko terakhir sering berawal dari tata kelola owner: kunci tidak terkendali, label pudar, atau serah-terima yang tidak terdokumentasi.
 
-### KR-10
+## Apa yang termasuk objek pengendalian dan apa yang bukan
 
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
+Owner perlu menetapkan batas agar rapat keselamatan tidak berubah menjadi kursus praktik. H2 ini menjelaskan objek yang harus dikelola dan pekerjaan yang tetap berada di tangan spesialis.
 
-## Evidence gates
+Objek pengendalian mencakup ruang dan pintu, daftar personel berwenang, identitas cubicle dan sirkuit, tanda peringatan, prosedur operasi, catatan pemeliharaan, serta jalur pelaporan. Dokumen tersebut menjawab “siapa, apa, kapan, dan dengan bukti apa”.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Yang tidak dibahas di sini adalah cara bekerja saat bertegangan, switching, clearing gangguan, penyelamatan korban, atau desain pengaturan proteksi. Langkah-langkah itu bergantung pada konfigurasi dan prosedur proyek. Mintalah dokumen yang disetujui; jangan mengisi kekosongan dengan instruksi umum dari internet.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Bagaimana pengendalian bekerja dari akses sampai eskalasi
 
-## Internal-link plan
+Setelah objeknya jelas, kita dapat melihat alurnya. Tujuannya bukan memberi urutan switching, melainkan menunjukkan titik keputusan yang harus dimiliki owner.
 
-### Existing local routes
+Pertama, akses ditentukan sebelum pekerjaan dimulai. Daftar personel dan peran harus membedakan pengunjung, operator, pemelihara, dan pengawas. Jika identitas atau kewenangan tidak dapat dibuktikan, keputusan yang aman adalah menunda akses dan menghubungi penanggung jawab.
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Kedua, identifikasi dibuat konsisten. Label cubicle, sumber, tujuan, dan status operasi harus dapat dicocokkan dengan gambar atau daftar resmi. Ketidaksesuaian adalah sinyal berhenti, bukan alasan untuk menebak perangkat yang benar.
 
-### Planned sibling articles
+Ketiga, prosedur dan izin kerja menjadi pengikat antar-orang. Dokumen harus menunjukkan versi berlaku, pemeriksaan prasyarat, penanggung jawab, dan cara menutup pekerjaan. Owner memeriksa keberadaan serta rekam jejaknya; owner tidak menggantikan verifikasi teknis.
 
-These are future routes. Do not link them as live until their HTML exists.
+Keempat, bukti pemeliharaan dikembalikan ke keputusan. Catatan tanggal, lingkup, temuan, tindakan lanjut, dan persetujuan membantu membedakan peralatan yang benar-benar ditinjau dari klaim “sudah dirawat”. Jika catatan tidak lengkap, tandai sebagai temuan dan eskalasikan.
 
-- `CUB-05-C` → `/artikel/bukti-enclosure-interlock-earthing-label.html` — Cara Menilai Bukti Enclosure, Interlock, Earthing, dan Label Cubicle Listrik
-- `CUB-05-D` → `/artikel/lingkungan-pemasangan-cubicle-listrik.html` — Lingkungan Pemasangan Cubicle Listrik: Debu, Air, Panas, dan Korosi
-- `CUB-05-F` → `/artikel/tanda-bahaya-cubicle-listrik.html` — Tanda Bahaya Cubicle Listrik dan Kapan Area Harus Diamankan
+## Kondisi yang dapat mengubah tingkat risiko dan keputusan
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Risiko berubah ketika kondisi fisik, manusia, atau dokumen berubah. Bagian ini membantu owner mengelompokkan perubahan tanpa mengarang ambang angka.
 
-## Jawaban singkat dan salah paham utama
+Perubahan konfigurasi—misalnya penambahan beban, kabel, atau perangkat—dapat membuat label, gambar, dan prosedur lama tidak lagi cocok. Minta peninjauan perubahan sebelum energisasi atau operasi berikutnya.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Arc, Api, Kejut, dan Salah Operasi: Risiko Cubicle Listrik bagi Owner”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Lingkungan juga penting. Air, debu, panas, ruang sempit, dan jalur evakuasi yang terhalang memengaruhi keputusan akses. Catat kondisi yang terlihat, amankan area sesuai prosedur darurat, lalu serahkan penilaian teknis kepada pihak berwenang.
 
-## Definisi dan batas objek
+Faktor manusia meliputi pergantian operator, kontraktor baru, kelelahan, dan komunikasi serah-terima. Briefing singkat dengan daftar hadir dan batas peran lebih dapat ditelusuri daripada asumsi bahwa semua orang “sudah tahu”.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Arc, Api, Kejut, dan Salah Operasi: Risiko Cubicle Listrik bagi Owner”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Contoh keputusan praktis untuk owner
 
-## Cara kerjanya
+Skenario berikut sengaja bersyarat. Gunakan untuk menguji kesiapan tata kelola, bukan sebagai instruksi mengoperasikan cubicle.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Arc, Api, Kejut, dan Salah Operasi: Risiko Cubicle Listrik bagi Owner”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Temuan | Keputusan owner | Bukti yang diminta |
+|---|---|---|
+| Label cubicle tidak terbaca atau berbeda dari daftar | Hentikan pekerjaan yang bergantung pada identitas itu dan minta verifikasi | Foto label, daftar terbaru, persetujuan verifikasi |
+| Orang tanpa bukti kewenangan meminta akses | Tolak akses sampai penanggung jawab mengonfirmasi | Daftar personel dan izin kerja |
+| Ada bau hangus, suara tidak normal, atau asap | Jauhkan orang, aktifkan rencana darurat, dan hubungi tim kompeten | Log kejadian dan waktu eskalasi |
+| Catatan pemeliharaan tidak menunjukkan temuan atau tindak lanjut | Perlakukan status sebagai belum terbukti, lalu minta peninjauan | Laporan lengkap dan penutupan temuan |
 
-## Faktor yang mengubah hasil
+Kawan Cubicle.id, inti tabel ini adalah hak owner untuk berkata “belum cukup bukti”. Keputusan tersebut menjaga jarak antara pengawasan dan pekerjaan teknis.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Arc, Api, Kejut, dan Salah Operasi: Risiko Cubicle Listrik bagi Owner”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan umum yang perlu diperiksa sebelum menyetujui pekerjaan
 
-## Contoh keputusan praktis
+Kesalahan pertama adalah mengandalkan label “OFF” tanpa memastikan label itu cocok dengan perangkat dan prosedur yang berlaku. Periksa kecocokan identitas, tanggal revisi, dan siapa yang mengesahkannya.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Arc, Api, Kejut, dan Salah Operasi: Risiko Cubicle Listrik bagi Owner”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan kedua adalah menyimpan sertifikat atau laporan sebagai arsip pasif. Bacalah lingkupnya: apakah mencakup peralatan yang dimaksud, temuan, dan tindakan lanjut? Jika tidak, minta klarifikasi tertulis.
 
-## Kesalahan umum dan cara memeriksanya
+Kesalahan ketiga adalah menganggap pintu terkunci menyelesaikan seluruh risiko. Kunci membantu membatasi akses, tetapi tidak menggantikan pelatihan, label, prosedur, dan rencana darurat.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Arc, Api, Kejut, dan Salah Operasi: Risiko Cubicle Listrik bagi Owner”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan keempat adalah meneruskan instruksi lama setelah perubahan panel atau personel. Tetapkan pemicu revisi: perubahan konfigurasi, insiden, temuan berulang, atau pergantian penanggung jawab.
 
-## Objection or shortcut to address
+## Jalan pintas “operator senior saja yang pegang” tetap perlu bukti
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Menyerahkan semua keputusan kepada satu operator senior tampak cepat, tetapi pengetahuan lisan sulit diaudit dan tidak otomatis mencakup perubahan sistem. Alternatif yang lebih kuat adalah menetapkan peran, menyimpan prosedur versi berlaku, dan menyediakan pengganti yang juga diverifikasi kompetensinya.
 
-## Required conclusion
+Teman Cubicle.id, bila terjadi perbedaan antara kebiasaan lapangan dan dokumen resmi, jangan memilih berdasarkan siapa yang paling percaya diri. Hentikan keputusan yang berisiko, catat perbedaannya, dan eskalasikan kepada penanggung jawab teknis.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Langkah berikutnya: ubah daftar risiko menjadi bukti yang dapat ditelusuri
 
-## Draft completion checklist
+Risiko arc, api, kejut, dan salah operasi dikendalikan ketika owner dapat menunjukkan siapa yang berwenang, apa yang diidentifikasi, prosedur mana yang berlaku, bukti pemeliharaan apa yang tersedia, dan bagaimana keadaan darurat dieskalasikan. Mulailah dengan meninjau daftar cubicle, peta akses, label, prosedur, dan log temuan bersama spesialis yang ditunjuk.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jika salah satu bukti utama tidak tersedia, tandai [NEEDS TECHNICAL REVIEW] dan jangan menganggap sistem aman hanya karena belum ada insiden. Batas operasinya sederhana: owner mengatur akses dan bukti; personel kompeten mengatur pekerjaan teknis; setiap ketidakjelasan berhenti di meja eskalasi, bukan di depan panel.
+
+Untuk menata dokumen awal, gunakan [beranda Cubicle.id](/) sebagai titik kembali ke informasi layanan dan kontak resmi.

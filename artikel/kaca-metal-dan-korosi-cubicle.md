@@ -2,8 +2,9 @@
 article_id: CUB-06-D
 title: "Kaca, Metal, dan Korosi pada Sistem Cubicle"
 slug: "kaca-metal-dan-korosi-cubicle"
-description: "Cover glass type evidence, edge/film/hardware interfaces, metals/coatings, galvanic issues, corrosion exposure, safety glazing, and inspection"
-status: outline
+description: "Panduan praktis memilih bukti kaca, metal, sambungan, dan pemeriksaan korosi pada sistem cubicle sesuai paparan ruang."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,53 +15,15 @@ reader_address: "Sobat Cubicle.id"
 final_route: "/artikel/kaca-metal-dan-korosi-cubicle.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/72960.html"
   - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
-  - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.iso.org/standard/83943.html"
-  - "https://store.astm.org/e0119-24.html"
   - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
   - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Kaca, Metal, dan Korosi pada Sistem Cubicle
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Kaca, Metal, dan Korosi pada Sistem Cubicle”
-- **Reader and situation:** Designer considering transparent, premium, or high-exposure finishes
-- **Reader outcome:** Cover glass type evidence, edge/film/hardware interfaces, metals/coatings, galvanic issues, corrosion exposure, safety glazing, and inspection
-- **Primary intent:** Select glass and metal evidence
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Sobat Cubicle.id`
-- **Natural variants:** `Kawan Cubicle.id` and `Teman Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not design structural glazing or electrical enclosures; competent specialists own calculations and CUB-05-D owns electrical environment
-- **Final public route:** `/artikel/kaca-metal-dan-korosi-cubicle.html`
-- **Appointed CMS date:** `2025-12-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kaca, Metal, dan Korosi pada Sistem Cubicle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Cubicle.id`, `Kawan Cubicle.id`, or `Teman Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -71,140 +34,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Sobat Cubicle.id! Saat desainer memilih kaca bening dan aksesori metal agar cubicle terlihat premium, masalah biasanya bukan pada satu bahan saja. Tepi kaca, lapisan permukaan, lubang baut, kaki, engsel, dan air pembersih bekerja sebagai satu rangkaian. Metal yang tampak baik di ruang kering dapat berubah ketika celah sambungan menahan air atau dua jenis metal berbeda saling bersentuhan.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jawaban singkatnya: pilih berdasarkan paparan nyata dan bukti untuk setiap komponen, bukan berdasarkan kata “kaca” atau “stainless” saja. Minta identitas jenis kaca, cara pengamanan tepi, material dan lapisan hardware, kompatibilitas pasangan metal, serta petunjuk pembersihan. Bukti panel tidak otomatis membuktikan umur sambungan, ketahanan korosi, atau keselamatan seluruh cubicle. Untuk detail struktur kaca dan perhitungan, libatkan spesialis yang berwenang; artikel ini tidak menggantikannya.
 
-### KR-01
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
 
-### KR-08
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Mulai dari gejala kaca, metal, dan korosi yang benar-benar terlihat
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+Sebelum menebak penyebab, catat gejalanya. Apakah bintik muncul pada permukaan metal, di bawah kepala baut, sepanjang tepi kaca, atau di sekitar kaki panel? Tulis lokasi, waktu pertama terlihat, perubahan setelah pembersihan, dan apakah pintu mulai seret. Foto dari jarak yang sama membantu membedakan noda sesaat dari perubahan yang terus meluas.
 
-### KR-15
+Karat, lapisan mengelupas, kabut di tepi, retak, dan sambungan longgar memiliki arti berbeda. Noda putih dapat berasal dari endapan air; warna cokelat dapat menandakan korosi, tetapi pengamatan visual saja belum cukup untuk memastikan jenisnya. Formica menjelaskan bahwa compact laminate untuk interior tidak otomatis setara dengan grade eksterior; prinsip yang sama berlaku pada klaim bahan lain: nama dagang bukan bukti kinerja sistem ([ISO 4586-4](https://www.iso.org/standard/72962.html)).
 
-- **Original sources:** [US EPA Moisture Control Guidance for Building Design, Construction and Maintenance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association mold-prevention guidance](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Ground moisture-exposure classification, material storage, ventilation, edge/interface details, leak diagnosis, and repair/replace decisions.
-- **Safe grounded facts:** “Moisture resistant” is not “waterproof assembly.” Leaks, condensation, capillary contact, submerged/flood exposure, drainage, ventilation, edges, fastener holes, substrate, sealants, corrosion, and drying access can control service life and hygiene.
-- **Limits:** US/industry guidance is not an Indonesian code. Exact exposure category, replacement threshold, sealant, chemical, and drying/remediation method need site facts and product instructions; resolve `G-05`, `G-06`, and `G-11`.
+Kawan Cubicle.id, ajukan pertanyaan sederhana pada serah terima: “Gejala ini berada di bahan utama atau di antarmuka?” Antarmuka berarti titik pertemuan kaca, gasket, baut, panel, lantai, dan sealant. Titik itu sering menjadi tempat air tertahan dan tempat gerakan kecil berubah menjadi kerusakan lebih besar.
 
-### KR-13
+## Saringan risiko langsung sebelum cubicle dipakai atau dibongkar
 
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
+Jika kaca retak, pecah, tajam, berubah posisi, atau ditahan hardware yang longgar, batasi akses dan minta pemeriksaan kompeten. Jangan mengencangkan baut secara acak pada kaca; gaya lokal dapat memperburuk kerusakan. [NEEDS G-02/G-03: bukti jenis kaca keselamatan dan detail penahan proyek]
 
-### KR-20
+Jika korosi membuat kaki, engsel, atau pengikat kehilangan bentuk, lepaskan beban penggunaan pada bagian itu sampai ada keputusan teknis. Bila ada kebocoran, kondensasi, genangan, atau bau lembap, kendalikan sumber air dan ventilasi lebih dulu. Panduan pengendalian kelembapan EPA menekankan bahwa kebocoran, drainase, ventilasi, tepi, lubang pengikat, dan akses pengeringan memengaruhi ketahanan rakitan, bukan hanya ketahanan lembaran ([EPA Moisture Control Guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)).
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+Jangan menggerinda, mengecat ulang, atau memakai bahan kimia keras sebelum material dan lapisannya teridentifikasi. Tindakan tersebut bisa menghapus bukti, merusak lapisan pelindung, atau memindahkan kontaminan ke kaca dan sealant.
 
-## Evidence gates
+## Kemungkinan mekanisme di balik noda, karat, dan kegagalan sambungan
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Ada empat kelompok mekanisme yang layak dipisahkan: paparan air atau bahan pembersih; celah yang menahan air; kontak dua metal berbeda dalam kondisi basah (korosi galvanik); serta gerakan dan beban pada pintu, panel, atau substrat.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Korosi galvanik adalah korosi yang dipengaruhi kontak dua metal berbeda dalam elektrolit, misalnya air yang mengandung zat terlarut. Mekanismenya tidak dapat dinilai dari warna metal saja. Minta daftar material, lapisan, washer atau gasket pemisah, dan kondisi kelembapan pada sambungan. Tanpa data itu, tulis temuan sebagai “indikasi korosi pada antarmuka”, bukan diagnosis final.
 
-## Internal-link plan
+Pada kaca, periksa jenis dan tebal sesuai dokumen produk, perlindungan tepi, lubang, serta cara hardware menjepit atau menopang. Pada panel compact, istilah phenolic, HPL, dan compact tetap perlu dipasangkan dengan grade dan petunjuk fabrikasi; ketahanan terhadap lembap pada panel tidak membuktikan ketahanan anchor, pintu, atau metalnya (ISO 4586-4).
 
-### Existing local routes
+## Urutan pemeriksaan kaca, metal, dan sumber kelembapan
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Mulailah dari pemeriksaan tanpa sentuhan: petakan noda, retak, celah, posisi gasket, dan arah aliran air. Lalu cocokkan dengan gambar kerja, daftar material, lembar data, serta instruksi pembersihan. Catat merek dan kode produk hanya bila terbaca; jangan mengisi bagian yang hilang dari ingatan.
 
-### Planned sibling articles
+Berikutnya, telusuri sumber air: sambungan pipa, cipratan, kondensasi, kebocoran lantai, dan cara ruang dikeringkan. Periksa apakah air berkumpul di kaki panel atau mengalir melewati baut. Panduan EPA dapat membantu menyusun pertanyaan tentang pengendalian sumber dan pengeringan, tetapi bukan kode Indonesia atau ambang penggantian.
 
-These are future routes. Do not link them as live until their HTML exists.
+Uji pembersihan hanya dengan prosedur produk yang tersedia. Panduan pemeliharaan ASSA ABLOY Lorient dan sumber Bobrick menekankan pentingnya mengikuti instruksi komponen, termasuk pemeriksaan kekencangan, kebersihan, dan kondisi hardware; keduanya tidak menetapkan jadwal universal untuk semua cubicle ([ASSA ABLOY Lorient](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/)). Jangan mencampur bahan pembersih untuk “menguji” lapisan.
 
-- `CUB-06-B` → `/artikel/panel-phenolic-dan-compact-laminate.html` — Panel Phenolic dan Compact Laminate: Bukti yang Perlu Diperiksa
-- `CUB-06-C` → `/artikel/panel-pvc-dan-komposit.html` — Panel PVC dan Komposit: Ringan Bukan Berarti Selalu Tepat
-- `CUB-06-E` → `/artikel/panel-kayu-finishing-dan-kelembapan.html` — Panel Berbasis Kayu, Finishing, dan Risiko Kelembapan
-- `CUB-06-F` → `/artikel/persetujuan-sampel-finishing-cubicle.html` — Cara Menyetujui Sampel Warna, Tekstur, dan Finishing Cubicle
+Jika perlu pengukuran, tentukan terlebih dahulu pertanyaan yang hendak dijawab: apakah ada kemiringan, kelembapan terperangkap, atau kehilangan penampang metal? Metode, alat, dan kriteria penerimaan harus disetujui pihak kompeten serta pemilik produk. [NEEDS G-05/G-11: kategori paparan, bahan kimia, dan kriteria proyek]
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Cara membaca hasil pemeriksaan tanpa melompat ke kesimpulan
 
-## Mulai dari gejala, bukan tebakan penyebab
+Pisahkan lima hal dalam laporan: hasil pengamatan, metode, kriteria proyek, dugaan sebab, dan keputusan. “Bintik bertambah setelah tiga minggu” adalah pengamatan. “Korosi galvanik” adalah hipotesis yang memerlukan bukti pasangan material dan kondisi basah. “Aman dipakai” adalah keputusan yang harus merujuk pada kriteria dan kewenangan proyek.
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Kaca, Metal, dan Korosi pada Sistem Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Satu hasil negatif juga tidak membuktikan seluruh rakitan baik. Panel yang tidak berubah warna mungkin tetap memiliki baut longgar atau gasket gagal. Sebaliknya, noda permukaan yang dapat dibersihkan belum tentu berarti penggantian komponen. Minta penelusuran sebab sebelum perbaikan kosmetik berulang.
 
-## Saringan risiko langsung
+## Pilihan tindakan dan titik eskalasi untuk sistem cubicle
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Kaca, Metal, dan Korosi pada Sistem Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kontrol sementara dapat berupa membatasi akses, mengeringkan area dengan cara yang tidak merusak bahan, dan menandai komponen yang perlu diperiksa. Perbaikan hanya dipilih setelah sumber air, pasangan material, dan kondisi penahan dipahami. Penggantian dipertimbangkan ketika kaca atau hardware kehilangan fungsi, retak, berubah bentuk, atau bukti produk tidak lagi dapat diverifikasi. [NEEDS G-01/G-10: persyaratan keselamatan dan kesesuaian lokal]
 
-## Kemungkinan mekanisme
+Eskalasi ke spesialis diperlukan untuk desain struktural kaca, analisis penahan, kerusakan pada elemen bangunan, atau keputusan yang menyentuh sistem kebakaran dan listrik. Jangan menganggap sertifikat atau metode uji bahan sebagai bukti bahwa rakitan terpasang telah lulus; cakupan uji ISO/ASTM tidak menggantikan bukti sistem dan pemasangan.
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Kaca, Metal, dan Korosi pada Sistem Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas “stainless pasti bebas karat” yang perlu dihindari
 
-## Urutan pemeriksaan dan pengujian
+Mengganti semua aksesori dengan label “stainless” tanpa memeriksa grade, lapisan, pasangan metal, dan cara air mengering sering gagal. Korosi dapat muncul di ulir, bawah washer, atau tepi potongan, sementara sumbernya tetap aktif. Alternatif yang lebih andal adalah meminta matriks material dan paparan: komponen, lingkungan, titik kontak, bahan pembersih, serta cara inspeksi. Jika informasinya belum ada, tandai sebagai [NEEDS PRODUCT EVIDENCE] dan tunda klaim umur atau jaminan.
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Kaca, Metal, dan Korosi pada Sistem Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah berikutnya sebelum memilih atau menyetujui kaca dan metal
 
-## Cara membaca hasil tanpa melompat ke kesimpulan
+Aturan kerjanya: kaca, metal, dan korosi harus dinilai sebagai antarmuka dalam rakitan cubicle, sesuai paparan dan bukti produk. Kumpulkan lembar data, detail tepi dan hardware, peta kelembapan, serta catatan inspeksi; gunakan [beranda Cubicle.id](/) bila Anda perlu kembali ke konteks layanan, lalu minta spesialis menilai bagian struktural atau keselamatan yang belum terbukti.
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Kaca, Metal, dan Korosi pada Sistem Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pilihan tindakan dan titik eskalasi
-
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Kaca, Metal, dan Korosi pada Sistem Cubicle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Cubicle.id, bawa daftar itu ke rapat sampel dan tanyakan: jenis kaca apa, bagaimana tepinya dilindungi, metal apa yang bersentuhan, bagaimana air keluar, dan siapa yang menyetujui hasilnya. Tanpa jawaban terdokumentasi, keputusan terbaik adalah menahan klaim kinerja dan menyelesaikan review teknis terlebih dahulu.

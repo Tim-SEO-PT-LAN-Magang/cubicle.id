@@ -2,8 +2,9 @@
 article_id: CUB-07-E
 title: "Interface Kaca dan Hardware Cubicle: Risiko Tepi, Lubang, dan Tegangan"
 slug: "interface-kaca-dan-hardware-cubicle"
-description: "Explain processed-edge evidence, holes/cutouts, contact materials, tolerances, support, protection, replacement matching, and stop conditions"
-status: outline
+description: "Panduan memeriksa kecocokan tepi kaca, lubang, bahan kontak, toleransi, penopang, perlindungan, dan penggantian hardware cubicle."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,50 +16,24 @@ final_route: "/artikel/interface-kaca-dan-hardware-cubicle.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://www.iso.org/standard/72960.html"
-  - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
   - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+Halo, Teman Cubicle.id! Ketika kaca dipasangkan ke hardware cubicle, masalah biasanya bukan pada kaca atau engsel secara terpisah, melainkan pada titik pertemuan keduanya. Tepi yang belum dibuktikan prosesnya, lubang yang dipindah di lapangan, atau baut yang menjepit bahan berbeda dapat mengubah tegangan kecil menjadi retak, pintu seret, atau hardware longgar.
 
 # Interface Kaca dan Hardware Cubicle: Risiko Tepi, Lubang, dan Tegangan
 
-## Assignment lock
+Jawaban singkatnya: cocokkan bukti pemrosesan tepi dan lubang dengan gambar hardware, material kontak, toleransi, serta jalur penopang bangunan sebelum fabrikasi. Jangan menganggap label “kaca” atau “stainless” cukup. Kesimpulan dapat berubah bila jenis kaca, detail dudukan, kondisi dinding/lantai, dan tuntutan aksesibilitas proyek belum disahkan. Artikel ini membantu Anda menentukan apa yang harus diperiksa dan kapan pekerjaan harus dihentikan untuk ditinjau tenaga ahli.
 
-- **Writer task:** Expand this file into one complete article answering: “Interface Kaca dan Hardware Cubicle: Risiko Tepi, Lubang, dan Tegangan”
-- **Reader and situation:** Designer or installer coordinating glass cubicles
-- **Reader outcome:** Explain processed-edge evidence, holes/cutouts, contact materials, tolerances, support, protection, replacement matching, and stop conditions
-- **Primary intent:** Review glass-fitting compatibility
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Teman Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Kawan Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not provide glass engineering or field alteration instructions; qualified glazing specialists own design and fabrication
-- **Final public route:** `/artikel/interface-kaca-dan-hardware-cubicle.html`
-- **Appointed CMS date:** `2026-01-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Interface Kaca dan Hardware Cubicle: Risiko Tepi, Lubang, dan Tegangan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.id`, `Sobat Cubicle.id`, or `Kawan Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -69,139 +44,71 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Apa yang dimaksud interface kaca dan hardware cubicle?
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Sebelum memilih komponen, samakan dulu arti “interface”. Istilah ini berarti bidang pertemuan kaca, gasket atau bantalan, konektor, dan struktur penopang. Yang dinilai bukan hanya apakah lubang baut masuk, tetapi bagaimana gaya diteruskan, bagaimana permukaan bergerak, dan bagaimana bagian itu dirawat.
 
-### KR-01
+Ruang lingkup tulisan ini adalah pemeriksaan kompatibilitas dan koordinasi. Desain kaca, perhitungan tegangan, penentuan ukuran lubang, serta perubahan kaca di lapangan tetap menjadi tanggung jawab spesialis kaca yang berwenang. Jangan memakai artikel ini sebagai izin mengebor atau menggerinda panel terpasang.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Pada cubicle, konfigurasi panel, pilaster, pintu, engsel, pengunci, kaki, dan braket membentuk satu sistem. Petunjuk pemasangan pabrikan menunjukkan bahwa urutan dan konfigurasi memengaruhi celah, akses pembersihan, serta kebutuhan penopang; dokumen itu harus dibaca untuk produk yang benar, bukan disalin lintas merek (Bobrick, [petunjuk pemasangan](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
 
-### KR-03
+## Bagaimana gaya berpindah dari tepi kaca ke hardware?
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
+Bagian ini penting karena kegagalan sering dimulai dari asumsi bahwa baut hanya “menahan” kaca. Mula-mula, beban pintu atau panel masuk ke engsel, penjepit, atau konektor. Bantalan dan gasket menyebarkan kontak; kemudian gaya diteruskan ke tepi kaca, panel lain, braket, anchor, dan akhirnya lantai, dinding, atau struktur atas.
 
-### KR-08
+Lubang dan takikan memutus sebagian bidang material. Karena itu, jarak tepi, kualitas hasil potong, dan permukaan kontak perlu dibuktikan oleh fabrikator. Panduan fabrikasi compact laminate juga menekankan pengondisian material, lubang, dan perlakuan tepi sesuai produk; prinsip koordinasinya tidak boleh diterjemahkan menjadi ukuran universal untuk kaca (Formica, [fabrication guide](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)).
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+Periksa apakah hardware memberi kontak keras langsung, memakai washer, atau memerlukan gasket. Bahan yang berbeda dapat bergerak berbeda saat suhu dan kelembapan berubah. Jika baut dikencangkan tanpa ruang gerak yang dirancang, perubahan kecil dapat menjadi tekanan lokal. Keputusan praktisnya: minta potongan detail yang menunjukkan semua lapisan kontak dan nilai toleransi, bukan sekadar daftar hardware.
 
-### KR-09
+## Faktor yang mengubah risiko tepi, lubang, dan tegangan
 
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
+Setelah mekanismenya jelas, kelompokkan faktor berikut pada lembar koordinasi agar tidak ada pihak yang mengira pihak lain sudah memeriksanya.
 
-### KR-10
+**Jenis dan kondisi kaca.** Minta spesifikasi jenis kaca, status pemrosesan tepi, dan bukti bahwa lubang dibuat sebelum proses akhir yang disyaratkan produk. Retak rambut, serpihan, atau tepi tajam adalah alasan menahan pemasangan dan meminta keputusan spesialis.
 
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
+**Geometri bukaan.** Ukuran panel, posisi lubang, arah bukaan pintu, dan celah terhadap lantai atau dinding harus berasal dari gambar yang sama. Jangan menggeser lubang untuk mengejar anchor yang meleset tanpa persetujuan tertulis dari perancang dan fabrikator.
 
-## Evidence gates
+**Material kontak.** Pastikan jenis gasket, washer, sealant, dan lapisan pemisah kompatibel dengan kaca serta hardware. Kontak logam-ke-kaca tanpa pemisah yang sesuai dapat menciptakan titik tekan; klaim “tahan korosi” pada satu komponen tidak membuktikan ketahanan seluruh rakitan.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+**Penopang dan gerakan bangunan.** Kisi plafon bukan otomatis penopang struktural. Beban partisi, bukaan pintu, atau dinding tinggi perlu ditelusuri ke elemen pendukung yang benar. SNI 1727:2020 dan SNI 1726:2019 tercatat sebagai rujukan beban minimum dan gempa, sedangkan FEMA E-74 mengingatkan bahwa komponen nonstruktural dapat rusak ketika bergerak relatif terhadap bangunan; penerapannya harus ditinjau sesuai proyek Indonesia ([BSN SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [BSN SNI 1726:2019](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+**Penggunaan dan aksesibilitas.** Arah ayun, ruang pendekatan, pengoperasian pengunci, privasi, dan posisi fitting merupakan satu rangkaian. Permen PUPR No. 14/PRT/M/2017 menempatkan aksesibilitas sebagai persoalan rute dan penggunaan bangunan, bukan ukuran satu produk saja ([status peraturan BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)).
 
-## Internal-link plan
+## Contoh keputusan praktis sebelum fabrikasi
 
-### Existing local routes
+Gunakan tabel ringkas ini sebagai percakapan lintas disiplin, bukan sebagai pengganti perhitungan.
 
-- `/` — fallback home route; use only when it is genuinely useful.
+| Temuan | Keputusan sementara | Bukti yang diminta |
+|---|---|---|
+| Detail lubang belum mencantumkan tepi dan gasket | Tahan pemesanan kaca | Gambar detail disetujui fabrikator kaca dan pemasok hardware |
+| Anchor bertemu lapisan dinding yang belum pasti | Jangan mengebor di lapangan | Identifikasi substrat dan detail penopang dari pihak struktur |
+| Pintu berat atau bukaan sering dipakai | Minta tinjauan engsel dan jalur beban | Data produk, konfigurasi, dan persetujuan desain |
+| Panel pengganti berbeda ketebalan/finishing | Jangan campur komponen | Matriks kecocokan panel, lubang, gasket, dan hardware |
 
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `CUB-07-C` → `/artikel/interface-kabel-data-furniture-panel.html` — Interface Kabel, Data, Furniture, dan Panel pada Office Cubicle
-- `CUB-07-D` → `/artikel/anchor-dan-fastener-cubicle.html` — Anchor dan Fastener Cubicle: Bukti Substrate dan Beban
-- `CUB-07-F` → `/artikel/spare-part-dan-kompatibilitas-hardware.html` — Strategi Spare Part dan Kompatibilitas Hardware Cubicle
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Interface Kaca dan Hardware Cubicle: Risiko Tepi, Lubang, dan Tegangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Interface Kaca dan Hardware Cubicle: Risiko Tepi, Lubang, dan Tegangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Interface Kaca dan Hardware Cubicle: Risiko Tepi, Lubang, dan Tegangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Interface Kaca dan Hardware Cubicle: Risiko Tepi, Lubang, dan Tegangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Interface Kaca dan Hardware Cubicle: Risiko Tepi, Lubang, dan Tegangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sobat Cubicle.id, bila satu baris belum memiliki bukti, tandai sebagai terbuka. “Bisa dipasang” bukan bukti bahwa rakitan aman, awet, mudah dibersihkan, atau memenuhi aksesibilitas.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Interface Kaca dan Hardware Cubicle: Risiko Tepi, Lubang, dan Tegangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah mengukur panel lama lalu memesan panel baru tanpa memetakan hardware. Ukur saja tidak cukup: cocokkan nomor komponen, ketebalan, pola lubang, arah engsel, dan kondisi penopang. Jika salah satu berbeda, minta gambar penggantian yang disetujui.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah mengencangkan baut sampai tidak ada celah. Celah kerja harus mengikuti sistem yang ditentukan pemasok; teknisi tidak boleh menciptakan nilai sendiri. Periksa tanda tekanan, gasket terjepit tidak merata, dan pintu yang kembali membuka atau menutup dengan tidak wajar.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menganggap material panel otomatis membuktikan performa rakitan. Istilah compact, HPL, atau phenolic menjelaskan keluarga material, bukan jaminan untuk anchor, engsel, privasi, korosi, atau aksesibilitas. Minta dokumen produk yang tepat dan pisahkan klaim material dari klaim sistem.
 
-## Required conclusion
+### Kapan pekerjaan harus dihentikan?
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Hentikan pekerjaan bila kaca datang dengan tepi rusak, lubang tidak sesuai gambar, substrat anchor belum teridentifikasi, atau ada konflik antara arah ayun dan ruang pendekatan. Hentikan juga bila instruksi pemasok tidak tersedia atau pihak proyek meminta perubahan lapangan tanpa persetujuan spesialis. Catat lokasi, komponen, foto kondisi, dan nomor gambar; jangan “merapikan” bukti dengan modifikasi spontan.
 
-## Draft completion checklist
+## Jalan pintas yang tampak praktis tetapi berisiko
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalan pintas yang sering dipilih adalah memakai pola lubang dari proyek lain karena hardware terlihat sama. Cara ini gagal ketika ketebalan, toleransi, material kontak, atau struktur pendukung ternyata berbeda. Alternatif yang lebih aman adalah membuat lembar kecocokan untuk setiap bukaan: identitas kaca, detail tepi, koordinat lubang, gasket, hardware, penopang, dan pihak yang menyetujui.
+
+## Kesimpulan: cocokkan antarmuka, lalu minta tinjauan ahli
+
+Interface kaca dan hardware cubicle aman ditentukan oleh kecocokan seluruh jalur beban dan gerak—tepi, lubang, bahan kontak, toleransi, penopang, serta cara pakai—bukan oleh tampilan komponen yang serupa. Kawan Cubicle.id, jadikan gambar detail dan matriks kecocokan sebagai dokumen keputusan sebelum fabrikasi atau penggantian.
+
+Serahkan desain kaca, perhitungan, dan perubahan lapangan kepada spesialis kaca serta penanggung jawab struktur dan aksesibilitas proyek. Jika bukti utama belum tersedia, pertahankan penanda **[NEEDS TECHNICAL REVIEW: G-01/G-03/G-04/G-05/G-06]** dan jangan lanjutkan pengeboran atau pengencangan sampai keputusan tertulis diterima.
+
+Untuk menyiapkan koordinasi dokumen proyek, gunakan [beranda Cubicle.id](/) sebagai titik kembali ke informasi layanan dan kontak yang tersedia.

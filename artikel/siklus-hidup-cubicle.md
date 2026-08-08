@@ -2,8 +2,9 @@
 article_id: CUB-01-D
 title: "Siklus Hidup Cubicle dari Kebutuhan hingga Penggantian"
 slug: "siklus-hidup-cubicle"
-description: "Show survey, design, procurement, installation, handover, use, maintenance, repair, and end-of-life decision points"
-status: outline
+description: "Panduan praktis menata keputusan cubicle sejak survei kebutuhan, desain, pengadaan, pemasangan, serah terima, pemakaian, perbaikan, hingga keputusan penggantian."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-20"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,16 @@ final_route: "/artikel/siklus-hidup-cubicle.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
   - "https://www.iso.org/standard/72959.html"
   - "https://www.iso.org/standard/72961.html"
   - "https://www.iso.org/standard/72962.html"
   - "https://knauf.com/en-EG/systems/drywall-systems"
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
-  - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
   - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Siklus Hidup Cubicle dari Kebutuhan hingga Penggantian
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Siklus Hidup Cubicle dari Kebutuhan hingga Penggantian”
-- **Reader and situation:** Owner planning more than the purchase price
-- **Reader outcome:** Show survey, design, procurement, installation, handover, use, maintenance, repair, and end-of-life decision points
-- **Primary intent:** Plan lifecycle decisions
-- **Reader community:** `Cubicle.id`
-- **Primary friendly address:** `Teman Cubicle.id`
-- **Natural variants:** `Sobat Cubicle.id` and `Kawan Cubicle.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not provide maintenance intervals; CUB-12-A owns maintenance planning and CUB-13-F owns replacement choice
-- **Final public route:** `/artikel/siklus-hidup-cubicle.html`
-- **Appointed CMS date:** `2025-08-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Cubicle.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Siklus Hidup Cubicle dari Kebutuhan hingga Penggantian**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Cubicle.id`, `Sobat Cubicle.id`, or `Kawan Cubicle.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -68,140 +36,64 @@ sources:
 - **Selection basis:** filename/source metadata identifies `cubicle toilet` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Siklus Hidup Cubicle dari Kebutuhan hingga Penggantian
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Cubicle.id! Cubicle tidak berhenti pada memilih panel lalu memasangnya. Keputusan yang murah di awal dapat menjadi mahal ketika ukuran ruang berubah, hardware longgar, kelembapan memengaruhi material, atau dokumen serah terima hilang. Siklus hidup membantu Anda mengatur keputusan dari kebutuhan sampai akhir pemakaian berdasarkan kondisi dan bukti, bukan umur perkiraan.
 
-### KR-01
+Urutannya adalah: tetapkan kebutuhan dan kondisi ruang, rancang sistem yang sesuai, verifikasi pengadaan, pasang dan serahterimakan dengan catatan, lalu pantau perubahan. Saat ada masalah, bedakan pembersihan, perbaikan, penguatan, dan penggantian. Kesimpulan dapat berubah bila fungsi ruang, paparan air, beban pada hardware, atau persyaratan keselamatan berubah; detail tersebut perlu ditinjau oleh pihak berwenang pada proyek.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `cubicle.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi cubicle toilet](/wp-content/uploads/2023/03/cubicle-toilet.jpg)
 
-### KR-02
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+## Menetapkan objek cubicle, kondisi awal, dan tahap siklus hidup
 
-### KR-05
+Sebelum memilih bahan, pastikan semua pihak membicarakan objek yang sama. “HPL” dapat berarti lembar laminasi dekoratif, sedangkan compact laminate adalah panel mandiri; keduanya berbeda dari sistem cubicle terpasang. Ringkasan ISO untuk seri 4586 membedakan laminasi dekoratif dan compact laminate, sementara sistem papan gipsum juga memiliki susunan rangka dan lapisan sendiri ([ISO 4586-1](https://www.iso.org/standard/72959.html), [ISO 4586-3](https://www.iso.org/standard/72961.html), [ISO 4586-4](https://www.iso.org/standard/72962.html), [Knauf](https://knauf.com/en-EG/systems/drywall-systems)).
 
-- **Original sources:** [ISO 4586-1:2018 overview of the HPL series](https://www.iso.org/standard/72959.html), [ISO 4586-3:2018 thin HPL for bonding to a support](https://www.iso.org/standard/72961.html), [ISO 4586-4:2018 interior compact laminate](https://www.iso.org/standard/72962.html), [Knauf drywall systems overview](https://knauf.com/en-EG/systems/drywall-systems)
-- **Purpose for this article:** Prevent the catalog from treating HPL, compact laminate, gypsum board, framing, and a complete partition as synonyms.
-- **Safe grounded facts:** A decorative laminate sheet, a self-supporting compact panel, a composite panel, and an installed cubicle are different objects. Likewise, board type does not establish stud size, height capacity, impact resistance, acoustic performance, fire performance, or suitability around services.
-- **Limits:** ISO abstracts do not expose classifications or test values. Named manufacturer configurations are not universal and must be matched to locally supplied documents; resolve `G-05`.
+Mulailah dengan lembar kebutuhan: fungsi ruang, jumlah bilik, akses pengguna, jalur pembersihan, kondisi lantai dan plafon, serta layanan yang berdekatan. Catat apa yang benar-benar terlihat—misalnya noda air, pintu tidak menutup, atau kaki panel bergeser—dan pisahkan dari dugaan penyebab. PP No. 16 Tahun 2021 menempatkan keselamatan, kesehatan, kenyamanan, kemudahan, fungsi, pemeliharaan, dan penggunaan dalam kerangka bangunan; label produk saja tidak membuktikan kepatuhan proyek ([PP No. 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)).
 
-### KR-07
+Keputusan awal yang baik menjawab: apakah ini instalasi baru, perubahan tata letak, atau pemulihan sistem lama? Bila jawabannya belum jelas, tahan pemesanan dan minta tinjauan desain. [NEEDS G-01/G-02: kriteria kepatuhan dan persetujuan proyek belum tersedia.]
 
-- **Original sources:** [SNI 9144-1:2022 laminated safety glass detail record — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass detail record — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)
-- **Purpose for this article:** Keep glass/aluminium partition selection tied to safety-glass identity, support, edge condition, human impact, doors, and installed context.
-- **Safe grounded facts:** Tempered and laminated products answer different breakage and retention questions. Product conformity does not determine project thickness, panel size, holes/cut-outs, edge support, fittings, guard/fall function, manifestation, door hardware, or frame/anchor adequacy.
-- **Limits:** Full SNI text, project design, and current supplier evidence are required before exact criteria or a compliance statement. Resolve `G-01`, `G-03`, and `G-13`.
+## Memahami mekanisme perubahan kinerja tanpa menebak umur layanan
 
-### KR-09
+Setelah kondisi awal tercatat, hubungkan perubahan dengan mekanismenya. Air dan kelembapan dapat memengaruhi dimensi compact laminate; lubang, jarak tepi, pengikat, ventilasi, dan pengondisian material tidak boleh diimprovisasi dari nama bahan saja ([Formica Compact fabrication guidance](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)).
 
-- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
-- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
-- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
+Sistem terpasang juga terdiri dari panel, tiang, pintu, kait, engsel, kaki, rel kepala, braket, angkur, celah, dan tumpuan bangunan. Instruksi pemasangan Bobrick menunjukkan bahwa konfigurasi dan urutan pemasangan memengaruhi jalur beban, kestabilan, akses pembersihan, serta tuntutan lantai dan plafon ([petunjuk pemasangan Bobrick 2040](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)). Itu contoh dokumentasi produsen, bukan ukuran universal untuk proyek Anda.
 
-## Evidence gates
+Sobat Cubicle.id, ketika pintu mulai seret, jangan langsung menyimpulkan panel harus diganti. Periksa apakah engsel, kaki, tumpuan, atau perubahan lantai yang memicu gejala. Jika ada retak, tepi terkelupas, sambungan lepas, atau risiko pengguna terjepit, hentikan pemakaian bagian tersebut dan minta pemeriksaan kompeten. [NEEDS G-03/G-05: data sistem dan kondisi pemasangan lokal diperlukan untuk menilai mekanisme.]
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+## Menginspeksi dan mencatat data yang dapat dibandingkan
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Inspeksi yang berguna menghasilkan catatan yang bisa dibandingkan, bukan sekadar foto. Beri identitas tiap bilik atau modul, tanggal pengamatan, lokasi gejala, dan kondisi saat ditemukan. Foto keseluruhan menunjukkan konteks; foto dekat menunjukkan sambungan, hardware, dan tepi. Jangan mengukur atau menguji bagian yang berisiko tanpa kewenangan dan alat yang tepat.
 
-## Internal-link plan
+Catat perubahan fungsi: pintu gagal mengunci, celah berubah, panel bergoyang, air tertahan, atau akses pembersihan terganggu. Sertakan riwayat pekerjaan dan dokumen produk yang benar-benar diterima. Untuk kaca, identitas tempered dan laminated menjawab pertanyaan pecah serta retensi yang berbeda, tetapi tidak menentukan ketebalan, ukuran, lubang, tepi, fitting, atau kecukupan angkur pada proyek ([SNI 9144-1:2022](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022)). [NEEDS G-07/G-13: bukti inspeksi dan tinjauan keselamatan setempat belum ada.]
 
-### Existing local routes
+## Memilih pemantauan, perawatan, perbaikan, atau penggantian
 
-- `/` — fallback home route; use only when it is genuinely useful.
+Dengan data di tangan, pilih intervensi paling kecil yang mengembalikan fungsi tanpa menyembunyikan risiko. Pemantauan cocok bila gejala stabil dan tidak menyentuh keselamatan. Pembersihan atau penyetelan dapat dipilih bila penyebabnya jelas dan akses kerja aman. Perbaikan atau penguatan memerlukan kesesuaian komponen, tumpuan, serta instruksi produsen; penggantian dipertimbangkan bila kerusakan berulang, sistem tidak lagi cocok dengan fungsi, atau bukti desain dan komponennya tidak dapat dipulihkan.
 
-### Planned sibling articles
+Jangan menetapkan interval perawatan di halaman ini. Simpan keputusan, alasan, komponen yang disentuh, dan pemeriksaan setelah pekerjaan. Bila perubahan tata ruang memindahkan angkur atau layanan, perlakukan sebagai perubahan desain dan minta persetujuan teknis. [NEEDS G-04/G-06: kriteria penerimaan, garansi, dan kecocokan komponen belum terverifikasi.]
 
-These are future routes. Do not link them as live until their HTML exists.
+## Menentukan prioritas berdasarkan konsekuensi dan otoritas
 
-- `CUB-01-B` → `/artikel/kamus-cubicle-dan-kubikel.html` — Kamus Cubicle dan Kubikel untuk Brief, Gambar, dan Penawaran
-- `CUB-01-C` → `/artikel/anatomi-sistem-cubicle.html` — Anatomi Sistem Cubicle: Panel, Rangka, Hardware, dan Interface
-- `CUB-01-E` → `/artikel/kapan-cubicle-tidak-perlu-diganti.html` — Kapan Cubicle Tidak Perlu Diganti?
-- `CUB-01-F` → `/artikel/membaca-ukuran-dan-notasi-cubicle.html` — Cara Membaca Ukuran dan Notasi pada Gambar Cubicle
+Prioritas bukan perlombaan mengganti bagian tertua. Dahulukan kondisi yang berpotensi mencederai pengguna, mengganggu akses, menimbulkan kebocoran, atau menghentikan fungsi ruang. Berikutnya tangani gejala yang mempercepat kerusakan dan pekerjaan yang dapat dilakukan tanpa membuka sistem utama.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Gunakan matriks sederhana: konsekuensi bila gagal, kemungkinan memburuk berdasarkan catatan, kemudahan mengisolasi area, dan otoritas siapa yang boleh menyetujui pekerjaan. Harga pembelian hanya satu unsur biaya siklus hidup; waktu henti, bongkar-pasang, pembuangan, dan kebutuhan penyesuaian ruang juga perlu dicatat. Kawan Cubicle.id, jika bukti teknis belum lengkap, prioritas yang aman adalah pemeriksaan dan pembatasan penggunaan—bukan klaim “sudah sesuai”.
 
-## Tentukan objek, kondisi, dan tahap siklus hidup
+## Menjaga rekaman, serah terima, dan pemicu pemeriksaan ulang
 
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Siklus Hidup Cubicle dari Kebutuhan hingga Penggantian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Serah terima harus meninggalkan jejak yang dapat dipakai pemilik berikutnya. Kumpulkan gambar terpasang, daftar modul dan hardware, lembar data produk, instruksi pembersihan, catatan perubahan, hasil pemeriksaan, serta batasan penggunaan yang disepakati. Tandai dokumen yang belum diterima; jangan mengisinya dengan asumsi.
 
-## Mekanisme perubahan atau penurunan kinerja
+Tetapkan pemicu pemeriksaan ulang, bukan jadwal angka: perubahan fungsi ruang, kebocoran atau pekerjaan lantai, benturan, keluhan akses, penggantian hardware, dan perubahan persyaratan bangunan. Setelah pemicu terjadi, bandingkan catatan baru dengan baseline dan minta peninjauan profesional bila keputusan menyentuh keselamatan atau kepatuhan.
 
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Siklus Hidup Cubicle dari Kebutuhan hingga Penggantian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas “ganti semua” dan mengapa perlu diuji
 
-## Inspeksi dan data yang perlu dicatat
+Mengganti seluruh cubicle memang tampak cepat, tetapi dapat membuang komponen yang masih layak dan mengulang masalah tumpuan atau tata letak. Sebaliknya, menambal tanpa memahami jalur beban bisa membuat gejala kembali. Alternatif yang lebih andal adalah memetakan modul, mengisolasi penyebab, meminta bukti sistem dari pemasok, lalu memilih perbaikan atau penggantian yang dapat diterima secara teknis.
 
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Siklus Hidup Cubicle dari Kebutuhan hingga Penggantian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah berikutnya untuk keputusan siklus hidup cubicle
 
-## Pilihan perawatan atau intervensi
+Siklus hidup cubicle berarti setiap tahap meninggalkan dasar keputusan untuk tahap berikutnya: kebutuhan dan survei, desain sistem, pengadaan yang dapat dilacak, pemasangan, serah terima, penggunaan, inspeksi, intervensi, lalu keputusan akhir. Mulailah dengan baseline satu halaman dan kumpulkan dokumen sistem yang terpasang. Gunakan rujukan [beranda Cubicle.id](/) hanya bila Anda perlu kembali ke konteks layanan.
 
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Siklus Hidup Cubicle dari Kebutuhan hingga Penggantian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara menentukan prioritas
-
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Siklus Hidup Cubicle dari Kebutuhan hingga Penggantian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Rekaman, handover, dan pemicu pemeriksaan ulang
-
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Siklus Hidup Cubicle dari Kebutuhan hingga Penggantian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Cubicle.id!` and uses friendly `Cubicle.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasinya sederhana: jangan menyimpulkan penggantian dari usia atau label bahan saja. Putuskan berdasarkan fungsi, kondisi nyata, bukti sistem, dan tinjauan pihak yang berwenang. Untuk kriteria keselamatan, kepatuhan, dan penerimaan proyek, [NEEDS TECHNICAL REVIEW: G-01 sampai G-14 yang relevan harus diselesaikan sebelum keputusan final].
